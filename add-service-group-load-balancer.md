@@ -15,7 +15,7 @@ After a {{site.data.keyword.loadbalancer_short}} has been added, a new Service G
 2. Select the desired Group Type from the **Group** dropdown list and select the desired Balancing Method from the **Method** dropdown list. Refer to the [Load Balancing Methods](load_balancing_methods.html) for more information on each load balancing method.
 3. Enter the port number that will be used for the service group in the **Virtual Port** field. Refer to the [Common Service Ports FAQ](load-balancing-faqs-2.html#what-services-can-be-load-balanced-) for more information. 
 
-	**Note:** Each Service Group must be assigned to a unique port. If a unique port is not assigned, an error will appear at the top of the page and the Service Group may not be added until a unique Virtual Portal is assigned.
+	**Note:** Each Service Group must be assigned to a unique port. If a unique port is not assigned, an error will appear at the top of the page and the Service Group may not be added until a unique virtual portal is assigned.
 4. Enter an allocation in the **Allocation** field.
 5. Enter any notes in the **Notes** text box, if desired.
 6. Click the **Save Configuration** button to add the new Service Group. Click **Cancel** to cancel the action.
