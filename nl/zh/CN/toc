@@ -1,0 +1,37 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection=“local-loadbalancer" audience="network" href="/docs/infrastructure/local-loadbalancer/getting-started.html"}
+IBM 本地负载均衡器
+
+    {: .navgroup id="learn"}
+    getting-started.md
+    about.md
+    [负载均衡器一览](https://console.bluemix.net/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers)
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    view-all-load-balancers.md
+    add-service-group-load-balancer.md
+    add-service-service-group.md
+    edit-service-group.md
+    reset-connections-service-group.md
+    delete-service-group.md
+    edit-service-load-balancer.md
+    delete-service-load-balancer.md
+    configure-health-checks-service-group.md
+    configure-ssl-offloading-load-balancer.md
+    configure-weights-my-load-balancer.md
+    upgrade-my-connections-limit.md
+    {: .navgroup-end}
+    
+    {: .navgroup id="reference"}
+    import-ssl-cert.md
+    load_balancing_methods.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    load-balancing-faqs-2.md
+    load-balancer-caveats.md
+    getting-help.md
+    {: .navgroup-end}
