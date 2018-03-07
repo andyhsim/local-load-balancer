@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017
-lastupdated: "2017-10-12"
+  years: 2017,2018
+lastupdated: "2018-02-28"
 
 ---
 
@@ -20,8 +20,8 @@ If you have problems or questions when using the IBM Local Load Balancer, you ca
 
 When using the forums to ask a question, tag your question so that it is seen by the IBM Cloud development teams.
 
-* If you have technical questions about the IBM Local Load Balancer, post your question on [Stack Overflow](https://stackoverflow.com/search?q=local-loadbalancer+ibm-bluemix) and tag your question with "local-loadbalancer" and "ibm-bluemix".
-* For questions about the service and getting started instructions, use the [IBM developerWorks dW Answers](https://developer.ibm.com/answers/topics/local-loadbalancer.html?smartspace=bluemix) forum. Include the "local-loadbalancer" and "bluemix" tags.
+* If you have technical questions about the IBM Local Load Balancer, post your question on [Stack Overflow](https://stackoverflow.com/search?q=local-loadbalancer+ibm-bluemix) and tag your question with "local-loadbalancer" and "ibm-cloud".
+* For questions about the service and getting started instructions, use the [IBM developerWorks dW Answers](https://developer.ibm.com/answers/topics/local-loadbalancer.html?smartspace=ibm-cloud) forum. Include the "local-loadbalancer" and "ibm-cloud" tags.
 
 See [Getting help](https://console.bluemix.net/docs/support/index.html#getting-help) for more details about using the forums.
 
