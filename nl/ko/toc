@@ -2,12 +2,12 @@
 {:topicgroup: .topicgroup}
 
 {: .toc subcollection=“local-loadbalancer" audience="network" href="/docs/infrastructure/local-loadbalancer/getting-started.html"}
-IBM 로컬 로드 밸런서
+IBM Local Load Balancer
 
     {: .navgroup id="learn"}
     getting-started.md
     about.md
-    [로드 밸런서 탐색](https://console.bluemix.net/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers)
+    [Load Balancers 탐색](../loadbalancer-service/explore-load-balancers.html)
     {: .navgroup-end}
 
     {: .navgroup id="howto"}

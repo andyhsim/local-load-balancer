@@ -9,7 +9,7 @@ lastupdated: "2017-11-02"
 
 
 # Häufig gestellte Fragen
-Dieser Abschnitt enthält Antworten auf häufig gestellte Fragen zur lokalen Lastausgleichsfunktion.
+Dieser Abschnitt enthält Antworten auf häufig gestellte Fragen zu Local Load Balancer.
 
 ## Welche Produkte für den Lastausgleich bietet IBM?
 Einen detaillierten Vergleich der Angebote für den Lastausgleich in IBM Cloud finden Sie im Thema [ ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://dev-console.bluemix.net/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
@@ -26,11 +26,11 @@ Mit einer Servicegruppe konfigurieren Sie die Art und Weise, wie Clients mit der
 
 ## Warum erhalte ich bei der Verwendung der SSL-Auslagerung Gateway-Fehler des Typs 502?
 
-Diese Art von Fehlern treten normalerweise dann auf, wenn der abgehende Port der Lastausgleichsfunktion auf Port 443 festgelegt ist. Wenn der Lastausgleich aktiviert ist, muss abgehender Datenverkehr an den Server an den Nicht-SSL-Port des Servers geleitet werden. Dies ist in der Regel Port 80 für HTTP.
+Diese Art von Fehlern treten normalerweise dann auf, wenn der abgehende Port der Lastausgleichsfunktion auf Port 443 festgelegt ist.  Wenn der Lastausgleich aktiviert ist, muss abgehender Datenverkehr an den Server an den Nicht-SSL-Port des Servers geleitet werden.  Dies ist in der Regel Port 80 für HTTP.
 
 ## Kann ich mehrere SSL-Zertifikate für eine einzelne Lastausgleichsfunktion haben?
 
-Dies ist in bestimmten Konfigurationen möglich. Als allgemeine Regel gilt ein SSL-Zertifikat pro virtuelle IP (VIP). Eine lokale Lastausgleichsfunktion unterstützt nur eine einzelne virtuelle IP, dies kann jedoch mit unseren dedizierten und unternehmensorientierten Lastausgleichsfunktionen erweitert werden.
+Dies ist in bestimmten Konfigurationen möglich.  Als allgemeine Regel gilt ein SSL-Zertifikat pro virtuelle IP (VIP). Eine lokale Lastausgleichsfunktion unterstützt nur eine einzelne virtuelle IP, dies kann jedoch mit unseren dedizierten und unternehmensorientierten Lastausgleichsfunktionen erweitert werden.
 
 ## Was ist ein virtueller Port?
 
@@ -58,7 +58,7 @@ Diese Option ist nur durch das Öffnen eines Tickets verfügbar.
 
 ## Welche Lastausgleichsmethoden stehen im Rahmen einer Lastausgleichsfunktion zur Verfügung?
 
-IBM Cloud bietet verschiedene Lastausgleichsmethoden, darunter Einzel- und Hybridmethoden. Weitere Informationen zu den aktuell angebotenen Lastausgleichsmethoden finden Sie unter [Lastausgleichsmethoden](load_balancing_methods.html).
+IBM Cloud bietet verschiedene Lastausgleichsmethoden, darunter Einzel- und Hybridmethoden.  Weitere Informationen zu den aktuell angebotenen Lastausgleichsmethoden finden Sie unter [Lastausgleichsmethoden](load_balancing_methods.html).
 
 ## Ist es möglich, für mit SSL verschlüsselten Datenverkehr einen Lastausgleich mit Sitzungsattraktivität durchzuführen?
 

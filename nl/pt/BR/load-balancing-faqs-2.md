@@ -8,7 +8,7 @@ lastupdated: "2017-11-02"
 {:new_window: target="_blank"}
 
 
-# Perguntas Frequentes
+# Perguntas mais frequentes
 Este tópico contém respostas às perguntas mais frequentes sobre o Local Load Balancer.
 
 ## Quais produtos de balanceamento de carga a IBM oferece?
@@ -35,13 +35,13 @@ Um grupo de serviços é o meio pelo qual você configura a maneira como os clie
 ## Por que estou recebendo erros 502 Gateway ao usar a transferência SSL?
 
 Isso normalmente é causado pela porta de saída do balanceador de carga sendo
-configurada como porta 443. Se o balanceamento de carga estiver ativado, o tráfego de
-saída, para seu servidor, precisará ser configurado para a porta não SSL do servidor. Esta
+configurada como porta 443.  Se o balanceamento de carga estiver ativado, o tráfego de
+saída, para seu servidor, precisará ser configurado para a porta não SSL do servidor.  Esta
 geralmente é a porta 80 para HTTP.
 
 ## Posso ter diversos certificados SSL em um único balanceador de carga?
 
-Isso é possível em determinadas configurações. A regra geral é um certificado SSL
+Isso é possível em determinadas configurações.  A regra geral é um certificado SSL
 por IP virtual (VIP). Um balanceador de carga local suporta apenas um único VIP, mas isso
 pode ser aumentado em nossos balanceadores de carga dedicados e corporativos.
 
@@ -75,7 +75,7 @@ Essa opção está disponível somente abrindo um chamado.
 
 ## Quais métodos de balanceamento estão disponíveis com um balanceador de carga?
 
-O IBM Cloud oferece vários métodos de balanceamento, incluindo únicos e híbridos. Consulte
+O IBM Cloud oferece vários métodos de balanceamento, incluindo únicos e híbridos.  Consulte
 [Métodos de balanceamento de carga](load_balancing_methods.html) para
 obter mais informações sobre cada método de balanceamento de carga que atualmente
 oferecemos.

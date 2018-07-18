@@ -9,7 +9,7 @@ lastupdated: "2018-01-24"
 
 # Configuration des pondérations pour l'équilibreur de charge
 
-Le système des pondérations permet d'attribuer une valeur numérique aux serveurs auxquels vous souhaitez affecter le plus gros trafic. Une valeur élevée indique une priorité élevée à condition que le serveur soit en ligne conformément aux diagnostics d'intégrité.   
+Le système des pondérations permet d'attribuer une valeur numérique aux serveurs auxquels vous souhaitez affecter le plus gros trafic. Une valeur élevée indique une priorité élevée à condition que le serveur soit en ligne conformément aux diagnostics d'intégrité.  
 
 Par exemple, si le _server1_ a une pondération de 80 et le _server2_ une pondération de 20, sur 10 connexions reçues, le _server1_ reçoit 8 connexions et le _server2_ 2. Si le _server1_ est déconnecté ou retiré du pool, toutes les connexions sont reçues à partir du _server2_.
 

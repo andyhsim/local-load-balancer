@@ -9,7 +9,7 @@ lastupdated: "2018-01-24"
 
 # Configurazione dei pesi per il programma di bilanciamento del carico
 
-I pesi sono un sistema di assegnazione di valori numerici ai server che desideri ricevano più traffico. Un numero più elevato rappresenta una priorità più elevata a condizione che il server sia online in base ai controlli dell'integrità.   
+I pesi sono un sistema di assegnazione di valori numerici ai server che desideri ricevano più traffico. Un numero più elevato rappresenta una priorità più elevata a condizione che il server sia online in base ai controlli dell'integrità.  
 
 Ad esempio, se _server1_ ha un peso di 80 e _server2_ ha un peso di 20, per ogni 10 connessioni che arrivano, a _server1_ ne verranno allocate 8 e a _server2_ ne verranno allocate 2. Se _server1_ va offline o viene rimosso dal pool, tutte le connessioni andranno a _server2_.
 

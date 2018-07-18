@@ -22,7 +22,7 @@ Suivez les étapes ci-dessous pour modifier un service.
       - **HTTP :** La vérification de l'écoute de l'adresse IP sur le port 80 renvoie le code HTTP 200 (OK).
       - **HTTP-PERSO :** Similaire au protocole HTTP, si ce n'est que vous affectez le type de connexion, l'emplacement de votre diagnostic d'intégrité et la réponse que vous anticipez. Il s'agit d'une option avancée.
       - **Ping :** Test ping simple sur le protocole ICMP.
-      - **TCP :** Similaire au test ping, mais sur un réseau explicitement TCP. Cette option doit être utilisée si vos connexions ICMP sont bloquées.
+      - **TCP :** Similaire au test ping, mais sur un réseau explicitement TCP.  Cette option doit être utilisée si vos connexions ICMP sont bloquées.
   - **Pondération :** Priorité numérique accordée au service. Le système de pondération permet d'attribuer une valeur numérique aux serveurs devant recevoir le plus gros trafic. Une valeur élevée indique une priorité élevée à condition que le serveur soit en ligne conformément aux diagnostics d'intégrité. Par exemple, si le _server1_ a une pondération de 80 et le _server2_ une pondération de 20, sur 10 connexions reçues, le _server1_ reçoit 8 connexions et le _server2_ 2. Si le _server1_ est déconnecté ou retiré du pool, toutes les connexions sont reçues à partir du _server2_.
   - **Notes :**  Zone de texte libre.
   - **Activé(e) :** Cochez ou décochez cette case pour activer ou désactiver le service.

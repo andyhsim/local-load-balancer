@@ -24,10 +24,10 @@ Siga as etapas abaixo para editar um grupo de serviços existente para um
 1. Na página [Detalhes do Local Load
 Balancer](view-all-load-balancers.html), expanda os detalhes do Grupo de serviços clicando no ícone de expansão
 no lado esquerdo da linha correspondente ao Grupo de serviços que você gostaria de
-editar. 
+editar.
 2. Atualize as configurações do grupo de serviços:
   - **Método:** selecione um [Método de balanceamento](load_balancing_methods.html) na lista suspensa.
-  - **Porta virtual:** o número da porta que será usada para o grupo de serviços. Consulte o [FAQ de portas de serviço comum](load-balancing-faqs-2.html#what-services-can-be-load-balanced-) para obter mais informações. 
+  - **Porta virtual:** o número da porta que será usada para o grupo de serviços. Consulte as [Perguntas mais frequentes de portas de serviço comum](load-balancing-faqs-2.html#what-services-can-be-load-balanced-) para obter mais informações. 
 
   	**Nota:** cada Grupo de serviços deve ser designado a uma porta exclusiva. Se uma porta exclusiva não for designada, um erro aparecerá na parte superior da página e o Grupo de serviços poderá não ser incluído até que um Portal Virtual exclusivo seja designado.
   - **Alocação:** a alocação para o grupo de serviços.

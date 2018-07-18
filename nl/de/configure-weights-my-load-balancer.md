@@ -9,7 +9,7 @@ lastupdated: "2018-01-24"
 
 # Gewichtungen für die Lastausgleichsfunktion konfigurieren
 
-Gewichtungen dienen dazu, numerische Werte den Servern zuzuweisen, die mehr Datenverkehr empfangen sollen. Eine höhere Zahl steht für eine höhere Priorität, solange der Server laut Statusprüfung online ist.   
+Gewichtungen dienen dazu, numerische Werte den Servern zuzuweisen, die mehr Datenverkehr empfangen sollen. Eine höhere Zahl steht für eine höhere Priorität, solange der Server laut Statusprüfung online ist.  
 
 Wenn _Server1_ beispielsweise die Gewichtung '80' aufweist und _Server2_ die Gewichtung '20', werden für jede 10 Verbindungen, die durchkommen, _Server1_ 8 und _Server2_ 2 zugeordnet. Wenn _Server1_ offline geht oder aus dem Pool entfernt wird, gehen alle Verbindungen an _Server2_.
 

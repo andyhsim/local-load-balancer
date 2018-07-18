@@ -7,7 +7,7 @@ Equilibreur de charge local IBM
     {: .navgroup id="learn"}
     getting-started.md
     about.md
-    [Découverte les équilibreurs de charge](https://console.bluemix.net/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers)
+    [Découverte les équilibreurs de charge](../loadbalancer-service/explore-load-balancers.html)
     {: .navgroup-end}
 
     {: .navgroup id="howto"}

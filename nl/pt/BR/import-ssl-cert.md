@@ -10,9 +10,9 @@ lastupdated: "2018-01-24"
 # Importar certificado SSL
 
 Após a emissão de um certificado SSL para um website, ele pode ser importado no
-Portal do cliente. Importando certificados SSL no Portal do cliente, os certificados
+Portal do cliente. Importando SSL Certificates no Portal do cliente, os certificados
 podem ser aplicados a produtos e serviços que possam exigi-los, como transferência SSL de
-um balanceador de carga. Por padrão, os certificados SSL emitidos pelo IBM Cloud não são
+um balanceador de carga. Por padrão, os SSL Certificates emitidos pelo IBM Cloud não são
 importados para a lista, visto que se destinam a ser manipulados apenas pelo destinatário. Portanto,
 qualquer certificado SSL para uso com um produto ou serviço IBM Cloud deve ser
 importado manualmente por um usuário autorizado na conta.
@@ -22,7 +22,7 @@ cliente.
 
 1. Em seu navegador, abra [Portal do Cliente ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window} e efetue login em sua conta.
 2. Na navegação do Portal do cliente, selecione **Segurança > SSL > Certificados**.
-3. Clique no link **Importar certificado SSL** no lado superior direito da página **Certificados SSL**.
+3. Clique no link **Importar certificado SSL** no lado superior direito da página **SSL Certificates**.
 2. Insira os Detalhes do certificado SSL. 
 
 	**Nota:** os detalhes inseridos na caixa pop-up Importar certificado
@@ -38,8 +38,8 @@ fizerem parte do certificado. Não mude a CSR de maneira alguma. Uma chave públ
   - **Notas:** quaisquer notas sobre o certificado SSL que possam ser úteis para outros usuários.
 4. Clique em **Importar** para importar o certificado SSL. Clique em **Cancelar** para cancelar a ação.
 
-Após a importação do certificado SSL para o Portal do cliente, ele será armazenado
-na tela Certificados SSL até que seja excluído manualmente. Para todos os produtos ou
+Após a importação do SSL Certificate para o Portal do cliente, ele será armazenado
+na tela SSL Certificates até que seja excluído manualmente. Para todos os produtos ou
 serviços que requerem detalhes do certificado SSL, o novo certificado SSL aparecerá na
 lista de certificados disponíveis para uso ao interagir com o recurso SSL do produto
 ou serviço desejado. É possível atualizar o certificado ou fazer download de forma segura

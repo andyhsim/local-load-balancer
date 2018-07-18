@@ -14,7 +14,7 @@ Los equilibradores de carga tienen la capacidad de proporcionar la descarga SSL,
 1. Desde la página [Detalles de equilibradores de carga local](view-all-load-balancers.html), pulse en **Acciones > Configurar SSL** en el menú desplegable para el equilibrador de carga.
 2. Seleccione el certificado SSL deseado desde el recuadro desplegable **Certificado**. Tenga en cuenta lo siguiente:
   - Los IP virtuales (VIP) de {{site.data.keyword.loadbalancer_short}} no dedicados están limitados a un tamaño de bits de certificado SSL máximo de 2048.
-  - Debe almacenarse al menos un certificado SSL en el Portal del cliente para completar correctamente este paso. Consulte [Importar un certificado SSL](import-ssl-cert.html).
+  - Debe almacenarse al menos un certificado SSL en el Portal de clientes para completar correctamente este paso. Consulte [Importar un certificado SSL](import-ssl-cert.html).
 3. Seleccione el recuadro de selección **Habilitado**.
 4. Seleccione los cifrados que desee soportar.
 5. Pulse el botón **Actualizar**.

@@ -7,7 +7,7 @@ IBM 本地负载均衡器
     {: .navgroup id="learn"}
     getting-started.md
     about.md
-    [负载均衡器一览](https://console.bluemix.net/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers)
+    [Explore Load Balancers](../loadbalancer-service/explore-load-balancers.html)
     {: .navgroup-end}
 
     {: .navgroup id="howto"}

@@ -28,9 +28,9 @@ suspensa **Método**. Consulte
 [Métodos de balanceamento de carga](load_balancing_methods.html) para
 obter mais informações sobre cada método de balanceamento de carga.
 3. Insira o número da porta que será usado para o grupo de serviços no campo
-**Porta virtual**. Consulte o [FAQ de portas de serviço comum](load-balancing-faqs-2.html#what-services-can-be-load-balanced-) para obter mais informações. 
+**Porta virtual**. Consulte as [Perguntas mais frequentes de portas de serviço comum](load-balancing-faqs-2.html#what-services-can-be-load-balanced-) para obter mais informações. 
 
-	**Nota:** cada Grupo de serviços deve ser designado a uma porta exclusiva. Se uma porta exclusiva não for designada, um erro aparecerá na parte superior da página e o Grupo de serviços poderá não ser incluído até que um Portal Virtual exclusivo seja designado.
+	**Nota:** cada Grupo de serviços deve ser designado a uma porta exclusiva. Se uma porta exclusiva não for designada, um erro aparecerá na parte superior da página e o Grupo de serviços poderá não ser incluído até que um portal virtual exclusivo seja designado.
 4. Insira uma alocação no campo **Alocação**.
 5. Insira quaisquer notas na caixa de texto **Notas**, se desejado.
 6. Clique no botão **Salvar configuração** para incluir o novo Grupo de serviços. Clique em **Cancelar** para cancelar a ação.

@@ -9,7 +9,7 @@ lastupdated: "2018-01-24"
 
 # 로드 밸런서에서 SSL 오프로딩 구성
 
-로드 밸런서에는 SSL 오프로딩을 제공하는 기능이 있으므로, 현재 기능을 수행하는 시스템의 로드를 현저히 줄일 수 있습니다. SSL 오프로딩을 활용하려면 이 기능을 제공하는 {{site.data.keyword.loadbalancer_short}}를 구매해야 합니다. SSL 기능을 제공하는 로드 밸런서는 **로컬 로드 밸런서 주문** 대화 상자에 "SSL 오프로드 포함"이라고 명시되어 있습니다. SSL 오프로딩 사용 {{site.data.keyword.loadbalancer_short}}를 프로비저닝한 후 구성해야 합니다. 다음 단계를 따라 {{site.data.keyword.loadbalancer_short}}에서 SSL 오프로딩을 구성하십시오.
+Load Balancers에는 SSL 오프로딩을 제공하는 기능이 있으므로, 현재 기능을 수행하는 시스템의 로드를 현저히 줄일 수 있습니다. SSL 오프로딩을 활용하려면 이 기능을 제공하는 {{site.data.keyword.loadbalancer_short}}를 구매해야 합니다. SSL 기능을 제공하는 Load Balancerss는 **로컬 Load Balancer 주문** 대화 상자에 "SSL 오프로드 포함"이라고 명시되어 있습니다. SSL 오프로딩 사용 {{site.data.keyword.loadbalancer_short}}를 프로비저닝한 후 구성해야 합니다. 다음 단계를 따라 {{site.data.keyword.loadbalancer_short}}에서 SSL 오프로딩을 구성하십시오.
 
 1. [로컬 로드 밸런서 세부사항](view-all-load-balancers.html) 페이지의 로드 밸런서 드롭 다운 메뉴에서 **조치 > SSL 구성**을 클릭하십시오.
 2. **인증서** 드롭 다운 상자에서 원하는 SSL 인증서를 선택하십시오. 다음을 참고하십시오.

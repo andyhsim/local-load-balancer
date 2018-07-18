@@ -9,7 +9,7 @@ lastupdated: "2018-01-24"
 
 # Configurar ponderaciones para el equilibrador de carga
 
-Las ponderaciones son un sistema de asignación de valores numéricos a los servidores de los que desea recibir más tráfico. Un número mayor representa una prioridad superior mientras el servidor esté en línea según las comprobaciones de estado.   
+Las ponderaciones son un sistema de asignación de valores numéricos a los servidores de los que desea recibir más tráfico. Un número mayor representa una prioridad superior mientras el servidor esté en línea según las comprobaciones de estado.  
 
 Por ejemplo, si _server1_ tiene una ponderación de 80 y _server2_ de 20, por cada 10 conexiones, a _server1_ se le asignará 8 y _server2_ obtendrá 2. Si _server1_ se queda fuera de línea o se elimina de la agrupación, todas las conexiones irán a _server2_.
 

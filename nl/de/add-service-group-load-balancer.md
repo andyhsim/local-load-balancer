@@ -11,7 +11,7 @@ lastupdated: "2018-01-23"
 
 Nach dem Hinzufügen einer {{site.data.keyword.loadbalancer_short}} kann der {{site.data.keyword.loadbalancer_short}} jederzeit eine neue Servicegruppe hinzugefügt werden. Servicegruppen stehen als verschiedene Typen bereit und bieten ein umfangreiches Angebot an einzelnen und hybriden Lastausgleichsmethoden. Beim Hinzufügen einer neuen Servicegruppe ist es wichtig, dass die Summe aller Verbindungszuordnungen der Gruppe 100 % entspricht. Führen Sie die folgenden Schritte aus, um einer {{site.data.keyword.loadbalancer_short}} eine neue Servicegruppe hinzuzufügen.
 
-1. Klicken Sie auf der Seite mit den [Details für die lokale Lastausgleichsfunktion](view-all-load-balancers.html) auf die Schaltfläche **Gruppe hinzufügen**. Alternativ können Sie **Aktionen > Gruppe hinzufügen** auswählen. Unten auf der Seite wird ein Abschnitt für die neue Servicegruppe hinzugefügt.
+1. Klicken Sie auf der Seite mit den [Details zu Local Load Balancer](view-all-load-balancers.html) auf die Schaltfläche **Gruppe hinzufügen**. Alternativ können Sie **Aktionen > Gruppe hinzufügen** auswählen. Unten auf der Seite wird ein Abschnitt für die neue Servicegruppe hinzugefügt.
 2. Wählen Sie den gewünschten Gruppentyp aus der Dropdown-Liste **Gruppe** und die Lastausgleichsmethode aus der Dropdown-Liste **Methode** aus. Weitere Informationen zu den einzelnen Lastausgleichsmethoden finden Sie unter [Lastausgleichsmethoden](load_balancing_methods.html).
 3. Geben Sie im Feld **Virtueller Port** die Portnummer ein, die für die Servicegruppe verwendet werden soll. Weitere Informationen finden Sie im Abschnitt mit den [häufig gestellten Fragen zu Service-Ports](load-balancing-faqs-2.html#what-services-can-be-load-balanced-). 
 

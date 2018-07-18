@@ -15,7 +15,7 @@ Après avoir ajouté un équilibreur de charge ({{site.data.keyword.loadbalancer
 2. Sélectionnez le type de groupe de votre choix dans la liste déroulante **Groupe**, ainsi que la méthode d'équilibrage souhaitée dans la liste déroulante **Méthode**. Consultez la rubrique [Méthodes d'équilibrage de charge](load_balancing_methods.html) pour en savoir plus sur chacune des méthodes.
 3. Entrez le numéro de port à associer au groupe de services dans la zone **Port virtuel**. Pour plus d'informations, voir la [FAQ sur les ports de service les plus courants](load-balancing-faqs-2.html#what-services-can-be-load-balanced-). 
 
-	**Remarque :** Chaque groupe de services doit être affecté à un port unique. Dans le cas contraire, un message d'erreur est affiché en haut de la page et le groupe de services peut ne pas être ajouté tant qu'un port virtuel unique n'est pas affecté.
+	**Remarque :** Chaque groupe de services doit être affecté à un port unique. Dans le cas contraire, un message d'erreur est affiché en haut de la page et le groupe de services peut ne pas être ajouté tant qu'un portail virtuel unique n'est pas affecté.
 4. Indiquez son affectation dans la zone **Allocation**.
 5. Ajoutez des commentaires dans la zone de texte **Notes**, si besoin.
 6. Cliquez sur le bouton **Enregistrer la configuration** pour ajouter le nouveau groupe de services. Cliquez sur **Annuler** pour annuler l'action.

@@ -21,7 +21,6 @@ Siga estos pasos para editar un grupo de servicios existente para un {{site.data
   - **Puerto virtual:** Número de puerto que se utilizará para el grupo de servicios. Consulte las [Preguntas frecuentes de los puertos de servicio comunes](load-balancing-faqs-2.html#what-services-can-be-load-balanced-) para obtener más información. 
 
   	**Nota:** Cada grupo de servicios debe estar asignado a un puerto exclusivo. Si un puerto exclusivo no está asignado, aparecerá un error en la parte superior de la página y el grupo de servicio puede no añadirse hasta que se asigne un portal virtual exclusivo.
-
   - **Asignación:** Asignación para el grupo de servicios.
   - **Notas:** Texto de formato libre para identificar el grupo de servicios.
 3. Pulse el botón **Guardar configuración** para actualizar el grupo de servicios. Pulse el botón **Cancelar** para cancelar la acción.

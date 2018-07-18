@@ -2,12 +2,12 @@
 {:topicgroup: .topicgroup}
 
 {: .toc subcollection=“local-loadbalancer" audience="network" href="/docs/infrastructure/local-loadbalancer/getting-started.html"}
-Lokale Lastausgleichsfunktion von IBM
+IBM Local Load Balancer
 
     {: .navgroup id="learn"}
     getting-started.md
     about.md
-    [Lastausgleichsfunktionen untersuchen](https://console.bluemix.net/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers)
+    [Lastausgleichsfunktionen untersuchen](../loadbalancer-service/explore-load-balancers.html)
     {: .navgroup-end}
 
     {: .navgroup id="howto"}

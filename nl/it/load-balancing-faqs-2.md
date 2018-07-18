@@ -26,11 +26,11 @@ Un gruppo di servizi è lo strumento con cui configuri il modo in cui i client s
 
 ## Perché sto ricevendo degli errori 502 relativi al gateway quando utilizzo l'offload SSL?
 
-Ciò è di norma causato dalla porta in uscita del programma di bilanciamento del carico che è impostata sulla porta 443. Se il bilanciamento del carico è abilitato, il traffico in uscita al tuo server dovrà essere impostato alla porta non SSL del tuo server. È di norma la porta 80 per HTTP.
+Ciò è di norma causato dalla porta in uscita del programma di bilanciamento del carico che è impostata sulla porta 443.  Se il bilanciamento del carico è abilitato, il traffico in uscita al tuo server dovrà essere impostato alla porta non SSL del tuo server.  È di norma la porta 80 per HTTP.
 
 ## Posso avere più certificati SSL su un singolo programma di bilanciamento del carico?
 
-Ciò è possibile in specifiche configurazioni. La regola generale è un certificato SSL per VIP (Virtual IP). Un programma di bilanciamento del carico locale supporta un singolo VIP ma ciò può essere aumentato sui nostri programmi di bilanciamento del carico dedicati e aziendali.
+Ciò è possibile in specifiche configurazioni.  La regola generale è un certificato SSL per VIP (Virtual IP). Un programma di bilanciamento del carico locale supporta un singolo VIP ma ciò può essere aumentato sui nostri programmi di bilanciamento del carico dedicati e aziendali.
 
 ## Cos'è una porta virtuale?
 
@@ -58,7 +58,7 @@ Questa opzione è disponibile solo aprendo un ticket.
 
 ## Quali metodi di bilanciamento del carico sono disponibili con un programma di bilanciamento del carico?
 
-IBM Cloud offre più metodi di bilanciamento, inclusi sia metodi singoli che ibridi. Fai riferimento a [Metodi di bilanciamento del carico](load_balancing_methods.html) per ulteriori informazioni su ciascun metodo di bilanciamento del carico da noi attualmente offerto.
+IBM Cloud offre più metodi di bilanciamento, inclusi sia metodi singoli che ibridi.  Fai riferimento a [Metodi di bilanciamento del carico](load_balancing_methods.html) per ulteriori informazioni su ciascun metodo di bilanciamento del carico da noi attualmente offerto.
 
 ## È possibile bilanciare il carico del traffico con crittografia SSL con la persistenza di sessione?
 

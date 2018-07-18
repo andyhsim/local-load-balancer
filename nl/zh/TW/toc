@@ -5,9 +5,9 @@
 IBM Local Load Balancer
 
     {: .navgroup id="learn"}
-    getting-started.md
+getting-started.md
     about.md
-    [探索負載平衡器](https://console.bluemix.net/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers)
+    [探索負載平衡器](../loadbalancer-service/explore-load-balancers.html)
     {: .navgroup-end}
 
     {: .navgroup id="howto"}

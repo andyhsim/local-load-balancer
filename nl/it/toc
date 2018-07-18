@@ -7,7 +7,7 @@ Programma di bilanciamento del carico locale IBM
     {: .navgroup id="learn"}
     getting-started.md
     about.md
-    [Explore Load Balancers](https://console.bluemix.net/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers)
+    [Explore Load Balancers](../loadbalancer-service/explore-load-balancers.html)
     {: .navgroup-end}
 
     {: .navgroup id="howto"}

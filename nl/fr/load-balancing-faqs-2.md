@@ -26,11 +26,11 @@ Un groupe de services représente le moyen par lequel vous configurez le mode de
 
 ## Pourquoi des erreurs de passerelle 502 se produisent-elles lorsque j'utilise le déchargement SSL ?
 
-Ces erreurs se produisent généralement lorsque le port sortant de l'équilibreur de charge est défini sur le port 443. Si l'équilibrage de charge autorise le trafic sortant, vers votre serveur, vous devez choisir le port non-SSL de votre serveur. Il s'agit généralement du port 80 pour HTTP.
+Ces erreurs se produisent généralement lorsque le port sortant de l'équilibreur de charge est défini sur le port 443.  Si l'équilibrage de charge autorise le trafic sortant, vers votre serveur, vous devez choisir le port non-SSL de votre serveur.  Il s'agit généralement du port 80 pour HTTP.
 
 ## Puis-je avoir plusieurs certificats SSL sur un seul équilibreur de charge ?
 
-Cela est possible dans certaines configurations. Toutefois, la règle générale veut qu'un seul certificat SSL existe par adresse IP virtuelle (VIP). Un équilibreur de charge local prend en charge une seule VIP, mais cette valeur peut être augmentée en utilisant nos équilibreurs de charge dédiés et d'entreprise.
+Cela est possible dans certaines configurations.  Toutefois, la règle générale veut qu'un seul certificat SSL existe par adresse IP virtuelle (VIP). Un équilibreur de charge local prend en charge une seule VIP, mais cette valeur peut être augmentée en utilisant nos équilibreurs de charge dédiés et d'entreprise.
 
 ## Qu'est-ce qu'un port virtuel ?
 
@@ -58,7 +58,7 @@ Cette option est disponible uniquement en procédant à l'ouverture d'un ticket.
 
 ## Quelles sont les méthodes d'équilibrage proposées par l'équilibreur de charge ?
 
-IBM Cloud offre plusieurs méthodes d'équilibrage, y compris des méthodes uniques et hybrides. Reportez-vous à la rubrique [Méthodes d'équilibrage des charges](load_balancing_methods.html) pour en savoir plus sur chacune des méthodes actuellement offertes.
+IBM Cloud offre plusieurs méthodes d'équilibrage, y compris des méthodes uniques et hybrides.  Reportez-vous à la rubrique [Méthodes d'équilibrage des charges](load_balancing_methods.html) pour en savoir plus sur chacune des méthodes actuellement offertes.
 
 ## Est-il possible d'équilibrer la charge du trafic chiffré SSL avec l'adhérence de session ?
 

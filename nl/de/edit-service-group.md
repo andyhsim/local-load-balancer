@@ -15,7 +15,7 @@ Wenn der Gruppentyp für eine Servicegruppe geändert werden muss, muss die Serv
 
 Führen Sie die folgenden Schritte aus, um eine vorhandene Servicegruppe für eine {{site.data.keyword.loadbalancer_short}} zu bearbeiten.
 
-1. Erweitern Sie auf der Seite mit den [Details für die lokale Lastausgleichsfunktion](view-all-load-balancers.html) die Details der Servicegruppe, indem Sie links neben der Zeile, die der Servicegruppe entspricht, die Sie bearbeiten möchten, auf das Erweiterungssymbol klicken.
+1. Erweitern Sie auf der Seite mit den [Details zu Local Load Balancer](view-all-load-balancers.html) die Details der Servicegruppe, indem Sie links neben der Zeile, die der Servicegruppe entspricht, die Sie bearbeiten möchten, auf das Erweiterungssymbol klicken.
 2. Aktualisieren Sie die Einstellungen für die Servicegruppe:
   - **Methode:** Wählen Sie eine [Lastausgleichsmethode](load_balancing_methods.html) aus der Dropdown-Liste aus.
   - **Virtueller Port:** Die Portnummer, die für die Servicegruppe verwendet wird. Weitere Informationen finden Sie im Abschnitt mit den [häufig gestellten Fragen zu Service-Ports](load-balancing-faqs-2.html#what-services-can-be-load-balanced-). 

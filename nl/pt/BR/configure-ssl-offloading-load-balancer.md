@@ -9,7 +9,7 @@ lastupdated: "2018-01-24"
 
 # Configurar a transferência SSL em um balanceador de carga
 
-Os balanceadores de carga têm a capacidade de fornecer transferência SSL, que pode
+Os Load Balancers têm a capacidade de fornecer transferência SSL, que pode
 reduzir grandemente a carga nos sistemas que atualmente executam a função. Para utilizar
 a transferência SSL, deve ser comprado um
 {{site.data.keyword.loadbalancer_short}} que ofereça a capacidade. Os

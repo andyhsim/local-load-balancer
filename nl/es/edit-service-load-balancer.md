@@ -22,7 +22,7 @@ Siga estos pasos para editar un servicio.
       - **HTTP:** Comprueba si el puerto 80 en la dirección IP listada responde con el código HTTP 200 (correcto).
       - **HTTP-CUSTOM:** Muy similar a HTTP normal, excepto que asigna el tipo de conexión, la ubicación de la comprobación de estado y la respuesta que está anticipando. Esta es una opción avanzada.
       - **Ping:** Una prueba de ping sencilla a través de ICMP.
-      - **TCP:** Muy similar a una prueba ping, pero explícitamente a través de TCP. Esta opción debería utilizarse si tiene conexiones ICMP bloqueados.
+      - **TCP:** Muy similar a una prueba ping, pero explícitamente a través de TCP.  Esta opción debería utilizarse si tiene conexiones ICMP bloqueados.
   - **Ponderación:** La prioridad numérica para el servicio. Las ponderaciones son un sistema de asignación de valores numéricos a los servidores de los que desea recibir más tráfico. Un número mayor representa una prioridad superior mientras el servidor esté en línea según las comprobaciones de estado. Por ejemplo, si _server1_ tiene una ponderación de 80 y _server2_ de 20, por cada 10 conexiones, a _server1_ se le asignará 8 y _server2_ obtendrá 2. Si _server1_ se queda fuera de línea o se elimina de la agrupación, todas las conexiones irán a _server2_.
   - **Notas:** Campo de texto de formato libre.
   - **Habilitado:** Marque o desmarque este recuadro de selección para habilitar o inhabilitar el servicio.

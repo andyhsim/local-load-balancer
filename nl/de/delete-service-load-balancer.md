@@ -15,7 +15,7 @@ Alternativ kann ein Service inaktiviert werden. Dadurch ist der Service zwar der
 
 Führen Sie die folgenden Schritte aus, um den Service aus der {{site.data.keyword.loadbalancer_short}} zu löschen.
 
-1. Suchen Sie auf der Seite mit den [Details für die lokale Lastausgleichsfunktion](view-all-load-balancers.html) nach dem Service, den Sie löschen möchten, und erweitern Sie den Pfeil auf der linken Seite.
+1. Suchen Sie auf der Seite mit den [Details zu Local Load Balancer](view-all-load-balancers.html) nach dem Service, den Sie löschen möchten, und erweitern Sie den Pfeil auf der linken Seite.
 2. Klicken Sie am Ende der Zeile des Service auf das rote 'x'.
 3. Um die Einstellungen zu aktualisieren, klicken Sie unten auf der Seite auf **Konfiguration speichern**.
 

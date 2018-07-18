@@ -22,7 +22,7 @@ Attieniti alla procedura di seguito per modificare un servizio.
       - **HTTP:** i controlli sulla porta 80 all'indirizzo IP elencato risponde con il codice HTTP 200 (okay).
       - **HTTP-CUSTOM:** molto simile a HTTP regolare, tranne per il fatto che assegni il tipo di connessione, l'ubicazione del tuo controllo dell'integrità e la risposta che prevedi. Questa è un'opzione avanzata.
       - **Ping:** un semplice test di ping su ICMP.
-      - **TCP:** molto simile a un test di ping ma esplicitamente su TCP. Questa opzione deve essere utilizzata se hai delle connessioni ICMP bloccate.
+      - **TCP:** molto simile a un test di ping ma esplicitamente su TCP.  Questa opzione deve essere utilizzata se hai delle connessioni ICMP bloccate.
   - **Weight:** la priorità numerica per il servizio. I pesi sono un sistema di assegnazione di valori numerici ai server che desideri ricevano più traffico. Un numero più elevato rappresenta una priorità più elevata a condizione che il server sia online in base ai controlli dell'integrità. Ad esempio, se _server1_ ha un peso di 80 e _server2_ ha un peso di 20, per ogni 10 connessioni che arrivano, a _server1_ ne verranno allocate 8 e a _server2_ ne verranno allocate 2. Se _server1_ va offline o viene rimosso dal pool, tutte le connessioni andranno a _server2_.
   - **Notes:** campo di testo in formato libero.
   - **Enabled:** seleziona o deseleziona questa casella di spunta per abilitare o disabilitare il servizio.

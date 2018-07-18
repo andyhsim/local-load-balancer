@@ -26,11 +26,11 @@ Un grupo de servicios es el medio mediante el cual puede configurar la forma en 
 
 ## ¿Por qué obtengo errores 502 Gateway al utilizar la descarga SSL?
 
-Suele estar causado por el puerto saliente del equilibrador de carga, que está establecido en el puerto 443. Si el equilibrio de carga tiene habilitado tráfico saliente a su servidor, necesitará estar establecido en el puerto no SSL del servidor. Este es normalmente el puerto 80 para HTTP.
+Suele estar causado por el puerto saliente del equilibrador de carga, que está establecido en el puerto 443.  Si el equilibrio de carga tiene habilitado tráfico saliente a su servidor, necesitará estar establecido en el puerto no SSL del servidor.  Este es normalmente el puerto 80 para HTTP.
 
 ## ¿Puedo tener varios certificados SSL en un equilibrador de carga único?
 
-Esto es posible en determinadas configuraciones. La regla general es un certificado SSL por IP Virtual (VIP). Un equilibrador de carga local solo admite un único VIP, pero esto puede incrementarse en nuestros equilibradores de carga dedicados y empresariales.
+Esto es posible en determinadas configuraciones.  La regla general es un certificado SSL por IP Virtual (VIP). Un equilibrador de carga local solo admite un único VIP, pero esto puede incrementarse en nuestros equilibradores de carga dedicados y empresariales.
 
 ## ¿Qué es un puerto virtual?
 
@@ -58,7 +58,7 @@ Esta opción solo está disponible al abrir una incidencia.
 
 ## ¿Qué métodos de equilibrio están disponibles con un equilibrador de carga?
 
-IBM Cloud ofrece varios métodos de equilibrio, incluidos los únicos y los híbridos. Consulte [Métodos de equilibrio de carga](load_balancing_methods.html) para obtener más información sobre cada método de equilibrio de carga que se ofrece actualmente.
+IBM Cloud ofrece varios métodos de equilibrio, incluidos los únicos y los híbridos.  Consulte [Métodos de equilibrio de carga](load_balancing_methods.html) para obtener más información sobre cada método de equilibrio de carga que se ofrece actualmente.
 
 ## ¿Es posible equilibrar la carga de tráfico cifrado SSL con la retención de sesión?
 
