@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection=“local-loadbalancer" audience="network" href="/docs/infrastructure/local-loadbalancer/getting-started.html"}
+{: .toc subcollection=“local-loadbalancer" audience="network" arm="4034683" href="/docs/infrastructure/local-loadbalancer/getting-started.html"}
 IBM Local Load Balancer
 
     {: .navgroup id="learn"}
