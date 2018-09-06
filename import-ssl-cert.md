@@ -20,7 +20,7 @@ Perform the following procedure to import an SSL Certificate into the Customer P
 
 	**Note:** Details entered in the Import SSL Certificate pop-up box must be entered exactly as provided by the certificate authority, including spacing and line breaks. If they are not entered exactly as provided, an error will occur. Populate the fields as follows:
   - **Certificate:**  Certificate details, provided by the certificate authority. This is generally an alpha-numeric block of text.
-  - **Private Key:**  Details for the Certificate, provided by the certificate authority. This is generally an alpha-numeric block of text.
+  - **Private Key:**  Details for the private key, provided by the certificate authority. This is generally an alpha-numeric block of text.
   - **Intermediate Certificate:** Intermediate Certificate details, provided by the certificate authority. Intermediate Certificates are not required. However, if the information is available for the SSL Certificate, it should be entered.
   - **Certificate Signing Request:** Certificate Signing Request (CSR) details, provided by the certificate authority. CSR details are not required, but should be provided if they are part of the Certificate. Do not change the CSR in any way. A public key may be included with the CSR and should not be replaced by the Private Key.
   - **Notes:** Any notes regarding the SSL Certificate that may be helpful to other users.
