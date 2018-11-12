@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994, 2017
-lastupdated: "2017-11-02"
+lastupdated: "2018-11-12"
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,7 +12,7 @@ lastupdated: "2017-11-02"
 This topic contains answers to frequently asked questions about the Local Load Balancer.
 
 ## What Load Balancing products does IBM offer?
-For a detailed comparison of the Load Balancing offerings in the IBM Cloud, refer to this [topic ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://dev-console.bluemix.net/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
+For a detailed comparison of the Load Balancing offerings in the IBM Cloud, refer to this [topic ![External link icon](../../icons/launch-glyph.svg "External link icon")](../../infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
 
 ## What is the difference between a shared and dedicated load balancer?
 
