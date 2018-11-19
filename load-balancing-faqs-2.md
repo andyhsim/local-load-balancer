@@ -14,7 +14,7 @@ This topic contains answers to frequently asked questions about the Local Load B
 ## What Load Balancing products does IBM offer?
 {:faq}
 
-For a detailed comparison of the Load Balancing offerings in the IBM Cloud, refer to this [topic ![External link icon](../../icons/launch-glyph.svg "External link icon")](../../infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
+For a detailed comparison of the Load Balancing offerings in the IBM Cloud, refer to this [topic ![External link icon](../../icons/launch-glyph.svg "External link icon")](/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
 
 ## What is the difference between a shared and dedicated load balancer?
 {:faq}
