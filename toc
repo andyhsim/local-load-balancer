@@ -1,13 +1,13 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="local-loadbalancer" audience="network" arm="4034683" href="/docs/infrastructure/local-loadbalancer/getting-started.html" path="infrastructure/local-loadbalancer"}
+{: .toc subcollection="local-loadbalancer" audience="network" arm="4034683" href="/docs/infrastructure/local-load-balancer/getting-started.html" path="infrastructure/local-load-balancer"}
 IBM Local Load Balancer
 
     {: .navgroup id="learn"}
     getting-started.md
     about.md
-    [Explore Load Balancers](../loadbalancer-service/explore-load-balancers.html)
+    [Explore Load Balancers](loadbalancer-service/explore-load-balancers.html)
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
