@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-01-24"
+lastupdated: "2018-11-12"
 ---
 
 {:shortdesc: .shortdesc}
@@ -19,7 +19,7 @@ Führen Sie die folgenden Schritte aus, um einen Service zu bearbeiten.
   - **Zielport:** Die Portnummer zum Weiterleiten des Datenverkehrs an den Zielserver.
   - **Statusprüfung:** Die bevorzugte Methode für die Statusprüfung aus diesen Optionen.
       - **Standard:** Die Standardkonfiguration ist 'Ping'.
-      - **HTTP:** Antwort auf Prüfungen über Port 80 an die aufgeführte IP-Adresse mit HTTP-Code 200 (okay).
+      - **HTTP:** Überprüfungen von Port 80 für die aufgeführte IP-Adresse und Antworten mit HTTP-Code 200 (OK).
       - **HTTP-CUSTOM:** Fast wie reguläres HTTP, außer dass Sie den Verbindungstyp zuweisen, die Position der Statusprüfung sowie die erwartete Antwort angeben. Dies ist eine erweiterte Option.
       - **Ping:** Ein einfacher Pingtest über ICMP.
       - **TCP:** Ähnlich wie ein Pingtest, aber explizit über TCP.  Diese Option sollte verwendet werden, wenn ICMP-Verbindungen geblockt sind.

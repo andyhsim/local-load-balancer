@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017,2018
-lastupdated: "2018-02-28"
+lastupdated: "2018-11-12"
 
 ---
 
@@ -25,6 +25,6 @@ Ao usar os fóruns para fazer uma pergunta, marque a sua pergunta para que ela s
 * Se tiver questões técnicas sobre o IBM Local Load Balancer, poste a questão no [Stack Overflow](https://stackoverflow.com/search?q=local-loadbalancer+ibm-bluemix) e identifique-a com "local-loadbalancer" e "ibm-cloud".
 * Para perguntas sobre o serviço e instruções de introdução, use o fórum do [IBM developerWorks dW Answers](https://developer.ibm.com/answers/topics/local-loadbalancer.html?smartspace=ibm-cloud). Inclua as tags "local-loadbalancer" e "ibm-cloud".
 
-Consulte [Obtendo ajuda](https://console.bluemix.net/docs/support/index.html#getting-help) para mais detalhes sobre como usar os fóruns.
+Consulte [Obtendo ajuda](/docs/support/index.html#getting-help) para mais detalhes sobre como usar os fóruns.
 
-Para mais informações sobre como abrir um chamado de suporte IBM ou sobre níveis de suporte e severidades de chamados, consulte [Entrando em contato com o suporte](https://console.bluemix.net/docs/support/index.html#contacting-support).
+Para mais informações sobre como abrir um chamado de suporte IBM ou sobre níveis de suporte e severidades de chamados, consulte [Entrando em contato com o suporte](/docs/support/index.html#contacting-support).

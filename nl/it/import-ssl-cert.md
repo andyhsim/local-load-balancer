@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-01-24"
+lastupdated: "2018-11-12"
 ---
 
 {:shortdesc: .shortdesc}
@@ -20,7 +20,7 @@ Esegui la seguente procedura per importare un certificato SSL nel Portale del cl
 
 	**Nota:** i dettagli immessi nella casella a comparsa Import SSL Certificate devono essere immessi esattamente come sono forniti dalla CA (Certificate Authority - Autorità di certificazione), compresi gli spazi e le interruzioni di riga. Se non vengono immessi esattamente come sono forniti, si verificherà un errore. Compilare i campi nel seguente modo:
   - **Certificate:**  i dettagli del certificato, forniti dalla CA (Certificate Authority - Autorità di certificazione). Si tratta in genere di un blocco di testo alfanumerico.
-  - **Private Key:** i dettagli per il certificato, forniti dalla CA (Certificate Authority - Autorità di certificazione). Si tratta in genere di un blocco di testo alfanumerico.
+  - **Private Key:** i dettagli della chiave privata, forniti dalla CA (Certificate Authority - Autorità di certificazione). Si tratta in genere di un blocco di testo alfanumerico.
   - **Intermediate Certificate:** i dettagli del certificato intermedio, forniti dalla CA (Certificate Authority - Autorità di certificazione). I certificati intermedi non sono obbligatori. Tuttavia, se sono disponibili, le informazioni per il certificato SSL dovrebbero essere immesse.
   - **Certificate Signing Request:** i dettagli della CSR (Certificate Signing Request), forniti dalla CA (Certificate Authority - Autorità di certificazione). I dettagli della CRS non sono obbligatori, ma dovrebbero essere forniti se fanno parte del certificato. Non modificare in alcun modo la CSR. Con la CSR può essere inclusa una chiave pubblica e non deve essere sostituita dalla chiave privata.
   - **Notes:** le eventuali note relative al certificato SSL che potrebbero essere utili per gli altri utenti.

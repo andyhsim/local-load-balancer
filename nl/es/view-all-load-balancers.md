@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994,2017,2018
-lastupdated: "2018-01-23"
+lastupdated: "2018-11-12"
 ---
 
 {:shortdesc: .shortdesc}
@@ -11,7 +11,7 @@ lastupdated: "2018-01-23"
 
 Todas las interacciones con un equilibrador de carga local tienen lugar desde su página Detalles donde puede gestionar Grupos de servicios, ver estadísticas y ver el estado de descarga SSL. Para ver la lista de los equilibradores de carga local y acceder a la página de detalles de un equilibrador de carga local individual, siga estas instrucciones:
 
-1. Desde su navegador, abra [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){: new_window} e inicie sesión en la cuenta.
+1. En el navegador, abra el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){: new_window} e inicie sesión en su cuenta.
 2. En la navegación del Portal de clientes, seleccione **Red > Equilibrio de carga > Local**.
 3. Desde la página de lista **Equilibradores de carga**, pulse el separador **Equilibrador de carga local** para ver la lista de los equilibradores de carga local.
 4. Pulse el enlace **Dirección VIP** para acceder a la página **Detalles**. Como alternativa, puede pulsar **Acciones > Ver detalles** en el menú desplegable en la fila correspondiente al equilibrador de carga local que desea gestionar.

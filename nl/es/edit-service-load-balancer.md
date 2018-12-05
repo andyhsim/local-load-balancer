@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-01-24"
+lastupdated: "2018-11-12"
 ---
 
 {:shortdesc: .shortdesc}
@@ -19,7 +19,7 @@ Siga estos pasos para editar un servicio.
   - **Puerto de destino:** El número de puerto a utilizar para direccionar tráfico al servidor de destino.
   - **Comprobación de estado:** El método de comprobación de estado preferido de estas opciones.
       - **Valor predeterminado:** La configuración predeterminada es Ping.
-      - **HTTP:** Comprueba si el puerto 80 en la dirección IP listada responde con el código HTTP 200 (correcto).
+      - **HTTP:** Comprueba desde el puerto 80 en la dirección IP listada y responde con el código HTTP 200 (correcto).
       - **HTTP-CUSTOM:** Muy similar a HTTP normal, excepto que asigna el tipo de conexión, la ubicación de la comprobación de estado y la respuesta que está anticipando. Esta es una opción avanzada.
       - **Ping:** Una prueba de ping sencilla a través de ICMP.
       - **TCP:** Muy similar a una prueba ping, pero explícitamente a través de TCP.  Esta opción debería utilizarse si tiene conexiones ICMP bloqueados.

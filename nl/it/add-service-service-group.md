@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-01-23"
+lastupdated: "2018-11-12"
 ---
 
 {:shortdesc: .shortdesc}
@@ -18,7 +18,7 @@ Dopo che un gruppo di servizio è stato aggiunto a un {{site.data.keyword.loadba
   - **Health Check:** il metodo di controllo dell'integrità preferito da queste opzioni.
 
      - **Default:** la configurazione predefinita è Ping.
-     - **HTTP:** i controlli sulla porta 80 all'indirizzo IP elencato risponde con il codice HTTP 200 (okay).
+     - **HTTP:** i controlli sulla porta 80 all'indirizzo IP elencato rispondono con il codice HTTP 200 (okay).
      - **HTTP-CUSTOM:** molto simile a HTTP regolare, tranne per il fatto che assegni il tipo di connessione, l'ubicazione del tuo controllo dell'integrità e la risposta che prevedi. Questa è un'opzione avanzata.
      - **Ping:** un semplice test di ping su ICMP.
      - **TCP:** molto simile a un test di ping ma esplicitamente su TCP. Questa opzione deve essere utilizzata se hai delle connessioni ICMP bloccate.

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-01-24"
+lastupdated: "2018-11-12"
 ---
 
 {:shortdesc: .shortdesc}
@@ -29,7 +29,7 @@ cliente.
 SSL devem ser inseridos exatamente como fornecidos pela autoridade de certificação,
 incluindo espaçamento e quebras de linha. Se eles não forem inseridos exatamente como fornecidos, um erro ocorrerá. Preencha os campos conforme a seguir:
   - **Certificado:** detalhes do certificado, fornecidos pela autoridade de certificação. Geralmente é um bloco alfanumérico de texto.
-  - **Chave privada:** detalhes do certificado, fornecidos pela autoridade de certificação. Geralmente é um bloco alfanumérico de texto.
+  - **Chave privada:** detalhes da chave privada, fornecidos pela autoridade de certificação. Geralmente é um bloco alfanumérico de texto.
   - **Certificado intermediário:** detalhes do certificado intermediário, fornecidos pela autoridade de certificação. Os certificados intermediários não são obrigatórios. No entanto, se as informações estiverem disponíveis para o certificado SSL, elas deverão ser inseridas.
   - **Solicitação de assinatura de certificado:**
 detalhes da solicitação de assinatura de certificado (CSR), fornecidos pela autoridade

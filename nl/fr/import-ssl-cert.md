@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-01-24"
+lastupdated: "2018-11-12"
 ---
 
 {:shortdesc: .shortdesc}
@@ -20,7 +20,7 @@ Exécutez la procédure ci-après pour importer un certificat SSL dans le portai
 
 	**Remarque :** Les détails saisis dans la boîte de dialogue d'importation d'un certificat SSL doivent être saisis tels que fournis par l'autorité de certification, y compris l'espacement et les retours à la ligne. Si ce n'est pas le cas, une erreur se produit. Renseignez les zones comme suit :
   - **Certificat :** Détails du certificat, fournis par l'autorité de certification. Il s'agit généralement d'un bloc de texte alphanumérique.
-  - **Clé privée :** Détails du certificat, fournis par l'autorité de certification. Il s'agit généralement d'un bloc de texte alphanumérique.
+  - **Clé privée :** Détails de la clé privée, fournis par l'autorité de certification. Il s'agit généralement d'un bloc de texte alphanumérique.
   - **Certificat intermédiaire :** Détails du certificat intermédiaire, fournis par l'autorité de certification. Les certificats intermédiaires ne sont pas obligatoires. Toutefois, si des informations sont disponibles pour le certificat SSL, celles-ci doivent être saisies.
   - **Demande de signature de certificat :** Détails de la demande de signature de certificat, fournis par l'autorité de certification. Ces détails ne sont pas obligatoires. Toutefois, ils doivent être saisis lorsqu'ils sont fournis dans le cadre du certificat. Ne modifiez jamais la demande de signature de certificat. Une clé publique peut être incluse avec la demande. Elle ne doit pas être remplacée par la clé privée.
   - **Notes :** Toutes notes relatives au certificat SSL qui pourraient s'avérer utiles à d'autres utilisateurs.

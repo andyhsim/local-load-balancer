@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-01-24"
+lastupdated: "2018-11-12"
 ---
 
 {:shortdesc: .shortdesc}
@@ -20,7 +20,7 @@ Suivez les étapes ci-dessous pour modifier un groupe de services existant d'un 
   - **Méthode :** Sélectionnez une [méthode d'équilibrage](load_balancing_methods.html) dans la liste déroulante.
   - **Port virtuel :** Numéro de port à utiliser pour le groupe de services. Pour plus d'informations, voir la [FAQ sur les ports de service les plus courants](load-balancing-faqs-2.html#what-services-can-be-load-balanced-). 
 
-  	**Remarque :** Chaque groupe de services doit être affecté à un port unique. Dans le cas contraire, un message d'erreur est affiché en haut de la page et le groupe de services peut ne pas être ajouté tant qu'un port virtuel unique n'est pas affecté.
+  	**Remarque :** Chaque groupe de services doit être affecté à un port unique. Dans le cas contraire, un message d'erreur est affiché en haut de la page et le groupe de services peut ne pas être ajouté tant qu'un portail virtuel unique n'est pas affecté.
   - **Allocation :** Allocation du groupe de services.
   - **Notes :** Texte libre pour identifier le groupe de services.
 3. Cliquez sur le bouton **Enregistrer la configuration** pour mettre à jour le groupe de services. Cliquez sur le bouton **Annuler** pour annuler l'action.
