@@ -7,7 +7,7 @@ IBM Local Load Balancer
     {: .navgroup id="learn"}
     getting-started.md
     about.md
-    [Explore Load Balancers](../docs/infrastructure/loadbalancer-service/loadbalancer-service-explore)
+    [Explore Load Balancers](../docs/infrastructure/loadbalancer-service/loadbalancer-service-explore.html)
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
