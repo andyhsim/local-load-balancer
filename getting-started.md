@@ -8,7 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Getting started
-To get started with the IBM Local Load Balancer, navigate to the order page in the Customer Portal:
+To get started with the IBM© Local Load Balancer, navigate to the order page in the Customer Portal:
 
 1. From your browser, open  [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window} and log into your account.
 2. In the Customer Portal navigation, select **Network > Load Balancing > Local**.
@@ -19,4 +19,6 @@ To get started with the IBM Local Load Balancer, navigate to the order page in t
 7. If you would like a dedicated Local Load Balancer, choose the number of connections and whether High Availability is desired from the **Select Dedicated** section.
 8. Click **Continue** to confirm the order.
 
-Shared Load Balancers are provisioned immediately and can be seen within minutes of ordering. Dedicated Load Balancers depend on hardware availability in the location requested. Once provisioned, the Load Balancer will show up on the Load Balancers list page and you can click on it to view the details.
+Shared Load Balancers are provisioned immediately and can be seen within minutes of ordering. 
+
+Dedicated Load Balancers depend on hardware availability in the location requested. Once provisioned, the Load Balancer will show up on the Load Balancers list page and you can click on it to view the details. Additional VIPs can be ordered for Local Load Balancers by openeing a Sales Ticket.
