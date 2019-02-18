@@ -7,14 +7,14 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Configure SSL Offloading on a Load Balancer
+# Configuring SSL Offloading on a Load Balancer
 
 Load Balancers have the ability to provide SSL offloading, which can dramatically reduce the load on systems currently performing the function. In order to utilize SSL offloading, a {{site.data.keyword.loadbalancer_short}} must be purchased that offers the capability. Load balancers offering SSL capability are noted “with SSL offload” in the **Order Local Load Balancer** dialog. After the SSL offloading-enabled {{site.data.keyword.loadbalancer_short}} has been provisioned, it must be configured. Follow the steps below to configure SSL offloading on a {{site.data.keyword.loadbalancer_short}}.
 
-1. From the [Local Load Balancer Details](view-all-load-balancers.html) page, click on **Actions > Configure SSL** in the dropdown menu for the Load Balancer.
+1. From the [Local Load Balancer Details](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) page, click on **Actions > Configure SSL** in the dropdown menu for the Load Balancer.
 2. Select the desired SSL Certificate from the **Certificate** drop down box. Note the following:
   - Non-dedicated {{site.data.keyword.loadbalancer_short}} virtual IPs (VIPs) are limited to a maximum SSL certificate bit size of 2048.
-  - At least one SSL Certificate must be stored on the Customer Portal in order to successfully complete this step. Refer to [Import an SSL Certificate](import-ssl-cert.html).
+  - At least one SSL Certificate must be stored on the Customer Portal in order to successfully complete this step. Refer to [Import an SSL Certificate](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-importing-an-ssl-certificate).
 3. Select the **Enabled** check box.
 4. Select the ciphers you wish to support.
 5. Click the **Update** button.

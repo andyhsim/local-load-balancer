@@ -8,13 +8,13 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-# FAQs
+# FAQs for Local Load Balancer
 This topic contains answers to frequently asked questions about the Local Load Balancer.
 
 ## What Load Balancing products does IBM© offer?
 {:faq}
 
-For a detailed comparison of the Load Balancing offerings in the IBM Cloud, refer to this [topic ![External link icon](../../icons/launch-glyph.svg "External link icon")](/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
+For a detailed comparison of the Load Balancing offerings in the IBM Cloud, refer to [this topic](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore).
 
 ## What is the difference between a shared and dedicated load balancer?
 {:faq}
@@ -74,10 +74,9 @@ This option is only available by opening a ticket.
 ## What balancing methods are available with a Load Balancer?
 {:faq}
 
-IBM Cloud offers multiple balancing methods, including both single and hybrid methods.  Refer to the [Load Balancing Methods](load_balancing_methods.html) for more information about each load balance method we currently offer.
+IBM Cloud offers multiple balancing methods, including both single and hybrid methods.  Refer to the [Load Balancing Methods](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods) for more information about each load balance method we currently offer.
 
 ## Is it possible to load balance SSL encrypted traffic with session stickiness?
 {:faq}
 
 This is possible but only with a persistent balancing method. Other methods are not supported since the traffic is encrypted.
-

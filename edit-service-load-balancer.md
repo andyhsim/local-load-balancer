@@ -7,13 +7,13 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Edit a Service 
+# Editing a Service 
 
 After a Service has been added to a Load Balancer's Service Group, it may be edited at any time. All Basic Settings of a Service are eligible for edits and additional notes may also be added using the edit feature. 
 
 Follow the steps below to edit a Service.
 
-1. From the [Local Load Balancer Details](view-all-load-balancers.html) page, locate the service you would like to edit by expanding the arrow to the left.
+1. From the [Local Load Balancer Details](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) page, locate the service you would like to edit by expanding the arrow to the left.
 2. Edit the follow fields, as desired:
   - **Destination IP:** The IP address of the destination server.
   - **Dest Port:** The port number to use to route traffic to the destination server.
