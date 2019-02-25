@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Editing a Service 
+# Editing a Service
+{: #editing-a-service}
 
 After a Service has been added to a Load Balancer's Service Group, it may be edited at any time. All Basic Settings of a Service are eligible for edits and additional notes may also be added using the edit feature. 
 

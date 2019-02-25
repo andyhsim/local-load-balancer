@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Viewing Local Load Balancer Details
+{: #viewing-local-load-balancer-details}
 
 All interactions with a Local Load Balancer take place from its Details page where you can manage Service Groups, view statistics and see the SSL Offload status. To view the list of Local Load Balancers and access an individual Local Load Balancer's Details page, follow the instructions below:
 

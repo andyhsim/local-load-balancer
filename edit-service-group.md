@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Editing a Service Group
+{: #editing-a-service-group}
 
 After adding a Service Group to a {{site.data.keyword.loadbalancer_short}}, its Basic Settings (including Balancing Method and Virtual Port), Connection Allocation and Notes may be edited. Edits to each Service Group are immediately visible and additional edits may be made at any time. 
 

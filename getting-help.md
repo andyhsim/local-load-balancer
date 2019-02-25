@@ -15,6 +15,7 @@ lastupdated: "2018-11-12"
 {:download: .download}
 
 # Getting Help and Support for Local Load Balancer
+{: #getting-help-and-support-for-local-load-balancer}
 
 If you have problems or questions when using the IBM© Local Load Balancer, you can get help by searching for information or by asking questions through one of the forums listed below. You can also open a support ticket.
 

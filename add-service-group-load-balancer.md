@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Adding a Service Group to a Load Balancer
+{: #adding-a-service-group-to-a-load-balancer}
 
 After a {{site.data.keyword.loadbalancer_short}} has been added, a new Service Group may be added to the {{site.data.keyword.loadbalancer_short}} at any time. Service groups are available in a variety of Group Types and offer a wide array of single or hybrid Balancing Methods. When adding a new Service Group, it is important to ensure that the sum of all the groups Connection Allocations equals 100%. Follow the steps below to add a new Service Group to a {{site.data.keyword.loadbalancer_short}}.
 

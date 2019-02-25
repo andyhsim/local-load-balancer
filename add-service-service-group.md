@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Adding a Service to a Service Group
+{: #adding-a-service-to-a-service-group}
 
 After a Service Group has been added to a {{site.data.keyword.loadbalancer_short}}, Services may be added to begin the balancing process. Multiple Services may be added to a Service Group and may be weighted to allow for prioritization on how each device should receive the workload at any given time. Follow the steps below to add a new Service to a Service Group for a {{site.data.keyword.loadbalancer_short}}.
 

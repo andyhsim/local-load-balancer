@@ -8,6 +8,8 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Getting Started With Local Load Balancer
+{: #getting-started-with-local-load-balancer}
+
 To get started with the IBM© Local Load Balancer, navigate to the order page in the Customer Portal:
 
 1. From your browser, open  [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window} and log into your account.

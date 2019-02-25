@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Upgrading the Connections Limit
+{: #upgrading-the-connections-limit}
 
 Local Load balancers can be upgraded at anytime in the increments of 250, 500, 1000, 2500, and 5000. All changes made will be in increments to the next level, but multiple upgrades can be made in sequence to jump multiple increments. 
 

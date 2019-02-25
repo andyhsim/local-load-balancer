@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Deleting a Service 
+# Deleting a Service
+{: #deleting-a-service}
 
 After a Service has been added to a Service Group for a {{site.data.keyword.loadbalancer_short}}, it may be deleted at any time. Deleting a Service from a Service Group prevents the Service from being utilized by the {{site.data.keyword.loadbalancer_short}} unless it is manually added back to a Service Group. 
 

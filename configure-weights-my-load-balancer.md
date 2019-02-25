@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Configuring Weights for the Load Balancer
+{; #configuring-weights-for-the-load-balancer}
 
 Weights are a system of assigning numerical values to the servers you wish to receive more traffic. A higher number represents a higher priority as long as the server is online according to health checks.  
 

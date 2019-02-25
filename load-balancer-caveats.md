@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Known Limitations with Local Load Balancer
+{: #known-limitations-with-local-load-balancer}
 
 Due to the nature of a proxy load balancer, the source IP of the client request comes from the IP of the load balancer. This will affect log statistical programs and other applications that look at the source IP for obtaining client information. IBM© Cloud provides a solution to correctly rewrite log entries for Apache (All Platforms) and IIS (Windows).
 

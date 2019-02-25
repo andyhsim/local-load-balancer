@@ -9,6 +9,8 @@ lastupdated: "2018-11-12"
 {:faq: data-hd-content-type='faq'}
 
 # FAQs for Local Load Balancer
+{: #faqs-for-local-load-balancer}
+
 This topic contains answers to frequently asked questions about the Local Load Balancer.
 
 ## What Load Balancing products does IBM© offer?

@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Deleting a Service Group
+{: #deleting-a-service-group}
 
 When deleting a Service Group, all Services associated with the Group will also be deleted. Follow the steps below to delete a Service Group for a {{site.data.keyword.loadbalancer_short}}.
 
