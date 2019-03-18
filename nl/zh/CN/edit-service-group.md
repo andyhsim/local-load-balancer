@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # 编辑服务组
+{: #editing-a-service-group}
 
 将服务组添加到{{site.data.keyword.loadbalancer_short}}后，可编辑其“基本设置”（包括“均衡方法”和“虚拟端口”）、“连接分配”和“注释”。对每个服务组的编辑都可以立即看到，并且可以随时进行其他编辑。 
 
@@ -15,10 +16,10 @@ lastupdated: "2018-11-12"
 
 执行以下步骤来编辑{{site.data.keyword.loadbalancer_short}}的现有服务组。
 
-1. 从[本地负载均衡器详细信息](view-all-load-balancers.html)页面，通过单击要编辑的服务组所对应行左侧的“展开”图标，展开“服务组详细信息”。
+1. 从[本地负载均衡器详细信息](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details)页面，通过单击要编辑的服务组所对应行左侧的“展开”图标，展开“服务组详细信息”。
 2. 更新服务组设置：
-  - **方法：**从下拉列表中选择[均衡方法](load_balancing_methods.html)。
-  - **虚拟端口：**将用于服务组的端口号。有关更多信息，请参阅[常用服务端口常见问题](load-balancing-faqs-2.html#what-services-can-be-load-balanced-)。 
+  - **方法：**从下拉列表中选择[均衡方法](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods)。
+  - **虚拟端口：**将用于服务组的端口号。有关更多信息，请参阅[常用服务端口常见问题](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-faqs-for-local-load-balancer#what-services-can-be-load-balanced-)。 
 
   	**注：**必须为每个服务组分配一个唯一端口。如果未分配唯一端口，那么会在页面顶部显示错误，并且只有在分配唯一的虚拟端口之后，才能添加服务组。
 

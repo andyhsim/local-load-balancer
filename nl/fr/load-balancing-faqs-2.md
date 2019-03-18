@@ -8,13 +8,15 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-# Foire aux questions
+# Foire aux questions concernant l'équilibreur de charge local
+{: #faqs-for-local-load-balancer}
+
 La présente section apporte des réponses aux questions les plus fréquemment posées au sujet de l'équilibreur de charge local.
 
-## Quels sont les produits d'équilibrage de charge offerts par IBM ?
+## Quels sont les produits d'équilibrage de charge que propose IBM© ?
 {:faq}
 
-Pour obtenir un comparatif des offres d'équilibrage de charge dans IBM Cloud, consultez cette [rubrique ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
+Pour obtenir un comparatif des offres d'équilibrage de charge dans IBM Cloud, consultez [cette rubrique](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore).
 
 ## Quelle différence y a-t-il entre un équilibreur de charge partagé et un équilibreur de charge dédié ?
 {:faq}
@@ -74,10 +76,9 @@ Cette option est disponible uniquement en procédant à l'ouverture d'un ticket.
 ## Quelles sont les méthodes d'équilibrage proposées par l'équilibreur de charge ?
 {:faq}
 
-IBM Cloud offre plusieurs méthodes d'équilibrage, y compris des méthodes uniques et hybrides.  Reportez-vous à la rubrique [Méthodes d'équilibrage des charges](load_balancing_methods.html) pour en savoir plus sur chacune des méthodes actuellement offertes.
+IBM Cloud offre plusieurs méthodes d'équilibrage, y compris des méthodes uniques et hybrides.  Reportez-vous à la rubrique [Méthodes d'équilibrage des charges](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods) pour en savoir plus sur chacune des méthodes actuellement offertes.
 
 ## Est-il possible d'équilibrer la charge du trafic chiffré SSL avec l'adhérence de session ?
 {:faq}
 
 Ceci est possible, mais uniquement avec une méthode d'équilibrage persistante. Les autres méthodes ne sont pas prises en charge, car le trafic est chiffré.
-

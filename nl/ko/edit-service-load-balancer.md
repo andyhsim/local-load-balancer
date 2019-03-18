@@ -7,13 +7,14 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# 서비스 편집 
+# 서비스 편집
+{: #editing-a-service}
 
-로드 밸런서의 서비스 그룹에 서비스를 추가하고 나면 언제든지 편집할 수 있습니다. 서비스의 모든 기본 설정은 편집할 수 있으며 편집 기능을 사용하여 추가 참고사항도 추가할 수 있습니다. 
+Load Balancer의 서비스 그룹에 서비스를 추가하고 나면 언제든지 편집할 수 있습니다. 서비스의 모든 기본 설정은 편집할 수 있으며 편집 기능을 사용하여 추가 참고사항도 추가할 수 있습니다. 
 
 다음 단계를 따라 서비스를 편집하십시오.
 
-1. [로컬 로드 밸런서 세부사항](view-all-load-balancers.html) 페이지에서 왼쪽 화살표를 펼쳐 편집할 서비스를 찾으십시오.
+1. [Local Load Balancer 세부사항](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) 페이지에서 왼쪽 화살표를 펼쳐 편집할 서비스를 찾으십시오.
 2. 원하는 대로 다음 필드를 편집하십시오.
   - **대상 IP:** 대상 서버의 IP 주소입니다.
   - **대상 포트:** 대상 서버로 트래픽을 라우팅하는 데 사용할 포트 번호입니다.

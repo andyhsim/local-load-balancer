@@ -8,8 +8,9 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Importazione di un certificato SSL
+{: #importing-an-ssl-certificate}
 
-Dopo che un certificato SSL è stato emesso per un sito web, è possibile importarlo nel Portale del cliente. Importando i SSL Certificates nel Portale del cliente, è possibile applicarli ai prodotti e ai servizi che potrebbero averne bisogno, come ad esempio l'offload SSL di un programma di bilanciamento del carico. Per impostazione predefinita, i SSL Certificates emessi da IBM Cloud non sono importati nell'elenco poiché si prevede che vengano manipolati solo dal destinatario. Pertanto, qualsiasi certificato SSL per l'utilizzo con un prodotto o un servizio IBM Cloud deve essere importato manualmente da un utente autorizzato sull'account.
+Dopo che un certificato SSL è stato emesso per un sito web, è possibile importarlo nel Portale del cliente. Importando i SSL Certificates nel Portale del cliente, è possibile applicarli ai prodotti e ai servizi che potrebbero averne bisogno, come ad esempio l'offload SSL di un programma di bilanciamento del carico. Per impostazione predefinita, i SSL Certificates emessi da IBM© Cloud non sono importati nell'elenco poiché si prevede che vengano manipolati solo dal destinatario. Pertanto, qualsiasi certificato SSL per l'utilizzo con un prodotto o un servizio IBM Cloud deve essere importato manualmente da un utente autorizzato sull'account.
 
 Esegui la seguente procedura per importare un certificato SSL nel Portale del cliente.
 

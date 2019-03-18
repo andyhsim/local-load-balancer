@@ -8,10 +8,11 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Aggiunta di un servizio a un gruppo di servizi
+{: #adding-a-service-to-a-service-group}
 
 Dopo che un gruppo di servizio è stato aggiunto a un {{site.data.keyword.loadbalancer_short}}, è possibile aggiungere i servizi per avviare il processo di bilanciamento. È possibile aggiungere più servizi a un gruppo di servizi ed è possibile indicarne il peso per consentire un'indicazione della priorità relativa alla modalità di ricezione del carico di lavoro di ciascun dispositivo in un dato momento. Attieniti alla procedura di seguito per aggiungere un nuovo servizio a un gruppo di servizi per un {{site.data.keyword.loadbalancer_short}}.
 
-1. Dalla pagina [Local Load Balancer Details](view-all-load-balancers.html), fai clic su **Actions > Add Service** nel menu a discesa sulla riga corrispondente al gruppo di servizi dove desideri aggiungere un servizio. In alternativa, espandi i dettagli del gruppo facendo clic sull'icona di espansione sul lato sinistro della riga e fai clic sul pulsante **Add Service**. Una nuova sezione Service verrà aggiunta in fondo alla sezione dei dettagli del gruppo di servizi.
+1. Dalla pagina [Local Load Balancer Details](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), fai clic su **Actions > Add Service** nel menu a discesa sulla riga corrispondente al gruppo di servizi dove desideri aggiungere un servizio. In alternativa, espandi i dettagli del gruppo facendo clic sull'icona di espansione sul lato sinistro della riga e fai clic sul pulsante **Add Service**. Una nuova sezione Service verrà aggiunta in fondo alla sezione dei dettagli del gruppo di servizi.
 2. Immetti i parametri del servizio:
   - **Destination IP:** l'indirizzo IP del server di destinazione.
   - **Dest. Port:** il numero porta da utilizzare per instradare il traffico al server di destinazione.

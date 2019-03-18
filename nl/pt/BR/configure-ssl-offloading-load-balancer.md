@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Configurar a transferência SSL em um balanceador de carga
+# Configurando a transferência de SSL em um Load Balancer
+{: #configuring-ssl-offloading-on-a-load-balancer}
 
 Os Load Balancers têm a capacidade de fornecer transferência SSL, que pode
 reduzir grandemente a carga nos sistemas que atualmente executam a função. Para utilizar
@@ -20,14 +21,14 @@ tiver sido provisionado, ele deverá ser configurado. Siga as etapas abaixo para
 configurar a transferência SSL em um {{site.data.keyword.loadbalancer_short}}.
 
 1. Na página [Detalhes do Local Load
-Balancer](view-all-load-balancers.html), clique em Ações > Configurar SSL no menu
+Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), clique em Ações > Configurar SSL no menu
 suspenso para o balanceador de carga.
 2. Selecione o Certificado SSL desejado na caixa suspensa
 **Certificado**. Observe o seguinte:
   - IPs virtuais (VIPs) do {{site.data.keyword.loadbalancer_short}} não
 dedicados são limitados a um tamanho máximo de bit de certificado SSL de 2048.
   - Pelo menos um certificado SSL deve ser armazenado no Portal do cliente para
-concluir com êxito esta etapa. Consulte [Importar um certificado SSL](import-ssl-cert.html).
+concluir com êxito esta etapa. Consulte [Importar um certificado SSL](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-importing-an-ssl-certificate).
 3. Marque a caixa de seleção **Ativado**.
 4. Selecione as cifras que você deseja suportar.
 5. Clique no botão **Atualizar**.

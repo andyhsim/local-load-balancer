@@ -8,10 +8,11 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Ajout d'un service à un groupe de services
+{: #adding-a-service-to-a-service-group}
 
 Après avoir ajouté un groupe de services à un équilibreur de charge ({{site.data.keyword.loadbalancer_short}}), vous pouvez ajouter des services pour commencer le processus d'équilibrage. Vous pouvez ajouter plusieurs services à un groupe de services et appliquer une pondération permettant de hiérarchiser les services quant à la manière dont les périphériques reçoivent la charge de travail. Suivez les étapes ci-dessous pour ajouter un nouveau service à un groupe de services pour un {{site.data.keyword.loadbalancer_short}}.
 
-1. Dans la page [Détails de l'équilibreur de charge local](view-all-load-balancers.html), cliquez sur **Actions > Ajouter service** dans le menu déroulant sur la ligne correspondant au groupe de services où ajouter le service. Vous pouvez également développer les détails du groupe en cliquant sur l'icône Développer en regard de la ligne, puis cliquer sur le bouton **Ajouter service**. Une nouvelle section Service est ajoutée en bas de la section des détails relatifs au groupe de services.
+1. Dans la page [Détails de l'équilibreur de charge local](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), cliquez sur **Actions > Ajouter service** dans le menu déroulant sur la ligne correspondant au groupe de services où ajouter le service. Vous pouvez également développer les détails du groupe en cliquant sur l'icône Développer en regard de la ligne, puis cliquer sur le bouton **Ajouter service**. Une nouvelle section Service est ajoutée en bas de la section des détails relatifs au groupe de services.
 2. Entrez les paramètres du service :
   - **IP de destination :** Adresse IP du serveur de destination.
   - **Port de destination :** Numéro de port à utiliser pour acheminer le trafic vers le serveur de destination.

@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # サービスのヘルス・チェックの構成
+{: #configuring-health-checks-for-a-service}
 
 ヘルス・チェックは、サーバーがオンラインかどうか、およびトラフィックを通過させるために{{site.data.keyword.loadbalancer_short}}のトラフィックを受信しているかどうかを定期的に検査するよう設計されています。 ヘルス・チェックは、カスタム・タイムアウトに応じて UP または DOWN の応答を返すよう設計されています。 デフォルト・インターバルは 120 秒です。
 
@@ -19,6 +20,6 @@ lastupdated: "2018-11-12"
 - **Ping:** ICMP でのシンプルな ping テスト。
 - **TCP:** ping テストとほぼ同様ですが、明示的に TCP を使用します。 このオプションは、ICMP 接続がブロックされたときに使用します。
 
-ヘルス・チェックは、[サービス・グループにサービスを追加](add-service-service-group.html)するとき、または作成後に[サービスを編集](edit-service-load-balancer.html)することによって、特定のサービスに対して構成することができます。
+ヘルス・チェックは、[サービス・グループにサービスを追加](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group)するとき、または作成後に[サービスを編集](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-editing-a-service)することによって、特定のサービスに対して構成することができます。
 
 構成が保存されると、変更は即時有効になります。 ヘルス・チェックの状況は、サービス・グループの状況アイコンからモニターできます。

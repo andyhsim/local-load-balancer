@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # サービス・グループの編集
+{: #editing-a-service-group}
 
 サービス・グループを{{site.data.keyword.loadbalancer_short}}に追加した後、その基本設定 (「バランシング方法」および「仮想ポート」を含む)、「接続割り振り」、および「メモ」を編集できます。 各サービス・グループに対する編集は即時表示され、いつでも追加の編集を行うことができます。 
 
@@ -15,10 +16,10 @@ lastupdated: "2018-11-12"
 
 {{site.data.keyword.loadbalancer_short}}の既存のサービス・グループを編集するには、以下の手順を実行します。
 
-1. [「ローカル・ロード・バランサーの詳細」](view-all-load-balancers.html)ページから、編集するサービス・グループに対応する行の左側にある展開アイコンをクリックして、サービス・グループの詳細を展開します。
+1. [「ローカル・ロード・バランサーの詳細」](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details)ページから、編集するサービス・グループに対応する行の左側にある展開アイコンをクリックして、サービス・グループの詳細を展開します。
 2. 以下のようにして、サービス・グループの設定を更新します。
-  - **方法:** ドロップダウン・リストから[「バランシング方法」](load_balancing_methods.html)を選択します。
-  - **仮想ポート:** サービス・グループに使用されるポート番号。 詳細情報については、[共通のサービス・ポートに関する FAQ ](load-balancing-faqs-2.html#what-services-can-be-load-balanced-)を参照してください。 
+  - **方法:** ドロップダウン・リストから[「バランシング方法」](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods)を選択します。
+  - **仮想ポート:** サービス・グループに使用されるポート番号。 詳細情報については、[共通のサービス・ポートに関する FAQ ](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-faqs-for-local-load-balancer#what-services-can-be-load-balanced-)を参照してください。 
 
   	**注:** 各サービス・グループは、固有のポートに割り当てる必要があります。 固有のポートが割り当てられていない場合、ページの上部にエラーが表示され、固有の仮想ポートが割り当てられるまでサービス・グループを追加できません。
   - **割り振り:** サービス・グループの割り振り。

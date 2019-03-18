@@ -7,11 +7,12 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Einen Service zu einer Servicegruppe hinzufügen
+# Service zu einer Servicegruppe hinzufügen
+{: #adding-a-service-to-a-service-group}
 
 Nachdem eine Servicegruppe zu einer {{site.data.keyword.loadbalancer_short}} hinzugefügt wurde, können Services hinzugefügt werden, um den Lastausgleich zu starten. Einer Servicegruppe können mehrere Services hinzugefügt werden, die für eine Priorisierung gewichtet werden können, wie einzelne Geräte die Arbeitslast zu einem bestimmten Zeitpunkt empfangen sollen. Führen Sie die folgenden Schritte aus, um einen neuen Service zu einer Servicegruppe für eine {{site.data.keyword.loadbalancer_short}} hinzuzufügen.
 
-1. Klicken Sie auf der Seite mit den [Details zu Local Load Balancer](view-all-load-balancers.html) in dem Dropdown-Menü der Zeile, die der Servicegruppe entspricht, zu der ein Service hinzugefügt werden soll, auf **Aktionen > Service hinzufügen**. Alternativ können Sie die Gruppendetails erweitern, indem Sie links neben der Zeile auf das Erweiterungssymbol und anschließend auf die Schaltfläche **Service hinzufügen** klicken. Unten im Abschnitt mit den Servicegruppendetails wird ein Abschnitt für den neuen Service hinzugefügt.
+1. Klicken Sie auf der Seite mit den [Details zu Local Load Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) in dem Dropdown-Menü der Zeile, die der Servicegruppe entspricht, zu der ein Service hinzugefügt werden soll, auf **Aktionen > Service hinzufügen**. Alternativ können Sie die Gruppendetails erweitern, indem Sie links neben der Zeile auf das Erweiterungssymbol und anschließend auf die Schaltfläche **Service hinzufügen** klicken. Unten im Abschnitt mit den Servicegruppendetails wird ein Abschnitt für den neuen Service hinzugefügt.
 2. Geben Sie die Serviceparameter ein:
   - **Ziel-IP:** Die IP-Adresse des Zielservers.
   - **Zielport:** Die Portnummer zum Weiterleiten des Datenverkehrs an den Zielserver.

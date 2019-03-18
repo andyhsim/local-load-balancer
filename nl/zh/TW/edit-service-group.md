@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # 編輯服務群組
+{: #editing-a-service-group}
 
 在將「服務群組」新增至 {{site.data.keyword.loadbalancer_short}} 之後，您可以編輯其「基本設定」（包括「平衡方法」和「虛擬埠」）、「連線配置」及「附註」。對每個「服務群組」的編輯都可以立即看到，而且可以隨時進行其他編輯。 
 
@@ -15,10 +16,10 @@ lastupdated: "2018-11-12"
 
 請遵循以下的步驟來編輯 {{site.data.keyword.loadbalancer_short}} 的現有「服務群組」。
 
-1. 從[本端負載平衡器詳細資料](view-all-load-balancers.html)頁面中，按一下要編輯之「服務群組」的對應列左側上的展開圖示，以展開「服務群組」詳細資料。
+1. 從[本端負載平衡器詳細資料](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details)頁面中，按一下要編輯之「服務群組」的對應列左側上的展開圖示，以展開「服務群組」詳細資料。
 2. 更新「服務群組」設定：
-  - **方法：**從下拉清單中選取[平衡方法](load_balancing_methods.html)。
-  - **虛擬埠：**將用於「服務群組」的埠號。如需相關資訊，請參閱[一般服務埠常見問題 (FAQ)](load-balancing-faqs-2.html#what-services-can-be-load-balanced-)。 
+  - **方法：**從下拉清單中選取[平衡方法](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods)。
+  - **虛擬埠：**將用於「服務群組」的埠號。如需相關資訊，請參閱[一般服務埠常見問題 (FAQ)](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-faqs-for-local-load-balancer#what-services-can-be-load-balanced-)。 
 
   	**附註：**每個「服務群組」都必須指派給唯一的埠。若未指派唯一的埠，則會在頁面頂端出現錯誤，而「服務群組」可能必須等到指派唯一的「虛擬入口網站」之後才會加以新增。
   - **配置：**「服務群組」的配置。

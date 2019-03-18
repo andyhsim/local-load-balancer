@@ -7,11 +7,12 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# 將服務新增至服務群組
+# 將服務群組新增至負載平衡器
+{: #adding-a-service-to-a-service-group}
 
 在「服務群組」新增至 {{site.data.keyword.loadbalancer_short}} 之後，您可以新增「服務」來開始進行平衡處理程序。可以將多個「服務」新增至「服務群組」，且可以對其進行加權，以允許擁有每個裝置在任何給定時間應如何接收工作負載的優先順序。請遵循以下的步驟來將「服務」新增至 {{site.data.keyword.loadbalancer_short}} 的「服務群組」。
 
-1. 從[本端負載平衡器詳細資料](view-all-load-balancers.html)頁面中，在要將服務新增至其中之「服務群組」相對應的列上，按下拉功能表中的**動作 > 新增服務**。或者，按一下該列左側上的展開圖示，以展開「群組」詳細資料，然後按一下**新增服務**按鈕。新的「服務」區段會新增至「服務群組」詳細資料區段的底端。
+1. 從[本端負載平衡器詳細資料](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details)頁面中，在要將服務新增至其中之「服務群組」相對應的列上，按下拉功能表中的**動作 > 新增服務**。或者，按一下該列左側上的展開圖示，以展開「群組」詳細資料，然後按一下**新增服務**按鈕。新的「服務」區段會新增至「服務群組」詳細資料區段的底端。
 2. 輸入「服務」參數：
   - **目的地 IP：**目的地伺服器的 IP 位址。
   - **目的地埠：**用來將資料流量遞送至目的地伺服器的埠號。

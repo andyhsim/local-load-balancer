@@ -7,13 +7,14 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# 編輯服務 
+# 編輯服務
+{: #editing-a-service}
 
 將「服務」新增至「負載平衡器」的「服務群組」之後，可以隨時對它進行編輯。「服務」的所有「基本設定」都可以進行編輯，而且還可以使用編輯特性來新增其他附註。 
 
 請遵循以下的步驟來編輯「服務」。
 
-1. 從[本端負載平衡器詳細資料](view-all-load-balancers.html)頁面中，展開左邊的箭頭來找到您想要編輯的服務。
+1. 從[本端負載平衡器詳細資料](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details)頁面中，展開左邊的箭頭來找到您想要編輯的服務。
 2. 依所需編輯下列欄位：
   - **目的地 IP：**目的地伺服器的 IP 位址。
   - **目的地埠：**用來將資料流量遞送至目的地伺服器的埠號。

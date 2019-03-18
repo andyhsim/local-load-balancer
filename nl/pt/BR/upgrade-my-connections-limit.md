@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Fazer upgrade do limite de conexões
+# Fazendo upgrade do limite de conexões
+{: #upgrading-the-connections-limit}
 
 É possível fazer upgrade de balanceadores de carga locais a qualquer momento em
 incrementos de 250, 500, 1000, 2500 e 5000. Todas as mudanças feitas serão em incrementos
@@ -17,7 +18,7 @@ diversos incrementos.
 Para fazer upgrade do limite de conexões, siga estas instruções:
 
 1. Na página [Detalhes do Local Load
-Balancer](view-all-load-balancers.html), clique em Ações > Fazer upgrade do limite de
+Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), clique em Ações > Fazer upgrade do limite de
 conexões** no menu suspenso do balanceador de carga.
 2. Um diálogo de confirmação é exibido mostrando o próximo incremento
 disponível para seu balanceador de carga e o custo do upgrade. Confirme o upgrade

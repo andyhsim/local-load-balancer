@@ -7,14 +7,15 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# 로드 밸런서에서 SSL 오프로딩 구성
+# Load Balancer에서 SSL 오프로딩 구성
+{: #configuring-ssl-offloading-on-a-load-balancer}
 
-Load Balancers에는 SSL 오프로딩을 제공하는 기능이 있으므로, 현재 기능을 수행하는 시스템의 로드를 현저히 줄일 수 있습니다. SSL 오프로딩을 활용하려면 이 기능을 제공하는 {{site.data.keyword.loadbalancer_short}}를 구매해야 합니다. SSL 기능을 제공하는 Load Balancerss는 **로컬 Load Balancer 주문** 대화 상자에 "SSL 오프로드 포함"이라고 명시되어 있습니다. SSL 오프로딩 사용 {{site.data.keyword.loadbalancer_short}}를 프로비저닝한 후 구성해야 합니다. 다음 단계를 따라 {{site.data.keyword.loadbalancer_short}}에서 SSL 오프로딩을 구성하십시오.
+Load Balancers에는 SSL 오프로딩을 제공하는 기능이 있으므로, 현재 기능을 수행하는 시스템의 로드를 현저히 줄일 수 있습니다. SSL 오프로딩을 활용하려면 이 기능을 제공하는 {{site.data.keyword.loadbalancer_short}}를 구매해야 합니다. SSL 기능을 제공하는 Load Balancers는 **Local Load Balancer 주문** 대화 상자에 "SSL 오프로드 포함"이라고 명시되어 있습니다. SSL 오프로딩 사용 {{site.data.keyword.loadbalancer_short}}를 프로비저닝한 후 구성해야 합니다. 다음 단계를 따라 {{site.data.keyword.loadbalancer_short}}에서 SSL 오프로딩을 구성하십시오.
 
-1. [로컬 로드 밸런서 세부사항](view-all-load-balancers.html) 페이지의 로드 밸런서 드롭 다운 메뉴에서 **조치 > SSL 구성**을 클릭하십시오.
+1. [Local Load Balancer 세부사항](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) 페이지의 Load Balancer 드롭 다운 메뉴에서 **조치 > SSL 구성**을 클릭하십시오.
 2. **인증서** 드롭 다운 상자에서 원하는 SSL 인증서를 선택하십시오. 다음을 참고하십시오.
   - 전용이 아닌 {{site.data.keyword.loadbalancer_short}} 가상 IP(VIP)는 최대 SSL 인증서 비트 크기인 2048로 제한됩니다.
-  - 이 단계를 성공적으로 완료하려면 하나 이상의 SSL 인증서를 고객 포털에 저장해야 합니다. [SSL 인증서에서 가져오기](import-ssl-cert.html)를 참조하십시오.
+  - 이 단계를 성공적으로 완료하려면 하나 이상의 SSL 인증서를 고객 포털에 저장해야 합니다. [SSL 인증서에서 가져오기](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-importing-an-ssl-certificate)를 참조하십시오.
 3. **사용** 선택란을 선택하십시오.
 4. 지원할 암호를 선택하십시오.
 5. **업데이트** 단추를 클릭하십시오.

@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # 서비스 그룹 편집
+{: #editing-a-service-group}
 
 {{site.data.keyword.loadbalancer_short}}에 서비스 그룹을 추가하고 나면 기본 설정(밸런싱 메소드 및 가상 포트 포함), 연결 할당 및 참고를 편집할 수 있습니다. 각 서비스 그룹의 편집 내용은 즉시 표시되며 언제든지 추가로 편집할 수 있습니다. 
 
@@ -15,10 +16,10 @@ lastupdated: "2018-11-12"
 
 아래 단계를 따라 {{site.data.keyword.loadbalancer_short}}의 기존 서비스 그룹을 편집하십시오.
 
-1. [로컬 로드 밸런서 세부사항](view-all-load-balancers.html) 페이지에서 편집할 서비스 그룹에 해당하는 행의 왼쪽에 있는 펼치기 아이콘을 클릭하여 서비스 그룹 세부사항을 펼치십시오.
+1. [Local Load Balancer 세부사항](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) 페이지에서 편집할 서비스 그룹에 해당하는 행의 왼쪽에 있는 펼치기 아이콘을 클릭하여 서비스 그룹 세부사항을 펼치십시오.
 2. 다음과 같은 서비스 그룹 설정을 업데이트하십시오.
-  - **메소드:** 드롭 다운 목록에서 [밸런싱 메소드](load_balancing_methods.html)를 선택하십시오.
-  - **가상 포트:** 서비스 그룹에 사용할 포트 번호입니다. 자세한 정보는 [공통 서비스 포트 FAQ](load-balancing-faqs-2.html#what-services-can-be-load-balanced-)를 참조하십시오. 
+  - **메소드:** 드롭 다운 목록에서 [밸런싱 메소드](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods)를 선택하십시오.
+  - **가상 포트:** 서비스 그룹에 사용할 포트 번호입니다. 자세한 정보는 [공통 서비스 포트 FAQ](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-faqs-for-local-load-balancer#what-services-can-be-load-balanced-)를 참조하십시오. 
 
   	**참고:** 각 서비스 그룹에는 고유 포트가 지정되어야 합니다. 고유 포트가 지정되지 않은 경우 페이지의 맨 위에 오류가 표시되며 고유 가상 포트를 지정할 때까지 서비스 그룹이 추가되지 않습니다.
   - **할당:**  서비스 그룹의 할당입니다.

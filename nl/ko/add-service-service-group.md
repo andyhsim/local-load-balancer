@@ -8,10 +8,11 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # 서비스 그룹에 서비스 추가
+{: #adding-a-service-to-a-service-group}
 
 서비스 그룹을 {{site.data.keyword.loadbalancer_short}}에 추가하고 나면 밸런싱 프로세스를 시작하도록 서비스를 추가할 수 있습니다. 서비스 그룹에 여러 서비스를 추가하고 지정된 시간에 각 디바이스에서 워크로드를 받는 방법에 대한 우선순위를 지정할 수 있도록 가중치를 부여할 수 있습니다. 아래 단계를 따라 {{site.data.keyword.loadbalancer_short}}의 서비스 그룹에 새 서비스를 추가하십시오.
 
-1. [로컬 로드 밸런서 세부사항](view-all-load-balancers.html) 페이지에서 서비스를 추가할 서비스 그룹에 해당하는 행의 드롭 다운 메뉴에서 **조치 > 서비스 추가**를 클릭하십시오. 또는 행의 왼쪽에서 펼치기 아이콘을 클릭하여 그룹 세부사항을 펼치고 **서비스 추가** 단추를 클릭하십시오. 서비스 그룹 세부사항 섹션의 맨 아래에 새 서비스 섹션이 추가됩니다.
+1. [Local Load Balancer 세부사항](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) 페이지에서 서비스를 추가할 서비스 그룹에 해당하는 행의 드롭 다운 메뉴에서 **조치 > 서비스 추가**를 클릭하십시오. 또는 행의 왼쪽에서 펼치기 아이콘을 클릭하여 그룹 세부사항을 펼치고 **서비스 추가** 단추를 클릭하십시오. 서비스 그룹 세부사항 섹션의 맨 아래에 새 서비스 섹션이 추가됩니다.
 2. 다음과 같은 서비스 매개변수를 입력하십시오.
   - **대상 IP:** 대상 서버의 IP 주소입니다.
   - **대상 포트:** 대상 서버로 트래픽을 라우팅하는 데 사용할 포트 번호입니다.

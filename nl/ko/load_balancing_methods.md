@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # 로드 밸런싱 메소드
+{: #load-balancing-methods}
 
 |메소드|설명|
 |:---|:---|

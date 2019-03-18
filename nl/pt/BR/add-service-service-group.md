@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Incluir um serviço em um grupo de serviços
+# Incluindo um serviço em um grupo de serviços
+{: #adding-a-service-to-a-service-group}
 
 Após a inclusão de um grupo de serviços em um
 {{site.data.keyword.loadbalancer_short}}, serviços podem ser incluídos para
@@ -18,7 +19,7 @@ incluir um novo serviço em um grupo de serviços para um
 {{site.data.keyword.loadbalancer_short}}.
 
 1. Na página [Detalhes do Local Load
-Balancer](view-all-load-balancers.html), clique em Ações > Incluir serviço no menu
+Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), clique em Ações > Incluir serviço no menu
 suspenso, na linha correspondente ao grupo de serviços no qual você gostaria de incluir
 um serviço. Como alternativa, expanda os Detalhes do grupo clicando no ícone de expansão
 no lado esquerdo da linha e clique no botão **Incluir serviço**. Uma

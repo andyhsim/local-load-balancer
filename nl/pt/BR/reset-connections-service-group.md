@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Reconfigurar conexões para um grupo de serviços
+# Reconfigurando conexões para um grupo de serviços
+{: #resetting-connections-for-a-service-group}
 
 Quando um grupo de serviços está ativo em um balanceador de carga, uma conexão pode
 existir para cada serviço associado a esse grupo com base em como os clientes usam o serviço. Às
@@ -18,7 +19,7 @@ que outros clientes tenham a oportunidade de utilizar o balanceador de carga. Si
 etapas abaixo para reconfigurar as conexões de um balanceador de carga.
 
 1. Na página [Detalhes do Local Load
-Balancer](view-all-load-balancers.html), identifique a linha do grupo de serviços cujas conexões você gostaria de
+Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), identifique a linha do grupo de serviços cujas conexões você gostaria de
 reconfigurar e clique em **Ações > Reconfigurar conexões**.
 2. Confirme a ação pressionando **Sim**. Escolha **Não** para cancelar a ação.
 

@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # 负载均衡方法
+{: #load-balancing-methods}
 
 |方法|描述|
 |:---|:---|

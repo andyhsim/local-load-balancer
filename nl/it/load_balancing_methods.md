@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Metodi di bilanciamento del carico
+{: #load-balancing-methods}
 
 | Metodo|Descrizione|
 |:---|:---|

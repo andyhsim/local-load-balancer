@@ -8,13 +8,15 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-# Domande frequenti (FAQ)
+# FAQ per il programma di bilanciamento del carico locale
+{: #faqs-for-local-load-balancer}
+
 Questo argomento contiene le risposte alle domande frequenti sul programma di bilanciamento del carico locale.
 
-## Quali prodotti di bilanciamento del carico offre IBM?
+## Quali prodotti di bilanciamento del carico offre IBM©?
 {:faq}
 
-Per un confronto dettagliato delle offerte di bilanciamento del carico in IBM Cloud, fai riferimento a questo [argomento ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
+Per un confronto dettagliato delle offerte di bilanciamento del carico in IBM Cloud, fai riferimento a [questo argomento](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore).
 
 ## Qual è la differenza tra un programma di bilanciamento del carico condiviso e uno dedicato?
 {:faq}
@@ -74,10 +76,9 @@ Questa opzione è disponibile solo aprendo un ticket.
 ## Quali metodi di bilanciamento del carico sono disponibili con un programma di bilanciamento del carico?
 {:faq}
 
-IBM Cloud offre più metodi di bilanciamento, inclusi sia metodi singoli che ibridi.  Fai riferimento a [Metodi di bilanciamento del carico](load_balancing_methods.html) per ulteriori informazioni su ciascun metodo di bilanciamento del carico da noi attualmente offerto.
+IBM Cloud offre più metodi di bilanciamento, inclusi sia metodi singoli che ibridi.  Fai riferimento a [Metodi di bilanciamento del carico](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods) per ulteriori informazioni su ciascun metodo di bilanciamento del carico da noi attualmente offerto.
 
 ## È possibile bilanciare il carico del traffico con crittografia SSL con la persistenza di sessione?
 {:faq}
 
 Ciò è possibile ma solo con un metodo di bilanciamento persistente. Gli altri metodi non sono supportati poiché il traffico è crittografato.
-

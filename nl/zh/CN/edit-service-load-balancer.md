@@ -7,13 +7,14 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# 编辑服务 
+# 编辑服务
+{: #editing-a-service}
 
 向负载均衡器的服务组添加服务后，可随时对其进行编辑。服务的所有“基本设置”都可以进行编辑，还可以使用编辑功能来添加其他注释。 
 
 执行以下步骤来编辑服务。
 
-1. 从[本地负载均衡器详细信息](view-all-load-balancers.html)页面，通过展开左侧的箭头来找到要编辑的服务。
+1. 从[本地负载均衡器详细信息](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details)页面，通过展开左侧的箭头来找到要编辑的服务。
 2. 根据需要编辑以下字段：
   - **目标 IP：**目标服务器的 IP 地址。
   - **目标端口：**用于将流量路由到目标服务器的端口号。

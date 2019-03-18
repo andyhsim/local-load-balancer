@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # 서비스의 상태 검사 구성
+{: #configuring-health-checks-for-a-service}
 
 상태 검사는 서버가 온라인 상태이며 트래픽이 통과할 수 있도록 {{site.data.keyword.loadbalancer_short}}의 트래픽을 수락하는지 정기적으로 검사하도록 설계되어 있습니다. 상태 검사는 사용자 정의 제한시간에 따라 작동 또는 작동 중단 응답으로 답변하도록 설계되어 있습니다. 기본 간격은 120초입니다.
 
@@ -19,6 +20,6 @@ lastupdated: "2018-11-12"
 - **Ping:** ICMP를 통한 간단한 ping 테스트입니다.
 - **TCP:** Ping 테스트와 매우 비슷하지만, TCP를 통해 명시적으로 수행합니다. ICMP 연결이 차단된 경우 이 옵션을 사용해야 합니다.
 
-[서비스 그룹에 서비스를 추가](add-service-service-group.html)할 때 또는 서비스를 작성한 다음 [서비스를 편집](edit-service-load-balancer.html)하여 특정 서비스의 상태 검사를 구성할 수 있습니다.
+[서비스 그룹에 서비스를 추가](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group)할 때 또는 서비스를 작성한 다음 [서비스를 편집](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-editing-a-service)하여 특정 서비스의 상태 검사를 구성할 수 있습니다.
 
 구성이 저장되고 나면 변경이 즉시 적용됩니다. 서비스 그룹의 상태 아이콘에서 상태 검사의 상태를 모니터할 수 있습니다.

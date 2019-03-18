@@ -8,13 +8,15 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-# FAQ
+# ローカル・ロード・バランサーの FAQ
+{: #faqs-for-local-load-balancer}
+
 このトピックには、ローカル・ロード・バランサーに関するよくあるご質問の答えが含まれています。
 
-## IBM ではどのようなロード・バランシング製品が提供されていますか?
+## IBM© ではどのようなロード・バランシング製品が提供されていますか?
 {:faq}
 
-IBM Cloud でのロード・バランシングの詳細な比較については、[トピック ![外部リンク・アイコン](../../icons/launch-glyph.svg "外部リンク・アイコン")](/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window} を参照してください。
+IBM Cloud でのロード・バランシングの詳細な比較については、[このトピック](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore)を参照してください。
 
 ## 共有ロード・バランサーと専用ロード・バランサーの違いは何ですか?
 {:faq}
@@ -74,10 +76,9 @@ IBM Cloud ロード・バランサーにおける仮想ポートとは、単に�
 ## ロード・バランサーではどのようなバランシング方法が使用可能ですか?
 {:faq}
 
-IBM Cloud では、単一およびハイブリッドの方法を含めて複数のバランシング方法を提供しています。  現在提供されている各ロード・バランシング方法について詳しくは、[ロード・バランシング方法](load_balancing_methods.html)を参照してください。
+IBM Cloud では、単一およびハイブリッドの方法を含めて複数のバランシング方法を提供しています。  現在提供されている各ロード・バランシング方法について詳しくは、[ロード・バランシング方法](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods)を参照してください。
 
 ## スティッキー・セッションで SSL 暗号化トラフィックをロード・バランシングすることは可能ですか?
 {:faq}
 
 可能ですが、永続的バランシング方法の場合のみとなります。 トラフィックが暗号化されるため、その他の方法はサポートされません。
-

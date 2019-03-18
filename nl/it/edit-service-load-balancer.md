@@ -7,14 +7,15 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Modifica di un servizio 
+# Modifica di un servizio
+{: #editing-a-service}
 
 Dopo essere stato aggiunto a un gruppo di servizi di un programma di bilanciamento del carico, un servizio può essere modificato in qualsiasi momento. Tutte le impostazioni di base di un servizio possono essere modificate ed è anche possibile aggiungere delle note utilizzando la funzione di modifica. 
 
 Attieniti alla procedura di seguito per modificare un servizio.
 
-1. Dalla pagina [Local Load Balancer Details](view-all-load-balancers.html), individua il servizio che desideri modificare espandendo la freccia sulla sinistra.
-2. Modifica is seguenti campi, come desiderato:
+1. Dalla pagina [Local Load Balancer Details](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), individua il servizio che desideri modificare espandendo la freccia sulla sinistra.
+2. Modifica i seguenti campi, come desiderato:
   - **Destination IP:** l'indirizzo IP del server di destinazione.
   - **Dest Port:** il numero porta da utilizzare per instradare il traffico al server di destinazione.
   - **Health Check:** il metodo di controllo dell'integrità preferito da queste opzioni.

@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Configurar pesos para o balanceador de carga
+# Configurando pesos para o Load Balancer
+{; #configuring-weights-for-the-load-balancer}
 
 Pesos são um sistema de designação de valores numéricos para os servidores que você deseja que recebam mais tráfego. Um número maior representa uma prioridade mais alta, contato que o servidor esteja on-line de acordo com as verificações de funcionamento.  
 
@@ -15,7 +16,7 @@ Por exemplo, se _server1_ tiver um peso de 80 e _server2_ tiver um peso de 20, e
 
 É possível configurar pesos para um serviço específico quando você
 [inclui o serviço em um grupo de
-serviços](add-service-service-group.html) ou [editando o serviço](edit-service-load-balancer.html)
+serviços](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group) ou [editando o serviço](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-editing-a-service)
 após ele ter sido criado.
 
 Quando sua configuração tiver sido salva, as mudanças entrarão em vigor imediatamente. É

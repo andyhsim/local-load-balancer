@@ -7,13 +7,14 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Modification d'un service 
+# Edition d'un service
+{: #editing-a-service}
 
 Après avoir ajouté un service au groupe de services de l'équilibreur de charge, vous pouvez le modifier à tout moment. Vous pouvez modifier tous les paramètres de base d'un service et vous pouvez également ajouter des notes supplémentaires à l'aide de la fonction d'édition. 
 
 Suivez les étapes ci-dessous pour modifier un service.
 
-1. Dans la page [Détails de l'équilibreur de charge local](view-all-load-balancers.html), recherchez le service que vous souhaitez modifier en développant la flèche sur la gauche.
+1. Dans la page [Détails de l'équilibreur de charge local](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), recherchez le service que vous souhaitez modifier en développant la flèche sur la gauche.
 2. Modifiez les zones suivantes, selon vos besoins :
   - **IP de destination :** Adresse IP du serveur de destination.
   - **Port de destination :** Numéro de port utilisé pour acheminer le trafic au serveur de destination.

@@ -7,13 +7,14 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Editar un servicio 
+# Editar un servicio
+{: #editing-a-service}
 
 Una vez que se haya añadido un servicio a un grupo de servicios de un equilibrador de carga, se puede editar en cualquier momento. Todos los valores básicos de un servicio son elegibles para ediciones, y también se pueden añadir notas adicionales mediante la característica de edición. 
 
 Siga estos pasos para editar un servicio.
 
-1. Desde la página [Detalles de equilibradores de carga local](view-all-load-balancers.html), localice el servicio que desea editar ampliando la flecha a la izquierda.
+1. Desde la página [Detalles de equilibradores de carga local](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), localice el servicio que desea editar ampliando la flecha a la izquierda.
 2. Edite los campos siguientes, según desee:
   - **IP de destino:** La dirección IP del servidor de destino.
   - **Puerto de destino:** El número de puerto a utilizar para direccionar tráfico al servidor de destino.

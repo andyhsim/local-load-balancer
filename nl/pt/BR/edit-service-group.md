@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Editar um grupo de serviços
+# Editando um grupo de serviços
+{: #editing-a-service-group}
 
 Depois de incluir um grupo de serviços em um
 {{site.data.keyword.loadbalancer_short}}, suas configurações básicas (incluindo
@@ -22,12 +23,12 @@ Siga as etapas abaixo para editar um grupo de serviços existente para um
 {{site.data.keyword.loadbalancer_short}}.
 
 1. Na página [Detalhes do Local Load
-Balancer](view-all-load-balancers.html), expanda os detalhes do Grupo de serviços clicando no ícone de expansão
+Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), expanda os detalhes do Grupo de serviços clicando no ícone de expansão
 no lado esquerdo da linha correspondente ao Grupo de serviços que você gostaria de
 editar.
 2. Atualize as configurações do grupo de serviços:
-  - **Método:** selecione um [Método de balanceamento](load_balancing_methods.html) na lista suspensa.
-  - **Porta virtual:** o número da porta que será usada para o grupo de serviços. Consulte as [Perguntas mais frequentes de portas de serviço comum](load-balancing-faqs-2.html#what-services-can-be-load-balanced-) para obter mais informações. 
+  - **Método:** selecione um [Método de balanceamento](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods) na lista suspensa.
+  - **Porta virtual:** o número da porta que será usada para o grupo de serviços. Consulte as [Perguntas mais frequentes de portas de serviço comum](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-faqs-for-local-load-balancer#what-services-can-be-load-balanced-) para obter mais informações. 
 
   	**Nota:** cada Grupo de serviços deve ser designado a uma porta exclusiva. Se uma porta exclusiva não for designada, um erro aparecerá na parte superior da página e o Grupo de serviços poderá não ser incluído até que um Portal Virtual exclusivo seja designado.
   - **Alocação:** a alocação para o grupo de serviços.

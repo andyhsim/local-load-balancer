@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Editar um serviço 
+# Editando um serviço
+{: #editing-a-service}
 
 Depois que um serviço foi incluído no grupo de serviços de um balanceador de carga,
 ele pode ser editado a qualquer momento. Todas as configurações básicas de um serviço são
@@ -17,7 +18,7 @@ edição.
 Siga as etapas abaixo para editar um serviço.
 
 1. Na página [Detalhes do Local Load
-Balancer](view-all-load-balancers.html), localize o serviço que você gostaria de editar expandindo a seta à
+Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), localize o serviço que você gostaria de editar expandindo a seta à
 esquerda.
 2. Edite os campos a seguir, conforme desejado:
   - **IP de destino:** o endereço IP do servidor de destino.

@@ -1,13 +1,13 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection=“local-loadbalancer" audience="network" arm="4034683" href="/docs/infrastructure/local-loadbalancer/getting-started.html" path="infrastructure/local-loadbalancer"}
+{: .toc subcollection="local-load-balancer" audience="network" arm="4034683" href="/docs/infrastructure/local-load-balancer?topic=infrastructure/local-load-balancer-getting-started-with-local-load-balancer" path="infrastructure/local-load-balancer"}
 Equilibreur de charge local IBM
 
     {: .navgroup id="learn"}
     getting-started.md
     about.md
-    [Découverte les équilibreurs de charge](../loadbalancer-service/explore-load-balancers.html)
+    /loadbalancer-service/loadbalancer-service-explore
     {: .navgroup-end}
 
     {: .navgroup id="howto"}

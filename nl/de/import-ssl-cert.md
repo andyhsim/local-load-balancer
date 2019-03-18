@@ -8,8 +8,9 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # SSL-Zertifikat importieren
+{: #importing-an-ssl-certificate}
 
-Nachdem ein SSL-Zertifikat für eine Website ausgestellt wurde, kann es in das Kundenportal importiert werden. Durch den Import von SSL-Zertifikaten in das Portal können die Zertifikate auf Produkte und Services angewendet werden, für die sie erforderlich sind, beispielsweise für die SSL-Auslagerung einer Lastausgleichsfunktion. Standardmäßig werden SSL-Zertifikate, die von IBM Cloud ausgegeben werden, nicht in die Liste importiert, da sie nur vom Empfänger bearbeitet werden sollen. Daher müssen alle SSL-Zertifikate, die mit einem IBM Cloud-Produkt oder -Service verwendet werden sollen, manuell von einem berechtigten Benutzer für das Konto importiert werden.
+Nachdem ein SSL-Zertifikat für eine Website ausgestellt wurde, kann es in das Kundenportal importiert werden. Durch den Import von SSL-Zertifikaten in das Portal können die Zertifikate auf Produkte und Services angewendet werden, für die sie erforderlich sind, beispielsweise für die SSL-Auslagerung einer Lastausgleichsfunktion. Standardmäßig werden SSL-Zertifikate, die von IBM© Cloud ausgegeben werden, nicht in die Liste importiert, da sie nur vom Empfänger bearbeitet werden sollen. Daher müssen alle SSL-Zertifikate, die mit einem IBM Cloud-Produkt oder -Service verwendet werden sollen, manuell von einem berechtigten Benutzer für das Konto importiert werden.
 
 Führen Sie die folgenden Schritte aus, um ein SSL-Zertifikat in das Kundenportal zu importieren.
 

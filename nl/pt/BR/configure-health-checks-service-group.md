@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Configurar verificações de funcionamento para um serviço
+# Configurando verificações de funcionamento para um serviço
+{: #configuring-health-checks-for-a-service}
 
 Verificações de funcionamento são projetadas para verificar regularmente se um servidor está on-line e aceitar tráfego para que um
 {{site.data.keyword.loadbalancer_short}} passe pelo tráfego. As verificações de funcionamento são projetadas para responder com uma resposta ATIVO ou INATIVO, dependendo do tempo limite customizado. O intervalo padrão é 120 segundos.
@@ -22,7 +23,7 @@ Há vários métodos de configurar verificações de funcionamento.
 
 Será possível configurar verificações de funcionamento para um serviço específico
 quando você [incluir o serviço em um grupo de
-serviços](add-service-service-group.html) ou [editando o serviço](edit-service-load-balancer.html)
+serviços](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group) ou [editando o serviço](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-editing-a-service)
 após ele ter sido criado.
 
 Quando sua configuração tiver sido salva, as mudanças entrarão em vigor imediatamente. Você será capaz de monitorar o status de suas verificações de funcionamento pelo ícone de status no grupo de serviços.

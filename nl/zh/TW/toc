@@ -1,13 +1,13 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection=“local-loadbalancer" audience="network" arm="4034683" href="/docs/infrastructure/local-loadbalancer/getting-started.html" path="infrastructure/local-loadbalancer"}
+{: .toc subcollection="local-load-balancer" audience="network" arm="4034683" href="/docs/infrastructure/local-load-balancer?topic=infrastructure/local-load-balancer-getting-started-with-local-load-balancer" path="infrastructure/local-load-balancer"}
 IBM Local Load Balancer
 
     {: .navgroup id="learn"}
-getting-started.md
+    getting-started.md
     about.md
-    [探索負載平衡器](../loadbalancer-service/explore-load-balancers.html)
+    /loadbalancer-service/loadbalancer-service-explore
     {: .navgroup-end}
 
     {: .navgroup id="howto"}

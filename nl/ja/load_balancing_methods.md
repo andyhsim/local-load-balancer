@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # ロード・バランシング方法
+{: #load-balancing-methods}
 
 | 方法|説明|
 |:---|:---|

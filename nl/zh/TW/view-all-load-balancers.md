@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # 檢視本端負載平衡器詳細資料
+{: #viewing-local-load-balancer-details}
 
 與「本端負載平衡器」的所有互動都會從其「詳細資料」頁面進行，您可以在其中管理「服務群組」、檢視統計資料，以及查看 SSL 卸載功能狀態。若要檢視「本端負載平衡器」的清單並存取個別「本端負載平衡器」的「詳細資料」頁面，請遵循以下的指示：
 
@@ -16,8 +17,8 @@ lastupdated: "2018-11-12"
 3. 從**負載平衡器**清單頁面中，按一下**本端負載平衡器**標籤，以檢視「本端負載平衡器」的清單。
 4. 按一下 **VIP 位址**鏈結，以存取**詳細資料**頁面。或者，您可以在要管理之「本端負載平衡器」相對應的列上，按下拉功能表中的**動作 > 檢視詳細資料**。
 
-**本端負載平衡器詳細資料**畫面依預設會進到「服務群組」標籤，其可讓使用者新增、刪除或編輯「服務群組」、重設連線，或新增服務。您可以從「統計資料」標籤中檢視每個「服務群組」的統計資料，而「SSL 卸載功能」標籤可讓您進行 [SSL 卸載功能配置](configure-ssl-offloading-load-balancer.html)。
+**本端負載平衡器詳細資料**畫面依預設會進到「服務群組」標籤，其可讓使用者新增、刪除或編輯「服務群組」、重設連線，或新增服務。您可以從「統計資料」標籤中檢視每個「服務群組」的統計資料，而「SSL 卸載功能」標籤可讓您進行 [SSL 卸載功能配置](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-configuring-ssl-offloading-on-a-load-balancer)。
 
 ## 後續情形
 
-[將服務群組新增至本端負載平衡器](add-service-group-load-balancer.html)。 
+[將服務群組新增至本端負載平衡器](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer)。 

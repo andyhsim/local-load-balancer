@@ -7,13 +7,14 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Service bearbeiten 
+# Service bearbeiten
+{: #editing-a-service}
 
 Nachdem ein Service zu einer Servicegruppe der Lastausgleichsfunktion hinzugefügt wurde, kann er jederzeit bearbeitet werden. Alle Grundeinstellungen eines Service dürfen bearbeitet werden. Zudem können mit der Bearbeitungsfunktion zusätzliche Anmerkungen hinzugefügt werden. 
 
 Führen Sie die folgenden Schritte aus, um einen Service zu bearbeiten.
 
-1. Suchen Sie auf der Seite mit den [Details zu Local Load Balancer](view-all-load-balancers.html) nach dem Service, den Sie bearbeiten möchten, indem Sie links auf den Pfeil klicken.
+1. Suchen Sie auf der Seite mit den [Details zu Local Load Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) nach dem Service, den Sie bearbeiten möchten, indem Sie links auf den Pfeil klicken.
 2. Bearbeiten Sie die folgenden Felder wie gewünscht:
   - **Ziel-IP:** Die IP-Adresse des Zielservers.
   - **Zielport:** Die Portnummer zum Weiterleiten des Datenverkehrs an den Zielserver.

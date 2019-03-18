@@ -8,15 +8,15 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-# Perguntas mais frequentes
+# Perguntas frequentes para o Local Load Balancer
+{: #faqs-for-local-load-balancer}
+
 Este tópico contém respostas às perguntas mais frequentes sobre o Local Load Balancer.
 
-## Quais produtos de balanceamento de carga a IBM oferece?
+## Que produtos de Load Balancing são oferecidos pela IBM©?
 {:faq}
 
-Para obter uma comparação detalhada das ofertas de balanceamento de carga no IBM Cloud, consulte este
-[tópico
-![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
+Para obter uma comparação detalhada das ofertas de Load Balancing no IBM Cloud, consulte [este tópico](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore).
 
 ## Qual é a diferença entre um balanceador de carga compartilhado e dedicado?
 {:faq}
@@ -92,7 +92,7 @@ Essa opção está disponível somente abrindo um chamado.
 {:faq}
 
 O IBM Cloud oferece vários métodos de balanceamento, incluindo únicos e híbridos.  Consulte
-[Métodos de balanceamento de carga](load_balancing_methods.html) para
+[Métodos de balanceamento de carga](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods) para
 obter mais informações sobre cada método de balanceamento de carga que atualmente
 oferecemos.
 
@@ -101,4 +101,3 @@ oferecemos.
 
 Isso é possível, mas apenas com um método de balanceamento persistente. Outros
 métodos não são suportados porque o tráfego é criptografado.
-

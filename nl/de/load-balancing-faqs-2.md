@@ -8,13 +8,15 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-# Häufig gestellte Fragen
+# Häufig gestellte Fragen zu Local Load Balancer
+{: #faqs-for-local-load-balancer}
+
 Dieser Abschnitt enthält Antworten auf häufig gestellte Fragen zu Local Load Balancer.
 
-## Welche Produkte für den Lastausgleich bietet IBM?
+## Welche Produkte für den Lastausgleich bietet IBM© an? 
 {:faq}
 
-Einen detaillierten Vergleich der Angebote für den Lastausgleich in IBM Cloud finden Sie in diesem [Abschnitt ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
+Einen detaillierten Vergleich der Angebote für den Lastausgleich in IBM Cloud finden Sie in diesem [Abschnitt](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore). 
 
 ## Was ist der Unterschied zwischen einer gemeinsam genutzten und einer dedizierten Lastausgleichsfunktion?
 {:faq}
@@ -74,10 +76,9 @@ Diese Option ist nur durch das Öffnen eines Tickets verfügbar.
 ## Welche Lastausgleichsmethoden stehen im Rahmen einer Lastausgleichsfunktion zur Verfügung?
 {:faq}
 
-IBM Cloud bietet verschiedene Lastausgleichsmethoden, darunter Einzel- und Hybridmethoden.  Weitere Informationen zu den aktuell angebotenen Lastausgleichsmethoden finden Sie unter [Lastausgleichsmethoden](load_balancing_methods.html).
+IBM Cloud bietet verschiedene Lastausgleichsmethoden, darunter Einzel- und Hybridmethoden.  Weitere Informationen zu den aktuell angebotenen Lastausgleichsmethoden finden Sie unter [Lastausgleichsmethoden](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods).
 
 ## Ist es möglich, für mit SSL verschlüsselten Datenverkehr einen Lastausgleich mit Sitzungsattraktivität durchzuführen?
 {:faq}
 
 Dies ist möglich, allerdings nur mit einer persistenten Lastausgleichsmethode. Andere Methoden werden nicht unterstützt, da der Datenverkehr verschlüsselt ist.
-

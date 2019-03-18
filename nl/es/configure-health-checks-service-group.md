@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Configurar comprobaciones de estado para un servicio
+{: #configuring-health-checks-for-a-service}
 
 Las comprobaciones de estado están diseñadas para comprobar regularmente si un servidor está en línea y acepta tráfico para que un {{site.data.keyword.loadbalancer_short}} pase tráfico por él. Las comprobaciones de estado están diseñadas para responder con una respuesta UP o DOWN dependiendo del tiempo de espera personalizado. El intervalo predeterminado es de 120 segundos.
 
@@ -19,6 +20,6 @@ Existen varios métodos para configurar las comprobaciones de estado.
 - **Ping:** Una prueba de ping sencilla a través de ICMP.
 - **TCP:** Muy similar a una prueba ping, pero explícitamente a través de TCP. Esta opción debería utilizarse si tiene conexiones ICMP bloqueados.
 
-Puede configurar comprobaciones de estado para un servicio concreto cuando se [añada el servicio a un grupo de servicios](add-service-service-group.html) o cuando se [edite el servicio](edit-service-load-balancer.html) después de que se haya creado.
+Puede configurar comprobaciones de estado para un servicio concreto cuando se [añada el servicio a un grupo de servicios](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group) o cuando se [edite el servicio](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-editing-a-service) después de que se haya creado.
 
 Una vez que se haya guardado la configuración, los cambios entrarán en vigor inmediatamente. Podrá supervisar el estado de sus comprobaciones de estado desde el icono de estado del grupo de servicios.

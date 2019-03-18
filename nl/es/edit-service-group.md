@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Editar un grupo de servicios
+{: #editing-a-service-group}
 
 Después de añadir un grupo de servicios a un {{site.data.keyword.loadbalancer_short}}, sus valores básicos (como el método de equilibrio y el puerto virtual), Asignación de conexiones y Notas, se pueden editar. Las ediciones para cada grupo de servicios son inmediatamente visibles y se pueden realizar ediciones adicionales en cualquier momento. 
 
@@ -15,10 +16,10 @@ Si el tipo de grupo para un grupo de servicios necesita modificarse, el grupo de
 
 Siga estos pasos para editar un grupo de servicios existente para un {{site.data.keyword.loadbalancer_short}}.
 
-1. Desde la página [Detalles de equilibradores de carga local](view-all-load-balancers.html), expanda los detalles del grupo de servicios pulsando el icono Expandir en el lado izquierdo de la fila correspondiente al grupo de servicios que desea editar.
+1. Desde la página [Detalles de equilibradores de carga local](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), expanda los detalles del grupo de servicios pulsando el icono Expandir en el lado izquierdo de la fila correspondiente al grupo de servicios que desea editar.
 2. Actualice los valores del grupo de servicios:
-  - **Método:** Seleccione un [Método de equilibrio](load_balancing_methods.html) en la lista desplegable.
-  - **Puerto virtual:** Número de puerto que se utilizará para el grupo de servicios. Consulte las [Preguntas frecuentes de los puertos de servicio comunes](load-balancing-faqs-2.html#what-services-can-be-load-balanced-) para obtener más información. 
+  - **Método:** Seleccione un [Método de equilibrio](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods) en la lista desplegable.
+  - **Puerto virtual:** Número de puerto que se utilizará para el grupo de servicios. Consulte las [Preguntas frecuentes de los puertos de servicio comunes](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-faqs-for-local-load-balancer#what-services-can-be-load-balanced-) para obtener más información. 
 
   	**Nota:** Cada grupo de servicios debe estar asignado a un puerto exclusivo. Si un puerto exclusivo no está asignado, aparecerá un error en la parte superior de la página y el grupo de servicio puede no añadirse hasta que se asigne un portal virtual exclusivo.
   - **Asignación:** Asignación para el grupo de servicios.

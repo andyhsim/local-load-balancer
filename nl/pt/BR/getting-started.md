@@ -7,8 +7,10 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Introdução
-Para introdução ao IBM Local Load Balancer, navegue para a página de ordem no Portal do cliente:
+# Introdução ao Local Load Balancer
+{: #getting-started-with-local-load-balancer}
+
+Para iniciar com o IBM© Local Load Balancer, navegue para a página de pedido no Portal do Cliente:
 
 1. Em seu navegador, abra [Portal do Cliente ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window} e efetue login em sua conta.
 2. Na navegação do Portal do Cliente, selecione **Rede > Balanceamento de carga > Local**.
@@ -24,7 +26,10 @@ dedicado**.
 8. Clique em **Continuar** para confirmar a ordem.
 
 Os Load Balancers compartilhados são provisionados imediatamente e podem
-ser vistos em minutos após a ordem. Os Load Balancers dedicados dependem da
+ser vistos em minutos após a ordem. 
+
+Os Load Balancers dedicados dependem da
 disponibilidade de hardware no local solicitado. Uma vez provisionado, o balanceador de
 carga aparecerá na página de lista Load Balancers e você poderá clicar nele para
-visualizar os detalhes.
+visualizar os detalhes. VIPs adicionais podem ser solicitados para Local Load Balancers abrindo um chamado de
+vendas.

@@ -8,13 +8,15 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-# Preguntas más frecuentes
+# Preguntas más frecuentes sobre el equilibrador de carga local
+{: #faqs-for-local-load-balancer}
+
 Este tema contiene respuestas a las preguntas más frecuentes sobre el equilibrador de carga local.
 
-## ¿Qué productos de equilibrio de carga ofrece IBM?
+## ¿Qué productos de equilibrio de carga ofrece IBM©?
 {:faq}
 
-Para obtener una comparación detallada de las ofertas de equilibrio de carga en IBM Cloud, consulte este [tema ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}.
+Para obtener una comparación detallada de las ofertas de equilibrio de carga en IBM Cloud, consulte [este tema](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore).
 
 ## ¿Cuál es la diferencia entre un equilibrador de carga compartido y dedicado?
 {:faq}
@@ -74,10 +76,9 @@ Esta opción solo está disponible al abrir una incidencia.
 ## ¿Qué métodos de equilibrio están disponibles con un equilibrador de carga?
 {:faq}
 
-IBM Cloud ofrece varios métodos de equilibrio, incluidos los únicos y los híbridos.  Consulte [Métodos de equilibrio de carga](load_balancing_methods.html) para obtener más información sobre cada método de equilibrio de carga que se ofrece actualmente.
+IBM Cloud ofrece varios métodos de equilibrio, incluidos los únicos y los híbridos.  Consulte [Métodos de equilibrio de carga](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods) para obtener más información sobre cada método de equilibrio de carga que se ofrece actualmente.
 
 ## ¿Es posible equilibrar la carga de tráfico cifrado SSL con la retención de sesión?
 {:faq}
 
 Es posible, pero solo con un método de equilibrio persistente. Otros métodos no están soportados, puesto que el tráfico está cifrado.
-

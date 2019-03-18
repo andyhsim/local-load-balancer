@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # 为服务配置运行状况检查
+{: #configuring-health-checks-for-a-service}
 
 运行状况检查旨在定期检查服务器是否处于联机状态并在接受{{site.data.keyword.loadbalancer_short}}传递的流量。运行状况检查旨在根据定制超时以“已启动”或“已关闭”应答进行响应。缺省时间间隔为 120 秒。
 
@@ -19,6 +20,6 @@ lastupdated: "2018-11-12"
 - **Ping：**通过 ICMP 执行的简单 ping 测试。
 - **TCP：**与 ping 测试非常类似，但要通过 TCP 显式执行。如果阻塞了 ICMP 连接，那么应该使用此选项。
 
-您可以在[向服务组添加服务](add-service-service-group.html)时，为特定服务配置运行状况检查，也可以在创建服务后通过[编辑服务](edit-service-load-balancer.html)来配置。
+您可以在[向服务组添加服务](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group)时，为特定服务配置运行状况检查，也可以在创建服务后通过[编辑服务](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-editing-a-service)来配置。
 
 保存配置后，更改将立即生效。您将能够通过服务组中的“状态”图标来监视运行状况检查的状态。

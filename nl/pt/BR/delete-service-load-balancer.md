@@ -7,7 +7,8 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Excluir um serviço 
+# Excluindo um Serviço
+{: #deleting-a-service}
 
 Depois que um serviço tiver sido incluído em um Grupo de serviços para um
 {{site.data.keyword.loadbalancer_short}}, ele poderá ser excluído a qualquer
@@ -19,14 +20,14 @@ Como alternativa, um serviço pode ser desativado, o que o manterá associado
 ao grupo e ao mesmo tempo o tornará indisponível para os esforços de balanceamento. Para
 manter o serviço associado ao grupo de serviços do
 {{site.data.keyword.loadbalancer_short}},
-[edite o serviço](edit-service-load-balancer.html) e
+[edite o serviço](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-editing-a-service) e
 desmarque a caixa de seleção **Ativado**. 
 
 Siga as etapas abaixo para excluir o serviço do
 {{site.data.keyword.loadbalancer_short}}.
 
 1. Na página [Detalhes do Local Load
-Balancer](view-all-load-balancers.html), localize o serviço que você gostaria de excluir e expanda a seta no lado
+Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), localize o serviço que você gostaria de excluir e expanda a seta no lado
 esquerdo.
 2. Clique no 'x' vermelho no final da linha do serviço.
 3. Clique em **Salvar configuração** na parte inferior da

@@ -8,13 +8,15 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-# 常見問題 (FAQ)
+# Local Load Balancer 的常見問題
+{: #faqs-for-local-load-balancer}
+
 本主題包含有關「本端負載平衡器」的常見問題的回答。
 
-## IBM 提供哪些「負載平衡」產品？
+## IBM© 提供哪些「負載平衡」產品？
 {:faq}
 
-如需 IBM Cloud 中「負載平衡」供應項目的詳細比較資料，請參閱本[主題 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}。
+如需 IBM Cloud 中「負載平衡」供應項目的詳細比較資料，請參閱[本主題](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore)。
 
 ## 共用與專用負載平衡器之間的差異何謂？
 {:faq}
@@ -74,10 +76,9 @@ IBM Cloud 負載平衡器中的虛擬埠就是您希望在其上執行服務的�
 ## 「負載平衡器」有哪些平衡方法？
 {:faq}
 
-IBM Cloud 提供多種平衡方法，包括單一和混合方法。如需我們目前提供的每種負載平衡方法的相關資訊，請參閱[負載平衡方法](load_balancing_methods.html)。
+IBM Cloud 提供多種平衡方法，包括單一和混合方法。如需我們目前提供的每種負載平衡方法的相關資訊，請參閱[負載平衡方法](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods)。
 
 ## 是否有可能透過階段作業粘性負載平衡 SSL 加密的資料流量嗎？
 {:faq}
 
 這是有可能的，但只能透過持續性平衡方法。由於資料流量已加密，因此不支援其他方法。
-

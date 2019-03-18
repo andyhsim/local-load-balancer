@@ -7,14 +7,15 @@ lastupdated: "2018-11-12"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Excluir um grupo de serviços
+# Excluindo um grupo de serviços
+{: #deleting-a-service-group}
 
 Ao excluir um grupo de serviços, todos os serviços associados ao grupo também serão
 excluídos. Siga as etapas abaixo para excluir um grupo de serviços para um
 {{site.data.keyword.loadbalancer_short}}.
 
 1. Na página [Detalhes do Local Load
-Balancer](view-all-load-balancers.html), identifique a linha do grupo de serviços que você gostaria de
+Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), identifique a linha do grupo de serviços que você gostaria de
 excluir e clique em **Ações > Remover grupo**.
 2. Clique em **Salvar configuração**.
 

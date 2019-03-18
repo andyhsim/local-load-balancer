@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Affichage des détails de l'équilibreur de charge local
+{: #viewing-local-load-balancer-details}
 
 Toutes les interactions avec un équilibreur de charge local se font à partir de la page Détails, dans laquelle vous pouvez gérer des groupes de services, afficher des statistiques et visualiser l'état de déchargement SSL. Pour afficher la liste des équilibreurs de charge local et accéder à la page d'un équilibreur de charge en particulier, suivez les instructions ci-dessous :
 
@@ -16,8 +17,8 @@ Toutes les interactions avec un équilibreur de charge local se font à partir d
 3. Dans la liste **Equilibreurs de charge**, cliquez sur l'onglet **Equilibreur de charge local** pour afficher la liste des équilibreurs de charge locaux.
 4. Cliquez sur le lien **Adresse VIP** pour accéder à la page **Détails**. Vous pouvez également cliquer sur **Actions > Afficher Détails** dans le menu déroulant correspondant à l'équilibreur de charge local que vous souhaitez gérer.
 
-L'écran **Détails de l'équilibreur de charge local** affiche par défaut l'onglet Groupes de services, dans lequel les utilisateurs peuvent ajouter, supprimer ou modifier des groupes de services, réinitialiser les connexions ou ajouter un service. Vous pouvez consulter des statistiques sur chaque groupe de service à partir de l'onglet Statistiques et utiliser l'onglet Déchargement SSL pour procéder à la [configuration du déchargement SSL](configure-ssl-offloading-load-balancer.html).
+L'écran **Détails de l'équilibreur de charge local** affiche par défaut l'onglet Groupes de services, dans lequel les utilisateurs peuvent ajouter, supprimer ou modifier des groupes de services, réinitialiser les connexions ou ajouter un service. Vous pouvez consulter des statistiques sur chaque groupe de service à partir de l'onglet Statistiques et utiliser l'onglet Déchargement SSL pour procéder à la [configuration du déchargement SSL](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-configuring-ssl-offloading-on-a-load-balancer).
 
 ## Etapes suivantes
 
-[Ajout d'un groupe de services à votre équilibreur de charge local](add-service-group-load-balancer.html). 
+[Ajout d'un groupe de services à votre équilibreur de charge local](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer). 

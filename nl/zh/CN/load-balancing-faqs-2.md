@@ -8,13 +8,15 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-# 常见问题
+# 本地负载均衡器常见问题
+{: #faqs-for-local-load-balancer}
+
 本主题包含对本地负载均衡器相关常见问题的解答。
 
-## IBM 提供了哪些负载均衡产品？
+## IBM© 提供哪些负载均衡产品？
 {:faq}
 
-有关 IBM Cloud 中的负载均衡产品的详细比较，请参阅此[主题 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](/docs/infrastructure/loadbalancer-service/explore-load-balancers.html#explore-load-balancers){: new_window}。
+有关 IBM Cloud 中的负载均衡产品的详细比较信息，请参阅[此主题](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore)。
 
 ## 共享和专用负载均衡器有什么区别？
 {:faq}
@@ -74,10 +76,9 @@ IBM Cloud 负载均衡器中的虚拟端口就是您希望在其上运行服务�
 ## 负载均衡器有哪些均衡方法可用？
 {:faq}
 
-IBM Cloud 提供了多种均衡方法，包括单个和混合方法。有关我们目前提供的每种负载均衡方法的更多信息，请参阅[负载均衡方法](load_balancing_methods.html)。
+IBM Cloud 提供了多种均衡方法，包括单个和混合方法。有关我们目前提供的每种负载均衡方法的更多信息，请参阅[负载均衡方法](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods)。
 
 ## 可以使用会话吸引力对 SSL 加密流量进行负载均衡吗？
 {:faq}
 
 可以，但只能使用持久均衡方法。由于流量已加密，因此不支持其他方法。
-

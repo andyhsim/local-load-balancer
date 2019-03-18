@@ -8,10 +8,11 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # 向服务组添加服务
+{: #adding-a-service-to-a-service-group}
 
 向{{site.data.keyword.loadbalancer_short}}添加了服务组后，可添加服务以开始均衡过程。可以向一个服务组添加多个服务，并且可以对服务加权，以允许对每个设备在任意给定时间应该如何接收工作负载划分优先级。执行以下步骤来向{{site.data.keyword.loadbalancer_short}}的服务组添加新服务。
 
-1. 从[本地负载均衡器详细信息](view-all-load-balancers.html)页面，在要添加服务的服务组所对应行上的下拉菜单中，单击**操作 > 添加服务**。或者，通过单击该行左侧的“展开”图标来展开组详细信息，然后单击**添加服务**按钮。将在“服务组详细信息”部分的底部添加新的“服务”部分。
+1. 从[本地负载均衡器详细信息](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details)页面，在要添加服务的服务组所对应行上的下拉菜单中，单击**操作 > 添加服务**。或者，通过单击该行左侧的“展开”图标来展开组详细信息，然后单击**添加服务**按钮。将在“服务组详细信息”部分的底部添加新的“服务”部分。
 2. 输入服务参数：
   - **目标 IP：**目标服务器的 IP 地址。
   - **目标端口：**用于将流量路由到目标服务器的端口号。

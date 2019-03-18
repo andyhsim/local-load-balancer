@@ -8,6 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Méthodes d'équilibrage de charge
+{: #load-balancing-methods}
 
 | Méthode|Description|
 |:---|:---|
