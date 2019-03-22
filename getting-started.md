@@ -6,9 +6,15 @@ lastupdated: "2018-11-12"
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:important: .important}
+{:download: .download}
+{:note: .note}
 
 # Getting Started With Local Load Balancer
 {: #getting-started-with-local-load-balancer}
+
+As of June 1, 2019 Local Load Balancer will no longer be available for sale. You are encouraged to migrate from Local Load Balancer to our latest full-featured load balancing offering, the [Cloud Load Balancer](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-getting-started-with-ibm-cloud-load-balancer#getting-started). For more information about the migration, refer to [IBM Cloud Load Balancer Migration FAQs](/docs/infrastructure/local-load-balancer?topic=migration-faq).
+{: important}
 
 To get started with the IBM© Local Load Balancer, navigate to the order page in the Customer Portal:
 
@@ -21,6 +27,6 @@ To get started with the IBM© Local Load Balancer, navigate to the order page in
 7. If you would like a dedicated Local Load Balancer, choose the number of connections and whether High Availability is desired from the **Select Dedicated** section.
 8. Click **Continue** to confirm the order.
 
-Shared Load Balancers are provisioned immediately and can be seen within minutes of ordering. 
+Shared Load Balancers are provisioned immediately and can be seen within minutes of ordering.
 
 Dedicated Load Balancers depend on hardware availability in the location requested. Once provisioned, the Load Balancer will show up on the Load Balancers list page and you can click on it to view the details. Additional VIPs can be ordered for Local Load Balancers by opening a Sales Ticket.
