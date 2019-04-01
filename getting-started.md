@@ -13,9 +13,6 @@ lastupdated: "2018-11-12"
 # Getting Started With Local Load Balancer
 {: #getting-started-with-local-load-balancer}
 
-As of June 1, 2019 Local Load Balancer will no longer be available for sale. You are encouraged to migrate from Local Load Balancer to our latest full-featured load balancing offering, the [Cloud Load Balancer](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-getting-started-with-ibm-cloud-load-balancer#getting-started). For more information about the migration, refer to [IBM Cloud Load Balancer Migration FAQs](/docs/infrastructure/local-load-balancer?topic=migration-faq).
-{: important}
-
 To get started with the IBM© Local Load Balancer, navigate to the order page in the Customer Portal:
 
 1. From your browser, open  [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window} and log into your account.
