@@ -1,8 +1,12 @@
 ---
 
 copyright:
-  years: 2017,2019
-lastupdated: "2019-03-22"
+  years: 2017, 2018
+lastupdated: "2019-03-28"
+
+keywords: migrate, update, load balancer, local, cloud
+
+subcollection: local-load-balancer
 
 ---
 
@@ -12,14 +16,15 @@ lastupdated: "2019-03-22"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Local Load Balancer End of Marketing Announcement
 {: #alb-end-of-marketing-announcement}
 
-Effective June 01, 2019, IBM Cloud will no longer market or sell our Local Load Balancer service.
-
-As a customer, you can still receive support for this service until its End of Support date, which has yet to be announced. A 90-day EOS notification email will be sent at a later date. Customers are encouraged to upgrade to our latest full-featured load balancing offering: [IBM Cloud Load Balancer](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-getting-started-with-ibm-cloud-load-balancer).
+Effective June 01, 2019, IBM Cloud will no longer market or sell our Local Load Balancer service. As a customer, you can still receive support for this service until its End of Support date, which has yet to be announced. A 90-day EOS notification email will be sent at a later date. Customers are encouraged to upgrade to our latest full-featured load balancing offering: [IBM Cloud Load Balancer](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-getting-started-with-ibm-cloud-load-balancer).
+{: important}
 
 IBM Cloud Load Balancer offers a more enhanced customer experience, including:
 

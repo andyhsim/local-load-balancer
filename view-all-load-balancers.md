@@ -20,5 +20,6 @@ All interactions with a Local Load Balancer take place from its Details page whe
 The **Local Load Balancer Details** screen defaults to the Service Groups tab, which allows users to add, delete or edit Service Groups, reset connections or add a service. Statistics may be viewed for each Service Group from the Statistics tab and the SSL Offload tab allows for [SSL Offloading configuration](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-configuring-ssl-offloading-on-a-load-balancer).
 
 ## What Happens Next
+{: #what-happens-next-2}
 
-[Add a Service Group to your Local Load Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer). 
+[Add a Service Group to your Local Load Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer).

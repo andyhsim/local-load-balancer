@@ -1,8 +1,12 @@
 ---
 
 copyright:
-  years: 2017,2019
-lastupdated: "2019-03-19"
+  years: 2017, 2018
+lastupdated: "2019-03-28"
+
+keywords: migrate, update, load balancer, local, cloud, faq, support
+
+subcollection: local-load-balancer
 
 ---
 
@@ -12,6 +16,8 @@ lastupdated: "2019-03-19"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 {:faq: data-hd-content-type='faq'}
 
