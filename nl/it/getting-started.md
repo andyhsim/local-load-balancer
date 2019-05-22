@@ -8,7 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Introduzione al programma di bilanciamento del carico locale
-{: #getting-started-with-local-load-balancer}
+{: #getting-started}
 
 Per un'introduzione al programma di bilanciamento del carico locale IBM©, vai alla pagina dell'ordine nel Portale del cliente:
 
@@ -21,6 +21,6 @@ Per un'introduzione al programma di bilanciamento del carico locale IBM©, vai a
 7. Se desideri un programma di bilanciamento del carico locale dedicato, scegli il numero di connessioni e se desideri l'alta disponibilità (HA, High Availability) dalla sezione **Select Dedicated**.
 8. Fai clic su **Continue** per confermare l'ordine.
 
-Il provisioning dei Load Balancers viene eseguito immediatamente e può essere visto a distanza di pochi minuti dall'ordinazione. 
+Il provisioning dei Load Balancers viene eseguito immediatamente e può essere visto a distanza di pochi minuti dall'ordinazione.
 
-I Load Balancers dedicati dipendono dalla disponibilità hardware nell'ubicazione richiesta. Dopo che ne è stato eseguito il provisioning, il programma di bilanciamento del carico sarà presente nella pagina di elenco dei Load Balancers e sarà possibile fare clic su di esso per visualizzare i dettagli. È possibile ordinare VIP aggiuntivi per i Load Balancers locali aprendo un ticket di vendite. 
+I Load Balancers dedicati dipendono dalla disponibilità hardware nell'ubicazione richiesta. Dopo che ne è stato eseguito il provisioning, il programma di bilanciamento del carico sarà presente nella pagina di elenco dei Load Balancers e sarà possibile fare clic su di esso per visualizzare i dettagli. È possibile ordinare VIP aggiuntivi per i Load Balancers locali aprendo un ticket di vendite.

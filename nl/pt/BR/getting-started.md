@@ -8,7 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Introdução ao Local Load Balancer
-{: #getting-started-with-local-load-balancer}
+{: #getting-started}
 
 Para iniciar com o IBM© Local Load Balancer, navegue para a página de pedido no Portal do Cliente:
 
@@ -26,7 +26,7 @@ dedicado**.
 8. Clique em **Continuar** para confirmar a ordem.
 
 Os Load Balancers compartilhados são provisionados imediatamente e podem
-ser vistos em minutos após a ordem. 
+ser vistos em minutos após a ordem.
 
 Os Load Balancers dedicados dependem da
 disponibilidade de hardware no local solicitado. Uma vez provisionado, o balanceador de

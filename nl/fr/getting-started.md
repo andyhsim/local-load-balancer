@@ -8,7 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Initiation à l'équilibreur de charge local
-{: #getting-started-with-local-load-balancer}
+{: #getting-started}
 
 Pour vous familiariser avec l'équilibreur de charge local IBM©, accédez à la page de commande dans le portail client :
 
@@ -21,6 +21,6 @@ Pour vous familiariser avec l'équilibreur de charge local IBM©, accédez à la
 7. Si vous souhaitez utiliser un équilibreur de charge local, choisissez le nombre de connexions et indiquez si vous souhaitez ou non utiliser la haute disponibilité dans la section **Sélectionner Dédié**.
 8. Cliquez sur **Continuer** pour valider la commande.
 
-Les équilibreurs de charge partagés sont immédiatement mis à disposition et sont visibles quelques minutes après la commande. 
+Les équilibreurs de charge partagés sont immédiatement mis à disposition et sont visibles quelques minutes après la commande.
 
 Les équilibreurs de charge dédiés dépendent de la disponibilité matérielle à l'emplacement demandé. Une fois mis à disposition, l'équilibreur de charge apparaît sur la page de liste des équilibreurs de charge et vous pouvez cliquer dessus pour en afficher les détails. Vous pouvez commander des adresses IP virtuelles (VIP) supplémentaires pour des équilibreurs de charge locaux en ouvrant un ticket de vente.

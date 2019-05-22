@@ -11,7 +11,7 @@ lastupdated: "2018-11-12"
 {:note: .note}
 
 # Getting Started With Local Load Balancer
-{: #getting-started-with-local-load-balancer}
+{: #getting-started}
 
 To get started with the IBM© Local Load Balancer, navigate to the order page in the Customer Portal:
 

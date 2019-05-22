@@ -8,7 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Iniciación al equilibrador de carga local
-{: #getting-started-with-local-load-balancer}
+{: #getting-started}
 
 Para empezar con el IBM© Local Load Balancer, vaya a la página de pedido del Portal de clientes:
 
@@ -21,6 +21,6 @@ Para empezar con el IBM© Local Load Balancer, vaya a la página de pedido del P
 7. Si desea un equilibrador de carga local dedicado, elija el número de conexiones y si desea la alta disponibilidad desde la sección **Seleccionar dedicado**.
 8. Pulse **Continuar** para confirmar el pedido.
 
-Los equilibradores de carga compartidos se suministran inmediatamente y se pueden ver dentro de las actas de reunión de pedido. 
+Los equilibradores de carga compartidos se suministran inmediatamente y se pueden ver dentro de las actas de reunión de pedido.
 
 Los equilibradores de carga dedicados dependen de la disponibilidad del hardware en la ubicación solicitada. Una vez suministrado, el equilibrador de carga se mostrará en la página de lista Equilibradores de carga y puede pulsar en él para ver los detalles. Se pueden solicitar VIP adicionales para equilibradores de carga locales abriendo una incidencia de venta.

@@ -8,7 +8,7 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 
 # Local Load Balancer 시작하기
-{: #getting-started-with-local-load-balancer}
+{: #getting-started}
 
 IBM© Local Load Balancer를 시작하려면 다음과 같이 고객 포털에서 주문 페이지로 이동하십시오.
 
@@ -23,4 +23,4 @@ IBM© Local Load Balancer를 시작하려면 다음과 같이 고객 포털에�
 
 공유 Load Balancers는 즉시 프로비저닝되며 주문한 후 몇 분 안에 볼 수 있습니다.  
 
-Dedicated Load Balancers는 요청한 위치에서 하드웨어가 사용 가능한지에 따라 달라집니다. 프로비저닝되고 나면 Load Balancers 목록 페이지에 Load Balancer가 표시되므로 클릭하여 세부사항을 볼 수 있습니다. 판매 티켓을 열어 Local Load Balancers에 대해 추가 VIP를 주문할 수 있습니다. 
+Dedicated Load Balancers는 요청한 위치에서 하드웨어가 사용 가능한지에 따라 달라집니다. 프로비저닝되고 나면 Load Balancers 목록 페이지에 Load Balancer가 표시되므로 클릭하여 세부사항을 볼 수 있습니다. 판매 티켓을 열어 Local Load Balancers에 대해 추가 VIP를 주문할 수 있습니다.
