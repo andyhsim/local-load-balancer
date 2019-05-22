@@ -7,6 +7,13 @@ IBM Local Load Balancer
     {: .navgroup id="learn"}
     getting-started.md
     about.md
+    
+    {: .topicgroup}
+    Local Load Balancer Migration Guide
+        eom.md
+        migration-steps.md
+        migration-faq.md
+        
     /loadbalancer-service/loadbalancer-service-explore
     {: .navgroup-end}
 

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2019-03-28"
+lastupdated: "2019-04-22"
 
 keywords: migrate, update, load balancer, local, cloud
 
@@ -22,7 +22,7 @@ subcollection: local-load-balancer
 
 # Migrating a Local Load Balancer to IBM Cloud Load Balancer
 
-You can migrate your Local Load Balancer to an IBM Cloud Load Balancer using the procedure described in this topic.
+You can migrate your Local Load Balancer to an IBM© Cloud Load Balancer by performing the following procedure.
 
 ## Step 1: Order a Cloud Load Balancer
 {: #step-1-order-a-cloud-load-balancer}
@@ -35,11 +35,13 @@ To order an IBM Cloud Load Balancer service, select **IBM Cloud Load Balancer** 
 4. Select the subnet where you'd like to deploy your load balancer.
 
   Your load balancer service instance will have one of its network interfaces on this subnet. Ensure that your application servers are either on this subnet or reachable from this subnet. If necessary, enable VLAN spanning.
+  {: note}
 
-5. Create front-end and back-end application protocols and ports with the same configuration as the service groups you are currently using in your Local load Balancer.
-6. Adjust your health check parameters if desired, otherwise use the default settings.
-7. Click **Attach Server** to add any server instances you used for your Local load Balancer service.
-8. Review the page, confirm the Service Agreement, then click **Create**.
+5. Create front-end and back-end application protocols and ports with the same configuration as the service groups you are currently using in your Local load Balancer. For more information on this configuration, refer to [Configuring IBM Cloud Load Balancer Parameters](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-configuring-ibm-cloud-load-balancer-parameters#configuring-ibm-cloud-load-balancer-parameters).
+6. To enable SSL offload, set the front-end protocols to HTTPS, and the back-end protocols to HTTP. Then select the same SSL Certificate as your Local Load Balancer from the Certificate drop down box. The Certificate you use with your Local Load Balancer is in the drop down list because all existing SSL certificates are managed through the [IBM Cloud Certificate Store  ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic/security/sslcerts){:new_window}.
+7. Adjust your health check parameters if desired, otherwise use the default settings. For more information on health check parameters, refer to [IBM Cloud Load Balancer Parameters](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-configuring-ibm-cloud-load-balancer-parameters#configure-health-checks).
+8. Click **Attach Server** to add any server instances you used for your Local Load Balancer service.
+9. Review the page, confirm the Service Agreement, then click **Create**.
 
 The Load Balancer list displays, showing all of your service instances.
 
@@ -51,14 +53,20 @@ Clicking on the service name on this page takes you to the service overview page
 ## Step 2: Verify your Cloud Load Balancer is working as expected
 {: #step-2-verify-your-cloud-load-balancer-is-working-as-expected}
 
-Test your new Cloud Load Balancer using the domain listed in the status page above, ensuring that it functions in the same way as the VIP from your Local load Balancer.
+Be aware, at this point, you now have two load balancers working at the same time: your old Local Load Balancer, and the new IBM Cloud Load Balancer.
+{: important}
 
-Update any locations that use the Local Load Balancer VIP to instead use the new Cloud Load Balancer domain.
+Test the new IBM Cloud Load Balancer using the domain listed in the status page above, ensuring that it functions in the same way as the VIP from your Local load Balancer.
 
-## Step 3: Cancel your Local Load Balancer
+Then, update any locations that use the Local Load Balancer VIP to use the new Cloud Load Balancer domain instead.
+
+This configuration of the new new Cloud Load Balancer will be the only time you may experience downtime or traffic disruption in the migration process.
+{: note}
+
+## Step 3: Cancel your old Local Load Balancer
 {: #step-3-cancel-your-local-load-balancer}
 
-When you have replaced all Local load Balancer VIPs with the domain for your new IBM Cloud Load Balancer, and verified the functionality is working as expected, you can safely cancel your Local Load Balancer service. To do so, perform the following procedure:
+When you have replaced all Local load Balancer VIPs with the domain for your new IBM Cloud Load Balancer, and verified the functionality is working as expected, you can safely cancel your Local Load Balancer service. To do so, perform the following steps:
 
 1. Go to the [Local Load Balancer list page](https://cloud.ibm.com/classic/network/loadbalancing/local).
 2. Locate the Load Balancer you would like to delete and expand the arrow next to it.
