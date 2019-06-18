@@ -1,7 +1,7 @@
 ---
 copyright:
-  years: 1994, 2017, 2018
-lastupdated: "2018-11-12"
+  years: 1994, 2019
+lastupdated: "2019-06-11"
 ---
 
 {:shortdesc: .shortdesc}
@@ -10,12 +10,12 @@ lastupdated: "2018-11-12"
 # Importing an SSL Certificate
 {: #importing-an-ssl-certificate}
 
-After an SSL Certificate is issued for a website, it may be imported into the Customer Portal. By importing SSL Certificates into the Customer Portal, the Certificates may be applied to products and services that may require them, such as a Load Balancer's SSL Offloading. By default, SSL Certificates issued by IBM© Cloud are not imported into the list, as they are intended to be manipulated by the recipient only. Therefore, any SSL Certificate for use with an IBM Cloud product or service must be manually imported by an authorized user on the account.
+After an SSL Certificate is issued for a website, it may be imported into the {{site.data.keyword.cloud}} infrastructure customer portal. By importing SSL Certificates into the customer portal, the Certificates may be applied to products and services that may require them, such as a Load Balancer's SSL Offloading. By default, SSL Certificates issued by {{site.data.keyword.cloud_notm}} are not imported into the list, as they are intended to be manipulated by the recipient only. Therefore, any SSL Certificate for use with an {{site.data.keyword.cloud_notm}} product or service must be manually imported by an authorized user on the account.
 
-Perform the following procedure to import an SSL Certificate into the Customer Portal.
+Perform the following procedure to import an SSL Certificate into the customer portal.
 
-1. From your browser, open  [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window} and log into your account.
-2. In the Customer Portal navigation, select **Security > SSL > Certificates**.
+1. From your browser, open  [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window} and log into your account.
+2. In the customer portal navigation, select **Security > SSL > Certificates**.
 3. Click the **Import SSL Certificate** link on the top right hand side of the **SSL Certificates** page.
 2. Enter the SSL Certificate Details. 
 
@@ -27,4 +27,4 @@ Perform the following procedure to import an SSL Certificate into the Customer P
   - **Notes:** Any notes regarding the SSL Certificate that may be helpful to other users.
 4. Click **Import** to import the SSL Certificate. Click **Cancel** to cancel the action.
 
-After the SSL Certificate has been imported to the Customer Portal, it will be stored on the SSL Certificates screen until it is manually deleted. For all products or services requiring SSL Certificate details, the new SSL Certificate will appear in the list of available certificates for use when interacting with the SSL feature for the desired product or service. You can update the certificate or securely download its details at any time.
+After the SSL Certificate has been imported to the customer portal, it will be stored on the SSL Certificates screen until it is manually deleted. For all products or services requiring SSL Certificate details, the new SSL Certificate will appear in the list of available certificates for use when interacting with the SSL feature for the desired product or service. You can update the certificate or securely download its details at any time.
