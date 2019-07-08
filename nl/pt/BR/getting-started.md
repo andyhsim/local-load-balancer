@@ -1,19 +1,22 @@
 ---
 copyright:
-  years: 1994,2017,2018
-lastupdated: "2018-11-12"
+  years: 1994, 2019
+lastupdated: "2019-06-11"
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:important: .important}
+{:download: .download}
+{:note: .note}
 
 # Introdução ao Local Load Balancer
 {: #getting-started}
 
-Para iniciar com o IBM© Local Load Balancer, navegue para a página de pedido no Portal do Cliente:
+Para começar a usar o IBM© Local Load Balancer, navegue até a página de pedidos no portal do cliente da infraestrutura do {{site.data.keyword.cloud}}:
 
-1. Em seu navegador, abra [Portal do Cliente ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window} e efetue login em sua conta.
-2. Na navegação do Portal do Cliente, selecione **Rede > Balanceamento de carga > Local**.
+1. Em seu navegador, abra o [portal do cliente ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window} e faça login na sua conta.
+2. Na navegação do portal do cliente, selecione **Rede > Balanceamento de carga > Local**.
 3. Na página de lista **Load Balancers**, clique na guia **Local Load Balancer**.
 4. Clique no link **Pedir Local Load Balancer** no lado superior direito.
 5. ]Escolha **Local** no menu suspenso no qual você gostaria de ver o Load Balancer Local.

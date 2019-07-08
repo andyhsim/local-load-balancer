@@ -1,19 +1,22 @@
 ---
 copyright:
-  years: 1994,2017,2018
-lastupdated: "2018-11-12"
+  years: 1994, 2019
+lastupdated: "2019-06-11"
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:important: .important}
+{:download: .download}
+{:note: .note}
 
 # Iniciación al equilibrador de carga local
 {: #getting-started}
 
-Para empezar con el IBM© Local Load Balancer, vaya a la página de pedido del Portal de clientes:
+Para empezar a utilizar IBM© Local Load Balancer, vaya a la página de pedido del portal de clientes de la infraestructura de {{site.data.keyword.cloud}}:
 
-1. En el navegador, abra el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){: new_window} e inicie sesión en su cuenta.
-2. En la navegación del Portal de clientes, seleccione **Red > Equilibrio de carga > Local**.
+1. En el navegador, abra el [portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){: new_window} e inicie sesión en su cuenta.
+2. En la navegación del portal de clientes, seleccione **Red > Equilibrio de carga > Local**.
 3. Desde la página de lista **Equilibradores de carga**, pulse el separador **Equilibrador de carga local**.
 4. Pulse el enlace **Pedir equilibrador de carga local** en la parte superior derecha.
 5. Seleccione **Ubicación** en el menú desplegable donde desea el equilibrador de carga local.

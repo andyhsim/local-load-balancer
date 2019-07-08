@@ -21,5 +21,6 @@ A tela **Detalhes do Local Load Balancer** é padronizada para a guia Grupos de 
 transferência SSL](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-configuring-ssl-offloading-on-a-load-balancer).
 
 ## O que acontece em seguida
+{: #what-happens-next-2}
 
-[Incluir um grupo de serviços em seu Local Load Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer). 
+[Incluir um grupo de serviços em seu Local Load Balancer](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer).

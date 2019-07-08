@@ -20,5 +20,6 @@ Todas las interacciones con un equilibrador de carga local tienen lugar desde su
 La pantalla **Detalles de equilibradores de carga local** tiende de forma predeterminada al separador Grupos de servicios, que permite a los usuarios añadir, suprimir o editar grupos de servicios, restablecer conexiones o añadir un servicio. Las estadísticas pueden verse para cada grupo de servicios desde el separador Estadísticas y el separador Descarga de SSL permite la [configuración de descarga de SSL](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-configuring-ssl-offloading-on-a-load-balancer).
 
 ## Qué sucede a continuación
+{: #what-happens-next-2}
 
-[Añadir un grupo de servicios al equilibrador de carga local](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer). 
+[Añadir un grupo de servicios al equilibrador de carga local](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer).

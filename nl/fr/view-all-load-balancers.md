@@ -20,5 +20,6 @@ Toutes les interactions avec un équilibreur de charge local se font à partir d
 L'écran **Détails de l'équilibreur de charge local** affiche par défaut l'onglet Groupes de services, dans lequel les utilisateurs peuvent ajouter, supprimer ou modifier des groupes de services, réinitialiser les connexions ou ajouter un service. Vous pouvez consulter des statistiques sur chaque groupe de service à partir de l'onglet Statistiques et utiliser l'onglet Déchargement SSL pour procéder à la [configuration du déchargement SSL](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-configuring-ssl-offloading-on-a-load-balancer).
 
 ## Etapes suivantes
+{: #what-happens-next-2}
 
-[Ajout d'un groupe de services à votre équilibreur de charge local](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer). 
+[Ajout d'un groupe de services à votre équilibreur de charge local](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer).

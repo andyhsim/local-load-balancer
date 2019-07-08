@@ -20,5 +20,6 @@ lastupdated: "2018-11-12"
 **本地负载均衡器详细信息**屏幕缺省显示“服务组”选项卡，该选项卡支持用户添加、删除或编辑服务组，还支持重置连接或添加服务。可以在“统计信息”选项卡中查看每个服务组的统计信息，并且“SSL 卸载”选项卡支持进行 [SSL 卸载配置](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-configuring-ssl-offloading-on-a-load-balancer)。
 
 ## 后续操作
+{: #what-happens-next-2}
 
-[向本地负载均衡器添加服务组](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer)。 
+[向本地负载均衡器添加服务组](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer)。

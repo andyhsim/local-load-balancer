@@ -1,16 +1,19 @@
 ---
 copyright:
-  years: 1994,2017,2018
-lastupdated: "2018-11-12"
+  years: 1994, 2019
+lastupdated: "2019-06-11"
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:important: .important}
+{:download: .download}
+{:note: .note}
 
 # Initiation à l'équilibreur de charge local
 {: #getting-started}
 
-Pour vous familiariser avec l'équilibreur de charge local IBM©, accédez à la page de commande dans le portail client :
+Pour vous familiariser avec l'équilibreur de charge local IBM©, accédez à la page de commande dans le portail client le l'infrastructure {{site.data.keyword.cloud}} : 
 
 1. Depuis votre navigateur, ouvrez le [portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/){: new_window} et connectez-vous à votre compte.
 2. Dans la zone de navigation du portail client, sélectionnez **Réseau > Equilibrage de charge > Local**.

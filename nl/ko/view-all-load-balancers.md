@@ -20,5 +20,6 @@ Local Load Balancer와의 모든 상호작용은 서비스 그룹을 관리하�
 **Local Load Balancer 세부사항** 화면에는 기본적으로 서비스 그룹 탭이 표시됩니다. 이 탭에서 서비스 그룹을 추가, 삭제 또는 편집하거나 연결을 재설정하거나 서비스를 추가할 수 있습니다. 통계 탭에서 각 서비스 그룹의 통계를 볼 수 있으며 SSL 오프로드 탭에서는 [SSL 오프로딩 구성](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-configuring-ssl-offloading-on-a-load-balancer)을 수행할 수 있습니다.
 
 ## 다음으로 수행할 사항
+{: #what-happens-next-2}
 
-[Local Load Balancer에 서비스 그룹 추가](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer). 
+[Local Load Balancer에 서비스 그룹 추가](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer).

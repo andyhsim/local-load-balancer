@@ -20,5 +20,6 @@ lastupdated: "2018-11-12"
 **「ローカル・ロード・バランサーの詳細」**画面には、デフォルトで「サービス・グループ」タブが表示されます。このタブで、ユーザーはサービス・グループの追加、削除、編集、接続のリセット、およびサービスの追加を行うことができます。 各サービス・グループの統計は「統計」タブから表示でき、「SSL オフロード」タブでは、[SSL オフロードの構成](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-configuring-ssl-offloading-on-a-load-balancer)を行うことができます。
 
 ## 次のステップ
+{: #what-happens-next-2}
 
-[ローカル・ロード・バランサーへのサービス・グループの追加](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer)。 
+[ローカル・ロード・バランサーへのサービス・グループの追加](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer)。

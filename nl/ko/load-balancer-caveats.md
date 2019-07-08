@@ -6,6 +6,7 @@ lastupdated: "2018-11-12"
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
 
 # Local Load Balancer에 대한 알려진 제한사항
 {: #known-limitations-with-local-load-balancer}
@@ -14,4 +15,5 @@ lastupdated: "2018-11-12"
 
 지시사항과 필요한 추가 플러그인에 액세스하려면 먼저 IBM Cloud VPN에 연결해야 합니다. 연결하고 나면 [다운로드 페이지 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](http://downloads.softlayer.local/loadbalancer/){: new_window}에 방문하여 {{site.data.keyword.loadbalancer_short}}의 플러그인 및 지시사항을 찾으십시오.
 
-**참고:** 다운로드 링크에 액세스하려면 IBM Cloud VPN에 로그인해야 합니다. 
+다운로드 링크에 액세스하려면 IBM Cloud VPN에 로그인해야 합니다.
+{: note}

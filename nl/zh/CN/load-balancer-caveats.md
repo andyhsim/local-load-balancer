@@ -6,6 +6,7 @@ lastupdated: "2018-11-12"
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
 
 # 本地负载均衡器已知限制
 {: #known-limitations-with-local-load-balancer}
@@ -14,4 +15,5 @@ lastupdated: "2018-11-12"
 
 要访问指示信息和必要的附加插件，必须先连接到 IBM Cloud VPN。连接后，请访问[下载页面 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](http://downloads.softlayer.local/loadbalancer/){: new_window} 来查找 {{site.data.keyword.loadbalancer_short}} 的插件和指示信息。
 
-**注：**您必须登录到 IBM Cloud VPN 以访问下载链接。
+您必须登录到 IBM Cloud VPN 才能访问下载链接。
+{: note}

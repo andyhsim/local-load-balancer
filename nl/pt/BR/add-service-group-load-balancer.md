@@ -29,7 +29,7 @@ suspensa **Método**. Consulte
 [Métodos de balanceamento de carga](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods#load-balancing-methods) para
 obter mais informações sobre cada método de balanceamento de carga.
 3. Insira o número da porta que será usado para o grupo de serviços no campo
-**Porta virtual**. Consulte as [Perguntas mais frequentes de portas de serviço comum](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-faqs-for-local-load-balancer#what-services-can-be-load-balanced-) para obter mais informações. 
+**Porta virtual**. Consulte as [Perguntas mais frequentes de portas de serviço comum](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-faqs-for-local-load-balancer#what-services-can-be-load-balanced-) para obter mais informações.
 
 	**Nota:** cada Grupo de serviços deve ser designado a uma porta exclusiva. Se uma porta exclusiva não for designada, um erro aparecerá na parte superior da página e o Grupo de serviços poderá não ser incluído até que um portal virtual exclusivo seja designado.
 4. Insira uma alocação no campo **Alocação**.
@@ -43,5 +43,6 @@ carga com base em suas Alocações de conexão designadas, um ou mais serviços 
 ser [incluídos](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group) no Grupo de serviços.
 
 ## O que acontece em seguida
+{: #what-happens-next-a}
 
 [Incluir um serviço no grupo de serviços](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group).

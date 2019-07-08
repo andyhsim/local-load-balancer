@@ -20,5 +20,6 @@ lastupdated: "2018-11-12"
 **本端負載平衡器詳細資料**畫面依預設會進到「服務群組」標籤，其可讓使用者新增、刪除或編輯「服務群組」、重設連線，或新增服務。您可以從「統計資料」標籤中檢視每個「服務群組」的統計資料，而「SSL 卸載功能」標籤可讓您進行 [SSL 卸載功能配置](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-configuring-ssl-offloading-on-a-load-balancer)。
 
 ## 後續情形
+{: #what-happens-next-2}
 
-[將服務群組新增至本端負載平衡器](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer)。 
+[將服務群組新增至本端負載平衡器](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-group-to-a-load-balancer)。

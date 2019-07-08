@@ -1,7 +1,7 @@
 ---
 copyright:
-  years: 1994, 2017, 2018
-lastupdated: "2018-11-12"
+  years: 1994, 2019
+lastupdated: "2019-06-11"
 ---
 
 {:shortdesc: .shortdesc}
@@ -10,9 +10,9 @@ lastupdated: "2018-11-12"
 # 导入 SSL 证书
 {: #importing-an-ssl-certificate}
 
-针对 Web 站点签发 SSL 证书后，可将其导入到客户门户网站中。通过将 SSL 证书导入到客户门户网站中，可将证书应用于可能需要证书的产品和服务，例如负载均衡器的 SSL 卸载。缺省情况下，IBM© Cloud 签发的 SSL 证书不会导入到列表中，因为这些证书仅由接收方使用。因此，任何用于 IBM Cloud 产品或服务的 SSL 证书都必须由该帐户上的授权用户手动导入。
+针对 Web 站点签发 SSL 证书后，可将其导入到 {{site.data.keyword.cloud}} 基础架构客户门户网站中。通过将 SSL 证书导入到客户门户网站中，可将证书应用于可能需要这些证书的产品和服务，例如负载均衡器的 SSL 卸载。缺省情况下，{{site.data.keyword.cloud_notm}} 签发的 SSL 证书不会导入到列表中，因为这些证书仅由接收方使用。因此，任何用于 {{site.data.keyword.cloud_notm}} 产品或服务的 SSL 证书都必须由该帐户上的授权用户手动导入。
 
-执行以下过程来将 SSL 证书导入到客户门户网站中。
+执行以下过程将 SSL 证书导入到客户门户网站中。
 
 1. 在浏览器中，打开[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/){: new_window}，然后登录到您的帐户。
 2. 在客户门户网站导航中，选择**安全性 > SSL > 证书**。

@@ -1,16 +1,19 @@
 ---
 copyright:
-  years: 1994,2017,2018
-lastupdated: "2018-11-12"
+  years: 1994, 2019
+lastupdated: "2019-06-11"
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:important: .important}
+{:download: .download}
+{:note: .note}
 
 # 开始使用本地负载均衡器
 {: #getting-started}
 
-要开始使用 IBM© 本地负载均衡器，请导航至客户门户网站中的订购页面：
+要开始使用 IBM© Local Load Balancer，请导航至 {{site.data.keyword.cloud}} 基础架构客户门户网站中的订购页面：
 
 1. 在浏览器中，打开[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/){: new_window}，然后登录到您的帐户。
 2. 在客户门户网站导航中，选择**网络 > 负载均衡 > 本地**。

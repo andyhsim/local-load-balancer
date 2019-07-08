@@ -6,6 +6,7 @@ lastupdated: "2018-11-12"
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
 
 # Limitações conhecidas com o Local Load Balancer
 {: #known-limitations-with-local-load-balancer}
@@ -15,4 +16,5 @@ IIS (Windows).
 
 Para acessar as instruções e os plug-ins adicionais necessários, deve-se primeiro estar conectado à VPN do IBM Cloud. Depois de se conectar, visite a [página Downloads![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](http://downloads.softlayer.local/loadbalancer/){: new_window} para localizar os plug-ins e as instruções para o {{site.data.keyword.loadbalancer_short}}.
 
-**NOTA:** deve-se estar com login efetuado na VPN do IBM Cloud para acessar o link de download.
+Deve-se estar conectado à VPN do IBM Cloud para acessar o link de download.
+{: note}

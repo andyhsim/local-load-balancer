@@ -1,19 +1,22 @@
 ---
 copyright:
-  years: 1994,2017,2018
-lastupdated: "2018-11-12"
+  years: 1994, 2019
+lastupdated: "2019-06-11"
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:important: .important}
+{:download: .download}
+{:note: .note}
 
 # 開始使用 Local Load Balancer
 {: #getting-started}
 
-若要開始使用 IBM© Local Load Balancer，請導覽至「客戶入口網站」中的訂購頁面：
+若要開始使用 IBM© Local Load Balancer，請導覽至 {{site.data.keyword.cloud}} 基礎架構客戶入口網站中的訂購頁面：
 
 1. 從您的瀏覽器中，開啟[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/){: new_window} 並登入您的帳戶。
-2. 在「客戶入口網站」導覽中，選取**網路 > 負載平衡 > 本端**。
+2. 在客戶入口網站導覽中，選取**網路 > 負載平衡 > 本端**。
 3. 從**負載平衡器**清單頁面中，按一下**本端負載平衡器**標籤。
 4. 按一下右上角的**訂購本端負載平衡器**鏈結。
 5. 從您想要的「本端負載平衡器」下拉功能表中，選擇**位置**。

@@ -14,7 +14,7 @@ lastupdated: "2018-11-12"
 {:tip: .tip}
 {:download: .download}
 
-# Local Load Balancer에 대한 도움말 및 지원 받기
+# Local Load Balancer에 대한 도움 및 지원 받기
 {: #getting-help-and-support-for-local-load-balancer}
 
 IBM© Local Load Balancer를 사용할 때 문제점 또는 질문이 있는 경우 정보를 검색하거나 아래에 나열된 포럼 중 하나를 통해 질문하여 도움을 받을 수 있습니다. 지원 티켓을 열 수도 있습니다.

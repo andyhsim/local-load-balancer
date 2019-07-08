@@ -1,12 +1,19 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="local-load-balancer" audience="network" arm="4034683" href="/docs/infrastructure/local-load-balancer?topic=infrastructure/local-load-balancer-getting-started-with-local-load-balancer" path="infrastructure/local-load-balancer"}
+{: .toc subcollection="local-load-balancer" category="network" audience="network" arm="4034683" href="/docs/infrastructure/local-load-balancer?topic=infrastructure/local-load-balancer-getting-started-with-local-load-balancer" path="infrastructure/local-load-balancer"}
 IBM Local Load Balancer
 
     {: .navgroup id="learn"}
     getting-started.md
     about.md
+    
+    {: .topicgroup}
+    Guía de migración de equilibrador de carga local
+        eom.md
+        migration-steps.md
+        migration-faq.md
+        
     /loadbalancer-service/loadbalancer-service-explore
     {: .navgroup-end}
 

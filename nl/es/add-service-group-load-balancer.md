@@ -14,7 +14,7 @@ Después de que se haya añadido un {{site.data.keyword.loadbalancer_short}}, se
 
 1. Desde la página [Detalles de equilibradores de carga local](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details), pulse el botón **Añadir grupo**. Como alternativa, puede pulsar **Acciones > Añadir grupo**. Se añadirá una nueva sección Grupo de servicio a la parte inferior de la página.
 2. Seleccione el tipo de grupo deseado de la lista desplegable **Grupo** y seleccione el método de equilibrio deseado desde la lista desplegable **Método**. Consulte los [Métodos de equilibrio de carga](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods#load-balancing-methods) para obtener más información sobre cada método de equilibrio de carga.
-3. Especifique el número de puerto que se utilizará para el grupo de servicios en el campo **Puerto virtual**. Consulte las [Preguntas frecuentes de los puertos de servicio comunes](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-faqs-for-local-load-balancer#what-services-can-be-load-balanced-) para obtener más información. 
+3. Especifique el número de puerto que se utilizará para el grupo de servicios en el campo **Puerto virtual**. Consulte las [Preguntas frecuentes de los puertos de servicio comunes](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-faqs-for-local-load-balancer#what-services-can-be-load-balanced-) para obtener más información.
 
 	**Nota:** Cada grupo de servicios debe estar asignado a un puerto exclusivo. Si un puerto exclusivo no está asignado, aparecerá un error en la parte superior de la página y el grupo de servicio puede no añadirse hasta que se asigne un portal virtual exclusivo.
 4. Especifique una asignación en el campo **Asignación**.
@@ -24,5 +24,6 @@ Después de que se haya añadido un {{site.data.keyword.loadbalancer_short}}, se
 Después de añadir un grupo de servicios, se puede suprimir o editar en cualquier momento. Las conexiones pueden restablecerse en el grupo de servicios y se pueden añadir nuevos servicios al grupo. Para que un grupo de servicios empiece a equilibrar la carga basándose en sus asignaciones de conexión asignadas, debe [añadirse](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group) uno o varios servicios al grupo de servicios.
 
 ## Qué sucede a continuación
+{: #what-happens-next-a}
 
 [Añadir un servicio al grupo de servicios](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group).

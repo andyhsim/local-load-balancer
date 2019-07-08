@@ -8,10 +8,10 @@ lastupdated: "2018-11-12"
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-# FAQ per il programma di bilanciamento del carico locale
+# FAQ per il Local Load Balancer
 {: #faqs-for-local-load-balancer}
 
-Questo argomento contiene le risposte alle domande frequenti sul programma di bilanciamento del carico locale.
+Questo argomento contiene le risposte alle domande frequenti sul Local Load Balancer.
 
 ## Quali prodotti di bilanciamento del carico offre IBM©?
 {:faq}
@@ -41,7 +41,7 @@ Ciò è di norma causato dalla porta in uscita del programma di bilanciamento de
 ## Posso avere più certificati SSL su un singolo programma di bilanciamento del carico?
 {:faq}
 
-Ciò è possibile in specifiche configurazioni.  La regola generale è un certificato SSL per VIP (Virtual IP). Un programma di bilanciamento del carico locale supporta un singolo VIP ma ciò può essere aumentato sui nostri programmi di bilanciamento del carico dedicati e aziendali.
+Ciò è possibile in specifiche configurazioni.  La regola generale è un certificato SSL per VIP (Virtual IP). Un Local Load Balancer supporta un singolo VIP ma ciò può essere aumentato sui nostri programmi di bilanciamento del carico dedicati e aziendali.
 
 ## Cos'è una porta virtuale?
 {:faq}
@@ -68,7 +68,7 @@ Ciò non è attualmente supportato. Occorrerà effettuare un nuovo ordine per un
 
 I programmi di bilanciamento del carico dovrebbero essere installati e disponibili per la tua configurazione cinque minuti circa dopo l'acquisto.
 
-## Come posso eseguire il downgrade del mio programma di bilanciamento del carico locale?
+## Come posso eseguire il downgrade del mio Local Load Balancer?
 {:faq}
 
 Questa opzione è disponibile solo aprendo un ticket.
