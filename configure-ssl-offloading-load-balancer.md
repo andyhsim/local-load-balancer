@@ -15,7 +15,7 @@ Load Balancers have the ability to provide SSL offloading, which can dramaticall
 1. From the [Local Load Balancer Details](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) page, click on **Actions > Configure SSL** in the dropdown menu for the Load Balancer.
 2. Select the desired SSL Certificate from the **Certificate** drop down box. Note the following:
   - Non-dedicated {{site.data.keyword.loadbalancer_short}} virtual IPs (VIPs) are limited to a maximum SSL certificate bit size of 2048.
-  - At least one SSL Certificate must be stored on the Customer Portal in order to successfully complete this step. Refer to [Import an SSL Certificate](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-importing-an-ssl-certificate).
+  - At least one SSL Certificate must be stored in the IBM Cloud console in order to successfully complete this step. Refer to [Import an SSL Certificate](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-importing-an-ssl-certificate).
 3. Select the **Enabled** check box.
 4. Select the ciphers you wish to support.
 5. Click the **Update** button.

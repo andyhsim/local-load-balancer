@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994, 2019
-lastupdated: "2019-06-11"
+lastupdated: "2019-08-28"
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,12 +13,12 @@ lastupdated: "2019-06-11"
 # Getting Started With Local Load Balancer
 {: #getting-started}
 
-To get started with the IBM© Local Load Balancer, navigate to the order page in the {{site.data.keyword.cloud}} infrastructure customer portal:
+To get started with the IBM© Local Load Balancer, navigate to the order page in the IBM Cloud catalog:
 
-1. From your browser, open  [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window} and log into your account.
-2. In the customer portal navigation, select **Network > Load Balancing > Local**.
-3. From the **Load Balancers** list page, click on the **Local Load Balancer** tab.
-4. Click on the **Order Local Load Balancer** link on the top right hand side.
+1. From your browser, open the [IBM Cloud catalog ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com){:new_window} and log into your account.
+2. Select the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) from the top left, then click **Classic Infrastructure**.
+3. From the left, select **Network > Load Balancing > Local**.
+4. Select the Local **Load Balancer** tab, then click **Order Local Load Balancer**.
 5. Choose **Location** from the dropdown menu where you would like the Local Load Balancer.
 6. If you would like a shared Local Load Balancer, choose the number of connections desired and whether you want SSL offload or not from the **Select VIP** section.
 7. If you would like a dedicated Local Load Balancer, choose the number of connections and whether High Availability is desired from the **Select Dedicated** section.
