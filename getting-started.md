@@ -13,6 +13,9 @@ lastupdated: "2019-08-28"
 # Getting Started With Local Load Balancer
 {: #getting-started}
 
+Effective June 01, 2019, IBM Cloud will no longer market or sell our Local Load Balancer service. As a customer, you can still receive support for this service until its End of Support date, which has yet to be announced. A 90-day EOS notification email will be sent at a later date. Customers are encouraged to upgrade to our latest full-featured load balancing offering: [IBM Cloud Load Balancer](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-getting-started).
+{: important}
+
 To get started with the IBM© Local Load Balancer, navigate to the order page in the IBM Cloud catalog:
 
 1. From your browser, open the [IBM Cloud catalog ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com){:new_window} and log into your account.
