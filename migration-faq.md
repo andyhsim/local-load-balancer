@@ -87,7 +87,7 @@ No, Cloud Load Balancer and the Local Load Balancer are two separate offerings t
 
 ## I used to choose a "connections per second" option with my Local Load Balancer. Do I also have to configure this with the Cload Load Balancer?
 
-No. IBM Cloud Load Balancer automatically adjusts its load capacity. You can read more about this in the topic [Cloud Load Balancer Horizontal Scaling](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-performing-ibm-cloud-load-balancer-basics#horizontal-scaling).
+No. IBM Cloud Load Balancer automatically adjusts its load capacity. You can read more about this in the topic [Cloud Load Balancer Horizontal Scaling](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-ibm-cloud-load-balancer-basics#horizontal-scaling). 
 
 ## What protocols can I choose when using the Cloud Load Balancer?
 
