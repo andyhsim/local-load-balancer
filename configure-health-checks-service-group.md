@@ -1,16 +1,19 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-11-12"
+lastupdated: "2019-11-12"
+
+keywords: confiure, configuring, health checks, service 
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 
 # Configuring Health Checks for a Service
 {: #configuring-health-checks-for-a-service}
 
 Health Checks are designed to regularly check if a server is online and accepting traffic for a {{site.data.keyword.loadbalancer_short}} to pass traffic through. Health Checks are designed to respond with either an UP or DOWN reply depending upon your custom timeout. The default interval is 120 seconds.
+{: shortdesc}
 
 There are several methods of configuring health checks.
 

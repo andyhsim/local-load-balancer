@@ -1,16 +1,19 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-11-12"
+lastupdated: "2019-11-12"
+
+keywords: configure, configuring, ssl, offloading, load balancer 
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 
 # Configuring SSL Offloading on a Load Balancer
 {: #configuring-ssl-offloading-on-a-load-balancer}
 
-Load Balancers have the ability to provide SSL offloading, which can dramatically reduce the load on systems currently performing the function. In order to utilize SSL offloading, a {{site.data.keyword.loadbalancer_short}} must be purchased that offers the capability. Load balancers offering SSL capability are noted “with SSL offload” in the **Order Local Load Balancer** dialog. After the SSL offloading-enabled {{site.data.keyword.loadbalancer_short}} has been provisioned, it must be configured. Follow the steps below to configure SSL offloading on a {{site.data.keyword.loadbalancer_short}}.
+IBM© Local Load Balancer has the ability to provide SSL offloading, which can dramatically reduce the load on systems currently performing the function. In order to utilize SSL offloading, a {{site.data.keyword.loadbalancer_short}} must be purchased that offers the capability. Load balancers offering SSL capability are noted “with SSL offload” in the **Order Local Load Balancer** dialog. After the SSL offloading-enabled {{site.data.keyword.loadbalancer_short}} has been provisioned, it must be configured. Follow the steps below to configure SSL offloading on a {{site.data.keyword.loadbalancer_short}}.
+{: shortdesc}
 
 1. From the [Local Load Balancer Details](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) page, click on **Actions > Configure SSL** in the dropdown menu for the Load Balancer.
 2. Select the desired SSL Certificate from the **Certificate** drop down box. Note the following:

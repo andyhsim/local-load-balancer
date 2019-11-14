@@ -1,15 +1,20 @@
 ---
 copyright:
   years: 1994, 2017
-lastupdated: "2018-11-12"
+lastupdated: "2019-11-12"
+
+keywords: limitations, support, troubleshooting, load balancer, logging, problems
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:note: .note}
 
 # Known Limitations with Local Load Balancer
 {: #known-limitations-with-local-load-balancer}
+
+There are some known limitations to be aware of when working with IBM© Cloud Local Load Balancer.
+{: shortdesc}
 
 Due to the nature of a proxy load balancer, the source IP of the client request comes from the IP of the load balancer. This will affect log statistical programs and other applications that look at the source IP for obtaining client information. IBM© Cloud provides a solution to correctly rewrite log entries for Apache (All Platforms) and IIS (Windows).
 

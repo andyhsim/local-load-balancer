@@ -1,16 +1,19 @@
 ---
 copyright:
   years: 1994,2017,2018
-lastupdated: "2018-11-12"
+lastupdated: "2019-11-12"
+
+keywords: service group, add, load balancer
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 
 # Adding a Service Group to a Load Balancer
 {: #adding-a-service-group-to-a-load-balancer}
 
-After a {{site.data.keyword.loadbalancer_short}} has been added, a new Service Group may be added to the {{site.data.keyword.loadbalancer_short}} at any time. Service groups are available in a variety of Group Types and offer a wide array of single or hybrid Balancing Methods. When adding a new Service Group, it is important to ensure that the sum of all the groups Connection Allocations equals 100%. Follow the steps below to add a new Service Group to a {{site.data.keyword.loadbalancer_short}}.
+After a IBM© Local Load Balancer has been added, a new Service Group may be added  at any time. Service groups are available in a variety of Group Types and offer a wide array of single or hybrid Balancing Methods. When adding a new Service Group, it is important to ensure that the sum of all the groups Connection Allocations equals 100%. Follow the steps below to add a new Service Group to a {{site.data.keyword.loadbalancer_short}}.
+{: shortdesc}
 
 1. From the [Local Load Balancer Details](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) page, click on the **Add Group** button. Alternatively, you can click on **Actions > Add Group**. A new Service Group section will be added to the bottom of the page.
 2. Select the desired Group Type from the **Group** dropdown list and select the desired Balancing Method from the **Method** dropdown list. Refer to the [Load Balancing Methods](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-load-balancing-methods#load-balancing-methods) for more information on each load balancing method.

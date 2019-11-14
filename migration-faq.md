@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2019-04-22"
+lastupdated: "2019-11-14"
 
 keywords: migrate, update, load balancer, local, cloud, faq, support
 
@@ -11,7 +11,7 @@ subcollection: local-load-balancer
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:codeblock: .codeblock}
 {:pre: .pre}
 {:screen: .screen}
@@ -24,7 +24,8 @@ subcollection: local-load-balancer
 # IBM Cloud Load Balancer Migration FAQs
 {: #migration-faq}
 
-The following Frequently Asked Questions apply to the IBM Local Load Balancer migration process.
+You can find answers to frequently asked questions about the IBM Local Load Balancer migration process here.
+{: shortdesc}
 
 ## What is the announcement and effective date for Local Load Balancer End of Marketing (EOM)?
 {: faq}
@@ -87,7 +88,7 @@ No, Cloud Load Balancer and the Local Load Balancer are two separate offerings t
 
 ## I used to choose a "connections per second" option with my Local Load Balancer. Do I also have to configure this with the Cload Load Balancer?
 
-No. IBM Cloud Load Balancer automatically adjusts its load capacity. You can read more about this in the topic [Cloud Load Balancer Horizontal Scaling](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-ibm-cloud-load-balancer-basics#horizontal-scaling). 
+No. IBM Cloud Load Balancer automatically adjusts its load capacity. You can read more about this in the topic [Cloud Load Balancer Horizontal Scaling](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-ibm-cloud-load-balancer-basics#horizontal-scaling).
 
 ## What protocols can I choose when using the Cloud Load Balancer?
 

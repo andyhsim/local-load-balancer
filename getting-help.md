@@ -2,12 +2,13 @@
 
 copyright:
   years: 2017,2018
-lastupdated: "2018-11-12"
+lastupdated: "2019-11-12"
 
+keywods: local load balancer, help, support
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:codeblock: .codeblock}
 {:pre: .pre}
 {:screen: .screen}
@@ -18,6 +19,7 @@ lastupdated: "2018-11-12"
 {: #getting-help-and-support-for-local-load-balancer}
 
 If you have problems or questions when using the IBM© Local Load Balancer, you can get help by searching for information or by asking questions through one of the forums listed below. You can also open a support ticket.
+{: shortdesc}
 
 When using the forums to ask a question, tag your question so that it is seen by the IBM Cloud development teams.
 

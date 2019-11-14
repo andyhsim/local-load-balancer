@@ -1,16 +1,19 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-11-12"
+lastupdated: "2019-11-12"
+
+keywords: service, service group, load balancer, add
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 
 # Adding a Service to a Service Group
 {: #adding-a-service-to-a-service-group}
 
 After a Service Group has been added to a {{site.data.keyword.loadbalancer_short}}, Services may be added to begin the balancing process. Multiple Services may be added to a Service Group and may be weighted to allow for prioritization on how each device should receive the workload at any given time. Follow the steps below to add a new Service to a Service Group for a {{site.data.keyword.loadbalancer_short}}.
+{: shortdesc}
 
 1. From the [Local Load Balancer Details](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) page, click **Actions > Add Service** in the dropdown menu on the row corresponding to the Service Group where you would like to add a service. Alternatively, expand the Group details by clicking on the expand icon on the left hand side of the row and click on the **Add Service** button. A new Service section will be added to the bottom of the Service Group details section.
 2. Enter the Service parameters:

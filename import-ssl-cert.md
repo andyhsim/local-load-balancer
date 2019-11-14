@@ -1,16 +1,19 @@
 ---
 copyright:
   years: 1994, 2019
-lastupdated: "2019-06-11"
+lastupdated: "2019-11-14"
+
+keywords: import, ssh, certificate, load balancing
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 
 # Importing an SSL Certificate
 {: #importing-an-ssl-certificate}
 
-After an SSL Certificate is issued for a website, it may be imported into the {{site.data.keyword.cloud}} console. By importing SSL Certificates into the console, the Certificates may be applied to products and services that may require them, such as a Load Balancer's SSL Offloading. By default, SSL Certificates issued by {{site.data.keyword.cloud_notm}} are not imported into the list, as they are intended to be manipulated by the recipient only. Therefore, any SSL Certificate for use with an {{site.data.keyword.cloud_notm}} product or service must be manually imported by an authorized user on the account.
+After an SSL Certificate is issued for a website, it may be imported into the {{site.data.keyword.cloud}} console. By importing SSL Certificates into the console, the Certificates may be applied to products and services that may require them, such as the IBM Cloud Load Balancer's SSL Offloading. By default, SSL Certificates issued by {{site.data.keyword.cloud_notm}} are not imported into the list, as they are intended to be manipulated by the recipient only. Therefore, any SSL Certificate for use with an {{site.data.keyword.cloud_notm}} product or service must be manually imported by an authorized user on the account.
+{: shortdesc}
 
 Perform the following procedure to import an SSL Certificate into the Cloud console.
 

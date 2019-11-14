@@ -1,16 +1,19 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-11-12"
+lastupdated: "2019-11-12"
+
+keywords: edit, editing, service, load balancer
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 
 # Editing a Service
 {: #editing-a-service}
 
-After a Service has been added to a Load Balancer's Service Group, it may be edited at any time. All Basic Settings of a Service are eligible for edits and additional notes may also be added using the edit feature. 
+After a Service has been added to an IBM© Local Load Balancer's Service Group, it may be edited at any time. All Basic Settings of a Service are eligible for edits and additional notes may also be added using the edit feature.
+{: shortdesc}
 
 Follow the steps below to edit a Service.
 

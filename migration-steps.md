@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2019-04-22"
+lastupdated: "2019-11-14"
 
 keywords: migrate, update, load balancer, local, cloud
 
@@ -11,7 +11,7 @@ subcollection: local-load-balancer
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:codeblock: .codeblock}
 {:pre: .pre}
 {:screen: .screen}
@@ -23,6 +23,7 @@ subcollection: local-load-balancer
 # Migrating a Local Load Balancer to IBM Cloud Load Balancer
 
 You can migrate your Local Load Balancer to an IBM© Cloud Load Balancer by performing the following procedure.
+{: shortdesc}
 
 ## Step 1: Order a Cloud Load Balancer
 {: #step-1-order-a-cloud-load-balancer}

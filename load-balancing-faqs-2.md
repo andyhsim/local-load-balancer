@@ -1,17 +1,20 @@
 ---
 copyright:
   years: 1994, 2017
-lastupdated: "2018-11-12"
+lastupdated: "2019-11-12"
+
+keywords: faq, load balancer, shared, dedicated, service, service group, support, errors
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:faq: data-hd-content-type='faq'}
 
 # FAQs for Local Load Balancer
 {: #faqs-for-local-load-balancer}
 
-This topic contains answers to frequently asked questions about the Local Load Balancer.
+You can find answers to frequently asked questions about the IBM© Cloud Local Load Balancer here.
+{: shortdesc}
 
 ## What Load Balancing products does IBM© offer?
 {:faq}

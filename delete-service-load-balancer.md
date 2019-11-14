@@ -1,18 +1,21 @@
 ---
 copyright:
   years: 1994, 2017, 2018
-lastupdated: "2018-11-12"
+lastupdated: "2019-11-12"
+
+keywords: delete, deleting, service, load balancer
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 
 # Deleting a Service
 {: #deleting-a-service}
 
-After a Service has been added to a Service Group for a {{site.data.keyword.loadbalancer_short}}, it may be deleted at any time. Deleting a Service from a Service Group prevents the Service from being utilized by the {{site.data.keyword.loadbalancer_short}} unless it is manually added back to a Service Group. 
+After a Service has been added to a Service Group for a {{site.data.keyword.loadbalancer_short}}, it may be deleted at any time. Deleting a Service from a Service Group prevents the Service from being utilized by the {{site.data.keyword.loadbalancer_short}} unless it is manually added back to a Service Group.
+{: shortdesc}
 
-Alternatively, a Service may be disabled, which will keep the Service associated with the Service Group while making it unavailable for balancing efforts. To keep the Service associated with the {{site.data.keyword.loadbalancer_short}} Service Group, [edit the Service](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-editing-a-service) and uncheck the **Enabled** check box. 
+Alternatively, a Service may be disabled, which will keep the Service associated with the Service Group while making it unavailable for balancing efforts. To keep the Service associated with the {{site.data.keyword.loadbalancer_short}} Service Group, [edit the Service](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-editing-a-service) and uncheck the **Enabled** check box.
 
 Follow the steps below to delete the Service from the {{site.data.keyword.loadbalancer_short}}.
 
