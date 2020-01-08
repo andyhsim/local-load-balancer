@@ -35,4 +35,4 @@ To do so, navigate to the order page in the IBM Cloud catalog:
 
 Shared Load Balancers are provisioned immediately and can be seen within minutes of ordering.
 
-Dedicated Load Balancers depend on hardware availability in the location requested. Once provisioned, the Load Balancer will show up on the Load Balancers list page and you can click on it to view the details. Additional VIPs can be ordered for Local Load Balancers by opening a Sales Ticket.
+Dedicated Load Balancers depend on hardware availability in the location requested. Once provisioned, the Load Balancer will show up on the Load Balancers list page and you can click on it to view the details. Additional VIPs can be ordered for Local Load Balancers by opening a Sales case.

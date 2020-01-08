@@ -74,7 +74,7 @@ Load balancers should be installed and available for your configure about five m
 ## How do I downgrade my local load balancer?
 {:faq}
 
-This option is only available by opening a ticket.
+This option is only available by opening a case.
 
 ## What balancing methods are available with a Load Balancer?
 {:faq}
