@@ -1,0 +1,102 @@
+{
+  "what-is-the-difference-between-a-shared-and-dedicated-load-balancer-":[
+    "difference between a shared and dedicated load balancer",
+    "what is a shared load balancer",
+    "shared vs dedicated load balancer",
+    "whats a dedicated load balancer",
+    "shared and dedicated load balancers differences",
+    "are dedicated and shared load balancers different",
+    "shared and dedicated loadbalancer the same"
+  ],
+   "what-is-a-service-":[
+     "what is a load balancer service",
+     "whats a service for load balancing",
+     "use a service in load balancing",
+     "whats a load balancing service",
+     "service in a loadbalancer"
+  ],
+   "what-is-a-service-group-":[   
+     "What's a load balancer service group",
+     "what is a load balancing service group",
+     "whats a service group for load balancing",
+     "use a service group in load balancing",
+     "whats a load balancing service group",
+     "service groups in a loadbalancer"
+ ],
+   "why-am-i-getting-502-gateway-errors-when-using-ssl-offloading-":[      
+      "getting 502 Gateway errors when using SSL offloading",
+      "get a 502 error using SSL",
+      "502 gateway errors",
+      "offloading SSL and getting a 502 error",
+      "offload of SSL gives a 502 gateway error",
+      "502 gateway error",
+      "offloading SSL and get an error"
+],
+   "can-i-have-multiple-ssl-certificates-on-a-single-load-balancer-":[     
+     "multiple SSL certificates on one load balancer",
+     "one SSL certificate per Virtual IP",
+     "multiple SSL certificates on 1 load balancer",
+     "more than one SSL certificates on a load balancer",
+     "load balancer have multiple SSL certificates"
+],
+   "what-is-a-virtual-port-":[   
+     "what is a load balancer virtual port",
+     "whats a virtual port for load balancing",
+     "use a virtual port in load balancers",
+     "whats a load balancing virtual port",
+     "virtual port in a load balancer"
+],
+   "what-method-of-load-balancing-is-used-for-local-and-dedicated-load-balancers-":[ 
+     "method of load balancing is used for Local and Dedicated load balancers",
+     "load balancing method used for load balancing",
+     "method of load balancing used",
+     "load balancer method used for Dedicated load balancer",
+     "what load balancing method is used"
+],
+   "what-services-can-be-load-balanced-":[   
+     "which services can be load balanced",
+     "any services be load balanced",
+     "which service can be load balanced",
+     "load balance any services",
+     "services that can be load balanced"
+],
+   "can-i-add-ssl-offloading-to-an-existing-load-balancer-":[     
+      "add SSL offloading to an existing load balancer",
+      "can I add SSL offloading to my current loadbalancer",
+      "adding SSL offloading to load balancers",
+      "update load balancer with SSL offloading",
+      "updating load balancing with SSL offloading"
+ ],
+   "how-long-does-it-take-to-install-a-load-balancer-":[   
+      "long does it take to install a loadbalancer",
+      "what is the load balancing install process",
+      "long does the load balancer install take",
+      "get a new load balancer immediately",
+      "get a new loadbalancer today",
+      "how long until load balancer provisioned"
+],
+   "how-do-i-downgrade-my-local-load-balancer-":[   
+      "downgrade my local load balancer",
+      "looking to down grade loadbalancer",
+      "local load balancer downgrading",
+      "down grade of local load balancers",
+      "load balancing downgrade"
+ ],
+   "what-balancing-methods-are-available-with-a-load-balancer-":[ 
+      "balancing methods are available with a Load Balancer",
+      "what balancing methods do you offer with this loadbalancer",
+      "single or hybrid load balancing methods",
+      "load balancing methods available to use",
+      "different load balancing methods offered"
+ ],
+   "is-it-possible-to-load-balance-ssl-encrypted-traffic-with-session-stickiness-":[ 
+      "load balance SSL encrypted traffic with session stickiness",
+      "use load balancing with SSL encrypted traffic",
+      "SSL encrypted traffic with session stickiness load balancing",
+      "loadbalancer for SSL encrypted traffic with session stickiness",
+      "load balancer and SSL encrypted traffic"
+]
+}
+
+
+
