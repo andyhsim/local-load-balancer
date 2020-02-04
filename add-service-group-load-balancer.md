@@ -13,7 +13,6 @@ keywords: service group, add, load balancer
 
 # Adding a Service Group to a Load Balancer
 {: #adding-a-service-group-to-a-load-balancer}
-{: #account_settings}
 {: help}
 {: support}
 

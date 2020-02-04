@@ -17,7 +17,6 @@ keywords: getting started, local load balancer, order
 
 # Getting Started With Local Load Balancer
 {: #getting-started}
-{: #account_settings}
 {: help}
 {: support}
 

@@ -13,7 +13,6 @@ keywords: delete, deleting, service, load balancer
 
 # Deleting a Service
 {: #deleting-a-service}
-{: #account_settings}
 {: help}
 {: support}
 

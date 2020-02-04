@@ -13,7 +13,6 @@ keywords: edit, editing, service, load balancer
 
 # Editing a Service
 {: #editing-a-service}
-{: #account_settings}
 {: help}
 {: support}
 

@@ -13,7 +13,6 @@ keywords: edit, editing, service, group, service group, load balancer
 
 # Editing a Service Group
 {: #editing-a-service-group}
-{: #account_settings}
 {: help}
 {: support}
 
