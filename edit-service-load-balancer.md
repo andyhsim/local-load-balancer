@@ -8,9 +8,14 @@ keywords: edit, editing, service, load balancer
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank_"}
+{:help: data-hd-content-type='help'}
+{:support: data-reuse='support'}
 
 # Editing a Service
 {: #editing-a-service}
+{: #account_settings}
+{: help}
+{: support}
 
 After a Service has been added to an IBM© Local Load Balancer's Service Group, it may be edited at any time. All Basic Settings of a Service are eligible for edits and additional notes may also be added using the edit feature.
 {: shortdesc}

@@ -8,9 +8,14 @@ keywords: edit, editing, service, group, service group, load balancer
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank_"}
+{:help: data-hd-content-type='help'}
+{:support: data-reuse='support'}
 
 # Editing a Service Group
 {: #editing-a-service-group}
+{: #account_settings}
+{: help}
+{: support}
 
 After adding a Service Group to a {{site.data.keyword.loadbalancer_short}}, its Basic Settings (including Balancing Method and Virtual Port), Connection Allocation and Notes may be edited. Edits to each Service Group are immediately visible and additional edits may be made at any time.
 {: shortdesc}

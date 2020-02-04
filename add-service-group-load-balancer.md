@@ -8,9 +8,14 @@ keywords: service group, add, load balancer
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank_"}
+{:help: data-hd-content-type='help'}
+{:support: data-reuse='support'}
 
 # Adding a Service Group to a Load Balancer
 {: #adding-a-service-group-to-a-load-balancer}
+{: #account_settings}
+{: help}
+{: support}
 
 After a IBM© Local Load Balancer has been added, a new Service Group may be added  at any time. Service groups are available in a variety of Group Types and offer a wide array of single or hybrid Balancing Methods. When adding a new Service Group, it is important to ensure that the sum of all the groups Connection Allocations equals 100%. Follow the steps below to add a new Service Group to a {{site.data.keyword.loadbalancer_short}}.
 {: shortdesc}
@@ -25,8 +30,3 @@ After a IBM© Local Load Balancer has been added, a new Service Group may be add
 6. Click the **Save Configuration** button to add the new Service Group. Click **Cancel** to cancel the action.
 
 After adding a Service Group, it may be deleted or edited at any time. Connections may be reset to the Service Group and new services may be added to the group. For a Service Group to begin balancing the load based on its assigned Connection Allocations, one or more services must be [added](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group) to the Service Group.
-
-## What Happens Next
-{: #what-happens-next-a}
-
-[Add a Service to the Service Group](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group).

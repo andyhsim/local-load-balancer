@@ -8,9 +8,14 @@ keywords: delete, deleting, service, load balancer
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank_"}
+{:help: data-hd-content-type='help'}
+{:support: data-reuse='support'}
 
 # Deleting a Service
 {: #deleting-a-service}
+{: #account_settings}
+{: help}
+{: support}
 
 After a Service has been added to a Service Group for a {{site.data.keyword.loadbalancer_short}}, it may be deleted at any time. Deleting a Service from a Service Group prevents the Service from being utilized by the {{site.data.keyword.loadbalancer_short}} unless it is manually added back to a Service Group.
 {: shortdesc}
