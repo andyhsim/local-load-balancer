@@ -40,7 +40,7 @@ Yes, support will be available for existing Local Load Balancer customers.
 ## How can I get started with IBM Cloud Load Balancer?
 {: faq}
 
-We recommend you get started by reading the [IBM Cloud Load Balancer documentation](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-getting-started).
+We recommend you get started by reading the [IBM Cloud Load Balancer documentation](/docs/loadbalancer-service?topic=loadbalancer-service-getting-started).
 
 ## Will a migration path exist from the Local Load Balancer service to IBM Cloud Load Balancer?
 {: faq}
@@ -88,12 +88,12 @@ No, Cloud Load Balancer and the Local Load Balancer are two separate offerings t
 
 ## I used to choose a "connections per second" option with my Local Load Balancer. Do I also have to configure this with the Cload Load Balancer?
 
-No. IBM Cloud Load Balancer automatically adjusts its load capacity. You can read more about this in the topic [Cloud Load Balancer Horizontal Scaling](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-ibm-cloud-load-balancer-basics#horizontal-scaling).
+No. IBM Cloud Load Balancer automatically adjusts its load capacity. You can read more about this in the topic [Cloud Load Balancer Horizontal Scaling](/docs/loadbalancer-service?topic=loadbalancer-service-ibm-cloud-load-balancer-basics#horizontal-scaling).
 
 ## What protocols can I choose when using the Cloud Load Balancer?
 
-You can choose HTTP, HTTPS, and TCP protocols. We also offer Layer 7 Support. Refer to [Overview of features](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-about-ibm-cloud-load-balancer#overview-of-features) for more information.
+You can choose HTTP, HTTPS, and TCP protocols. We also offer Layer 7 Support. Refer to [Overview of features](/docs/loadbalancer-service?topic=loadbalancer-service-about-ibm-cloud-load-balancer#overview-of-features) for more information.
 
 ## I need a particular type of cipher. Does Cloud Load Balancer support that?
 
-IBM Cloud Load Balancer supports TLS version 1.2 with SSL offload. You can find more information about the supported SSL ciphers in [Cloud Load Balancer SSL Cipher Suites](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-ssl-offload-with-ibm-cloud-load-balancer#ssl-cipher-suites)
+IBM Cloud Load Balancer supports TLS version 1.2 with SSL offload. You can find more information about the supported SSL ciphers in [Cloud Load Balancer SSL Cipher Suites](/docs/loadbalancer-service?topic=loadbalancer-service-ssl-offload-with-ibm-cloud-load-balancer#ssl-cipher-suites)

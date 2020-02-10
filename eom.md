@@ -26,7 +26,7 @@ subcollection: local-load-balancer
 Effective June 01, 2019, IBM Cloud will no longer market or sell our Local Load Balancer service.
 {: shortdesc}
 
-As a customer, you can still receive support for this service until its End of Support date, which has yet to be announced. A 90-day EOS notification email will be sent at a later date. Customers are encouraged to upgrade to our latest full-featured load balancing offering: [IBM Cloud Load Balancer](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-getting-started).
+As a customer, you can still receive support for this service until its End of Support date, which has yet to be announced. A 90-day EOS notification email will be sent at a later date. Customers are encouraged to upgrade to our latest full-featured load balancing offering: [IBM Cloud Load Balancer](/docs/loadbalancer-service?topic=loadbalancer-service-getting-started).
 {: important}
 
 IBM Cloud Load Balancer offers a more enhanced customer experience, including:
@@ -37,8 +37,8 @@ IBM Cloud Load Balancer offers a more enhanced customer experience, including:
 * No limitations on the number of connections you can have
 * Layer 7 support
 
-For more information on the advanced features of Cloud Load Balancer, refer to [About Cloud Load Balancer](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-about-ibm-cloud-load-balancer)
+For more information on the advanced features of Cloud Load Balancer, refer to [About Cloud Load Balancer](/docs/loadbalancer-service?topic=loadbalancer-service-about-ibm-cloud-load-balancer)
 
-Get started by visiting the IBM Cloud Console and reading the [IBM Cloud Load Balancer documentation](/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-getting-started).
+Get started by visiting the IBM Cloud Console and reading the [IBM Cloud Load Balancer documentation](/docs/loadbalancer-service?topic=loadbalancer-service-getting-started).
 
 For more information, you can get assistance from [IBM Cloud Support ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud/support){: new_window}.

@@ -17,7 +17,7 @@ IBM© Cloud Local Load Balancers can be upgraded at anytime in the increments of
 
 To upgrade the connections limit, follow these instructions:
 
-1. From the [Local Load Balancer Details](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) page, click **Actions > Upgrade Connections Limit** in the dropdown menu for the Load Balancer.
+1. From the [Local Load Balancer Details](/docs/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) page, click **Actions > Upgrade Connections Limit** in the dropdown menu for the Load Balancer.
 2. A confirmation dialog displays showing you the next increment available for your load balancer and the cost of the upgrade. Confirm the upgrade by clicking **Yes**. Click **No** to cancel the action.
 
 The new connections limit goes into effect immediately.

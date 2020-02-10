@@ -23,6 +23,6 @@ There are several methods of configuring health checks.
 - **Ping:** A simple ping test over ICMP.
 - **TCP:** Much like a ping test but explicitly over TCP. This option should be used if you have ICMP connections blocked.
 
-You can configure Health Checks for a particular service when you [add the Service to a Service Group](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group) or by [editing the Service](/docs/infrastructure/local-load-balancer?topic=local-load-balancer-editing-a-service) after it has been created.
+You can configure Health Checks for a particular service when you [add the Service to a Service Group](/docs/local-load-balancer?topic=local-load-balancer-adding-a-service-to-a-service-group) or by [editing the Service](/docs/local-load-balancer?topic=local-load-balancer-editing-a-service) after it has been created.
 
 Once your configuration has been saved, the changes will take effect immediately. You will be able to monitor the status of your health checks from the status icon in the service group.
