@@ -1,5 +1,5 @@
 {
-  "what-is-the-difference-between-a-shared-and-dedicated-load-balancer-":[
+  "difference":[
     "difference between a shared and dedicated load balancer",
     "what is a shared load balancer",
     "shared vs dedicated load balancer",
@@ -8,14 +8,14 @@
     "are dedicated and shared load balancers different",
     "shared and dedicated loadbalancer the same"
   ],
-   "what-is-a-service-":[
+   "service":[
      "what is a load balancer service",
      "whats a service for load balancing",
      "use a service in load balancing",
      "whats a load balancing service",
      "service in a loadbalancer"
   ],
-   "what-is-a-service-group-":[   
+   "group":[   
      "What's a load balancer service group",
      "what is a load balancing service group",
      "whats a service group for load balancing",
@@ -32,7 +32,7 @@
       "502 gateway error",
       "offloading SSL and get an error"
 ],
-   "can-i-have-multiple-ssl-certificates-on-a-single-load-balancer-":[     
+   "ssl":[     
      "multiple SSL certificates on one load balancer",
      "one SSL certificate per Virtual IP",
      "multiple SSL certificates on 1 load balancer",
@@ -82,14 +82,14 @@
       "down grade of local load balancers",
       "load balancing downgrade"
  ],
-   "what-balancing-methods-are-available-with-a-load-balancer-":[ 
+   "methods":[ 
       "balancing methods are available with a Load Balancer",
       "what balancing methods do you offer with this loadbalancer",
       "single or hybrid load balancing methods",
       "load balancing methods available to use",
       "different load balancing methods offered"
  ],
-   "is-it-possible-to-load-balance-ssl-encrypted-traffic-with-session-stickiness-":[ 
+   "sticky":[ 
       "load balance SSL encrypted traffic with session stickiness",
       "use load balancing with SSL encrypted traffic",
       "SSL encrypted traffic with session stickiness load balancing",
