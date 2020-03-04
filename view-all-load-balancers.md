@@ -11,7 +11,7 @@ keywords: view, viewing, load balancer, details
 {:help: data-hd-content-type='help'}
 {:support: data-reuse='support'}
 
-# Viewing Local Load Balancer Details
+# Viewing Local Load Balancer details
 {: #viewing-local-load-balancer-details}
 {: #account_settings}
 {: help}

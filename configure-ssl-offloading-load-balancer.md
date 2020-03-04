@@ -3,13 +3,13 @@ copyright:
   years: 1994, 2017, 2018
 lastupdated: "2019-11-12"
 
-keywords: configure, configuring, ssl, offloading, load balancer 
+keywords: configure, configuring, ssl, offloading, load balancer
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank_"}
 
-# Configuring SSL Offloading on a Load Balancer
+# Configuring SSL offloading on a load balancer
 {: #configuring-ssl-offloading-on-a-load-balancer}
 
 IBM© Local Load Balancer has the ability to provide SSL offloading, which can dramatically reduce the load on systems currently performing the function. In order to utilize SSL offloading, a {{site.data.keyword.loadbalancer_short}} must be purchased that offers the capability. Load balancers offering SSL capability are noted “with SSL offload” in the **Order Local Load Balancer** dialog. After the SSL offloading-enabled {{site.data.keyword.loadbalancer_short}} has been provisioned, it must be configured. Follow the steps below to configure SSL offloading on a {{site.data.keyword.loadbalancer_short}}.

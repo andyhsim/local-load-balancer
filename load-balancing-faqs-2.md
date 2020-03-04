@@ -17,7 +17,7 @@ keywords: faq, load balancer, shared, dedicated, service, service group, support
 You can find answers to frequently asked questions about the IBM© Cloud Local Load Balancer here.
 {: shortdesc}
 
-## What Load Balancing products does IBM© offer?
+## What load balancing products does IBM© offer?
 {: #products}
 {: faq}
 {: support}

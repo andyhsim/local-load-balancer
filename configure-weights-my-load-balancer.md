@@ -9,7 +9,7 @@ keywords: configure, configuring, weight, load balancer
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank_"}
 
-# Configuring Weights for the Load Balancer
+# Configuring weights for the load balancer
 {; #configuring-weights-for-the-load-balancer}
 
 For IBM© Local Load Balancer, weights are a system of assigning numerical values to the servers you wish to receive more traffic. A higher number represents a higher priority as long as the server is online according to health checks.  

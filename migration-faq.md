@@ -21,7 +21,7 @@ subcollection: local-load-balancer
 {:download: .download}
 {:faq: data-hd-content-type='faq'}
 
-# IBM Cloud Load Balancer Migration FAQs
+# IBM Cloud Load Balancer migration FAQs
 {: #migration-faq}
 
 You can find answers to frequently asked questions about the IBM Local Load Balancer migration process here.

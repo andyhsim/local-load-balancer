@@ -15,7 +15,7 @@ keywords: getting started, local load balancer, order
 {:help: data-hd-content-type='help'}
 {:support: data-reuse='support'}
 
-# Getting Started With Local Load Balancer
+# Getting started with Local Load Balancer
 {: #getting-started}
 {: help}
 {: support}

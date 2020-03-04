@@ -20,7 +20,7 @@ subcollection: local-load-balancer
 {:important: .important}
 {:download: .download}
 
-# Local Load Balancer End of Marketing Announcement
+# Local Load Balancer end of marketing announcement
 {: #alb-end-of-marketing-announcement}
 
 Effective June 01, 2019, IBM Cloud will no longer market or sell our Local Load Balancer service.

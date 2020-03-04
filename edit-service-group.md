@@ -11,7 +11,7 @@ keywords: edit, editing, service, group, service group, load balancer
 {:help: data-hd-content-type='help'}
 {:support: data-reuse='support'}
 
-# Editing a Service Group
+# Editing a service group
 {: #editing-a-service-group}
 {: help}
 {: support}

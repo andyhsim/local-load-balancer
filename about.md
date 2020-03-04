@@ -11,7 +11,7 @@ subcollection: local-load-balancer
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank_"}
 
-# About Load Balancing
+# About load balancing
 {: #about-load-balancing}
 
 IBM© Cloud Local Load Balancer enables customers to employ a variety of balancing methods to distribute traffic, including persistent and non-persistent options, that can be changed, activated and deactivated at any time.

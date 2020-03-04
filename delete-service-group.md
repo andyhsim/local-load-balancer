@@ -9,7 +9,7 @@ keywords: service, group, service group, delete, deleting, load balancer
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank_"}
 
-# Deleting a Service Group
+# Deleting a service group
 {: #deleting-a-service-group}
 
 When deleting a Service Group, all Services associated with the Group will also be deleted. Follow the steps here to delete a Service Group for a {{site.data.keyword.loadbalancer_short}}.

@@ -9,7 +9,7 @@ keywords: reset, resetting, connections, service, service group, load balancer
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank_"}
 
-# Resetting Connections for a Service Group
+# Resetting connections for a service group
 {: #resetting-connections-for-a-service-group}
 
 When a Service Group is active on an IBM© Cloud Local Load Balancer, a connection may exist for each Service associated with that Group based on how clients use the Service. At times, clients may be connected to one or more Services for an inappropriate amount of time. Because connections are considered a limited resource, it may be necessary to manually reset the connections for a Service Group to ensure that other clients have the opportunity to utilize the Load Balancer.

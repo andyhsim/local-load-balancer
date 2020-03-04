@@ -9,7 +9,7 @@ keywords: upgrade, upgrading, connection, limit, load balancer
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank_"}
 
-# Upgrading the Connections Limit
+# Upgrading the connections limit
 {: #upgrading-the-connections-limit}
 
 IBM© Cloud Local Load Balancers can be upgraded at anytime in the increments of 250, 500, 1000, 2500, and 5000. All changes made will be in increments to the next level, but multiple upgrades can be made in sequence to jump multiple increments.

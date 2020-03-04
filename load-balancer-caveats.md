@@ -10,7 +10,7 @@ keywords: limitations, support, troubleshooting, load balancer, logging, problem
 {:new_window: target="_blank_"}
 {:note: .note}
 
-# Known Limitations with Local Load Balancer
+# Known limitations with local load balancer
 {: #known-limitations-with-local-load-balancer}
 
 There are some known limitations to be aware of when working with IBM© Cloud Local Load Balancer.

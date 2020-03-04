@@ -11,7 +11,7 @@ keywords: delete, deleting, service, load balancer
 {:help: data-hd-content-type='help'}
 {:support: data-reuse='support'}
 
-# Deleting a Service
+# Deleting a service
 {: #deleting-a-service}
 {: help}
 {: support}

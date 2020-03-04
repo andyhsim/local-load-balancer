@@ -11,7 +11,7 @@ keywords: service, service group, load balancer, add
 {:help: data-hd-content-type='help'}
 {:support: data-reuse='support'}
 
-# Adding a Service to a Service Group
+# Adding a service to a service group
 {: #adding-a-service-to-a-service-group}
 {: help}
 {: support}

@@ -11,7 +11,7 @@ keywords: edit, editing, service, load balancer
 {:help: data-hd-content-type='help'}
 {:support: data-reuse='support'}
 
-# Editing a Service
+# Editing a service
 {: #editing-a-service}
 {: help}
 {: support}
