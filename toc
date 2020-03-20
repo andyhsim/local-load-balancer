@@ -1,12 +1,13 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="local-load-balancer" category="network" audience="network" arm="4034683" href="/docs/local-load-balancer?topic=local-load-balancer-getting-started" path="local-load-balancer"}
+{: .toc subcollection="local-load-balancer" category="network" audience="network" href="/docs/local-load-balancer?topic=local-load-balancer-getting-started" console-page="/catalog/infrastructure/load-balancer-group" product-page="https://www.ibm.com/cloud/load-balancer" path="local-load-balancer"}
 IBM Local Load Balancer
 
     {: .navgroup id="learn"}
     getting-started.md
     about.md
+    [What is load balancing?](https://www.ibm.com/cloud/learn/load-balancing)
 
     {: .topicgroup}
     Local Load Balancer Migration Guide
