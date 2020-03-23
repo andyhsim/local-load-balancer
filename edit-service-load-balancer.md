@@ -21,7 +21,7 @@ After a Service has been added to an IBM© Local Load Balancer's Service Group, 
 
 Follow the steps below to edit a Service.
 
-1. From the [Local Load Balancer Details](/docs/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details) page, locate the service you would like to edit by expanding the arrow to the left.
+1. From the [Local Load Balancer Details](/docs/local-load-balancer?topic=local-load-balancer-viewing-local-load-balancer-details#viewing-local-load-balancer-details) page, locate the service you would like to edit by expanding the arrow to the left.
 2. Edit the follow fields, as desired:
   - **Destination IP:** The IP address of the destination server.
   - **Dest Port:** The port number to use to route traffic to the destination server.

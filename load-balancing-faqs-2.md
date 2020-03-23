@@ -92,7 +92,7 @@ This option is only available by opening a case.
 {: faq}
 {: support}
 
-IBM Cloud offers multiple balancing methods, including both single and hybrid methods.  Refer to the [Load Balancing Methods](/docs/local-load-balancer?topic=local-load-balancer-load-balancing-methods) for more information about each load balance method we currently offer.
+IBM Cloud offers multiple balancing methods, including both single and hybrid methods.  
 
 ## Is it possible to load balance SSL encrypted traffic with session stickiness?
 {: #sticky}
