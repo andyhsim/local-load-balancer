@@ -13,7 +13,6 @@ keywords: view, viewing, load balancer, details
 
 # Viewing Local Load Balancer details
 {: #viewing-local-load-balancer-details}
-{: #account_settings}
 {: help}
 {: support}
 
