@@ -26,7 +26,7 @@ subcollection: local-load-balancer
 Effective June 01, 2019, IBM Cloud will no longer market or sell our Local Load Balancer service.
 {: shortdesc}
 
-As a customer, you can still receive support for this service until its End of Support date, which has yet to be announced. A 90-day EOS notification email will be sent at a later date. Customers are encouraged to upgrade to our latest full-featured load balancing offering: [IBM Cloud Load Balancer](/docs/loadbalancer-service?topic=loadbalancer-service-getting-started).
+As a customer, you can still receive support for this service until its End of Support date, 05-31-2020. A 90-day EOS notification email will be sent prior to the EOS date. Customers are encouraged to upgrade to our latest full-featured load balancing offering: [IBM Cloud Load Balancer](/docs/loadbalancer-service?topic=loadbalancer-service-getting-started).
 {: important}
 
 IBM Cloud Load Balancer offers a more enhanced customer experience, including:
